@@ -1,3 +1,10 @@
+#43 set noLimit=0
+Василий Перун [416999966] монеты 2563203, цена 1600, доход 25/ч, рабов 800, щит
+
+#44 bulkstat
+OK {"running":false,"done":300,"of":300,"fail":0,"spent":900000,"stop":"","sec":149}
+—
+
 #42 bulkstat
 OK {"running":true,"done":202,"of":300,"fail":0,"spent":606000,"stop":"","sec":73}
 —
