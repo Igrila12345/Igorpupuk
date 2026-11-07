@@ -1,1 +1,4 @@
-63 player 660964860
+64 me
+65 top n=5
+66 clans n=3
+67 autostat
