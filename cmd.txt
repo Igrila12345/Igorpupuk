@@ -1,4 +1,1 @@
-8 redeem
-9 clan id=222830640
-10 bulk n=500 gap=300
-11 me
+12 bulkstat
