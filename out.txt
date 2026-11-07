@@ -1,3 +1,9 @@
+#74 auto as=1 every=60 n=500 gap=500 collect=0
+автозакупка: каждые 60 мин, по 500, пауза 500 мс
+
+#75 autostat as=1
+каждые 60 мин, по 500, пауза 500 мс, следующая через 0 мин; сейчас ждёт; прошлая: куплено 0 на 0, стоп: Нельзя купить больше 500 рабов за час. Лимит сбросится в 01:05
+
 #72 auto as=1 every=60 n=500 gap=900 collect=1
 автозакупка: каждые 60 мин, по 500, пауза 900 мс
 
@@ -251,12 +257,4 @@ OK {"running":true,"done":190,"of":500,"fail":0,"spent":570000,"stop":"","sec":6
 
 #16 bulkstat
 OK {"running":true,"done":155,"of":500,"fail":0,"spent":465000,"stop":"","sec":54}
-—
-
-#15 bulkstat
-OK {"running":true,"done":138,"of":500,"fail":0,"spent":414000,"stop":"","sec":48}
-—
-
-#14 bulkstat
-OK {"running":true,"done":109,"of":500,"fail":0,"spent":327000,"stop":"","sec":39}
 —
