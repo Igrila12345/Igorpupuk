@@ -1,3 +1,7 @@
+#21 bulkstat
+OK {"running":true,"done":295,"of":500,"fail":0,"spent":885000,"stop":"","sec":104}
+—
+
 #20 bulkstat
 OK {"running":true,"done":278,"of":500,"fail":0,"spent":834000,"stop":"","sec":98}
 —
