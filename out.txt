@@ -1,3 +1,15 @@
+#68 auto off
+автозакупка выключена
+
+#69 admin ty=autoBots on=1 every=60 count=5000 tiers=5 price=1000 rate=10
+{"ok":true,"auto":{"on":true,"every":60,"count":5000,"tiers":5,"price":1000,"rate":10,"name":"","last":1794088491586,"total":0}}
+
+#70 set bal=11111111 as=1
+Shadow Morningstar [660964860] монеты 11111111, цена 1638400, доход 41/ч, рабов 2089
+
+#71 autostat
+выключена
+
 #64 me
 Василий Перун [416999966] монеты 52409393, цена 1600, доход 49/ч, рабов 1300
 limitLeft: 0
@@ -250,20 +262,3 @@ OK {"running":true,"done":74,"of":500,"fail":0,"spent":222000,"stop":"","sec":26
 #12 bulkstat
 OK {"running":true,"done":40,"of":500,"fail":0,"spent":120000,"stop":"","sec":14}
 —
-
-#8 redeem
-OK {"paid":80}
-Василий Перун [416999966] монеты 4999920, цена 400, доход 22/ч, рабов 0
-
-#9 clan id=222830640
-вступил в клан Requiem [222830640]
-
-#10 bulk n=500 gap=300
-OK {"started":500,"gap":300}
-—
-
-#11 me
-Василий Перун [416999966] монеты 4993920, цена 400, доход 22/ч, рабов 2
-limitLeft: 1000000000
-stones: 10
-gems: 0
