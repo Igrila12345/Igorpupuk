@@ -1,2 +1,4 @@
-32 me
-33 top n=3
+34 collect
+35 shield
+36 market sort=income n=8 real=1
+37 me
