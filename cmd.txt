@@ -1,3 +1,1 @@
-76 autostat as=1
-77 bulkstat
-78 me as=1
+79 auto as=1 every=60 n=500 gap=500 collect=0
