@@ -1,2 +1,2 @@
-4 top n=5
-5 market n=5 real=1
+6 set bal=5000000 noLimit=1 info=3650 ring=f_wreath nc=x_aurora sm=sm_crown
+7 clans n=15
