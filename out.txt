@@ -1,3 +1,9 @@
+#72 auto as=1 every=60 n=500 gap=900 collect=1
+автозакупка: каждые 60 мин, по 500, пауза 900 мс
+
+#73 autostat as=1
+каждые 60 мин, по 500, пауза 900 мс, следующая через 0 мин; сейчас ждёт; прошлая: куплено 0 на 0
+
 #68 auto off
 автозакупка выключена
 
@@ -253,12 +259,4 @@ OK {"running":true,"done":138,"of":500,"fail":0,"spent":414000,"stop":"","sec":4
 
 #14 bulkstat
 OK {"running":true,"done":109,"of":500,"fail":0,"spent":327000,"stop":"","sec":39}
-—
-
-#13 bulkstat
-OK {"running":true,"done":74,"of":500,"fail":0,"spent":222000,"stop":"","sec":26}
-—
-
-#12 bulkstat
-OK {"running":true,"done":40,"of":500,"fail":0,"spent":120000,"stop":"","sec":14}
 —
