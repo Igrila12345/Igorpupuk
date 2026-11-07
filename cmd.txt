@@ -1,1 +1,1 @@
-41 bulk n=300 gap=300 max=6000
+42 bulkstat
