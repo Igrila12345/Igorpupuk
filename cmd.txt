@@ -1,1 +1,2 @@
-57 members id=222830640
+58 auto every=60 n=500 gap=900 max=8000
+59 autostat
