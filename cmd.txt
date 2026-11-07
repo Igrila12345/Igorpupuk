@@ -1,3 +1,2 @@
-45 set gems=8999
-46 exclusive3
-47 me
+48 auto every=60 n=400 gap=900 max=8000
+49 autostat
