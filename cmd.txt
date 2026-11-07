@@ -1,2 +1,2 @@
-50 autostat
-51 me
+52 bulk n=500 gap=400 from=1065679388
+53 bulkstat
