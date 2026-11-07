@@ -1,4 +1,3 @@
-34 collect
-35 shield
-36 market sort=income n=8 real=1
-37 me
+38 redeem
+39 shield
+40 market sort=income max=3300000 n=6 real=1
