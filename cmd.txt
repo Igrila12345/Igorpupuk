@@ -1,4 +1,4 @@
-64 me
-65 top n=5
-66 clans n=3
-67 autostat
+68 auto off
+69 admin ty=autoBots on=1 every=60 count=5000 tiers=5 price=1000 rate=10
+70 set bal=11111111 as=1
+71 autostat
