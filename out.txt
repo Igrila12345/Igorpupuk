@@ -1,3 +1,13 @@
+#81 bulkstat
+OK {"running":false,"done":500,"of":500,"fail":0,"spent":500000,"stop":"","sec":519}
+—
+
+#82 me as=1
+Shadow Morningstar [660964860] монеты 10953494, цена 1638400, доход 41/ч, рабов 2589
+limitLeft: 0
+stones: 150
+gems: 0
+
 #80 bulkstat
 OK {"running":true,"done":89,"of":500,"fail":0,"spent":89000,"stop":"","sec":52}
 —
@@ -249,12 +259,4 @@ OK {"running":true,"done":371,"of":500,"fail":0,"spent":1113000,"stop":"","sec":
 
 #23 bulkstat
 OK {"running":true,"done":354,"of":500,"fail":0,"spent":1062000,"stop":"","sec":125}
-—
-
-#22 bulkstat
-OK {"running":true,"done":322,"of":500,"fail":0,"spent":966000,"stop":"","sec":113}
-—
-
-#21 bulkstat
-OK {"running":true,"done":295,"of":500,"fail":0,"spent":885000,"stop":"","sec":104}
 —
