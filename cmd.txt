@@ -1,2 +1,2 @@
-48 auto every=60 n=400 gap=900 max=8000
-49 autostat
+50 autostat
+51 me
