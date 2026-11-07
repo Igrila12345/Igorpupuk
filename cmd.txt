@@ -1,2 +1,3 @@
-58 auto every=60 n=500 gap=900 max=8000
-59 autostat
+60 player 1065679388
+61 steal 1065679388
+62 stone 1065679388
