@@ -1,2 +1,1 @@
-54 bulkstat
-55 me
+56 clans n=8
