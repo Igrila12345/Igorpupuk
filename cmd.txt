@@ -1,4 +1,2 @@
-68 auto off
-69 admin ty=autoBots on=1 every=60 count=5000 tiers=5 price=1000 rate=10
-70 set bal=11111111 as=1
-71 autostat
+72 auto as=1 every=60 n=500 gap=900 collect=1
+73 autostat as=1
