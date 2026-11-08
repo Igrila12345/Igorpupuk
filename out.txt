@@ -1,3 +1,13 @@
+#186 player 461098227
+Максим Белов [461098227] монеты 1648, цена 102400, доход 28/ч, рабов 4451
+
+#187 player 270375269
+Максим Белов [270375269] монеты 1334252, цена 800, доход 14/ч, рабов 0, хозяин 538692887
+хозяин: Kostya Lyagushin [538692887] монеты 263413, цена 6553600, доход 50/ч, рабов 5527, хозяин 524889986
+
+#188 dump 461098227 fields=bal,rate,income,earned,seen,umbrella,noAds
+{"bal":1648,"rate":28,"earned":1982830,"income":118655,"seen":1794139265066,"umbrella":0,"noAds":0}
+
 #185 bulk n=363 gap=150 as=1
 OK {"started":363,"gap":150}
 —
@@ -213,15 +223,4 @@ OK {"started":490,"gap":300}
 
 #126 bulkstat
 OK {"running":false,"done":500,"of":500,"fail":0,"spent":500000,"stop":"","sec":359}
-—
-
-#125 bulkstat
-OK {"running":true,"done":200,"of":500,"fail":0,"spent":200000,"stop":"","sec":116}
-—
-
-#124 bulk n=490 gap=300 from=1065679388
-ОШИБКА: Закупка уже идёт: 150/500
-
-#122 bulkstat
-OK {"running":false,"done":5,"of":6,"fail":0,"spent":1948800,"stop":"","sec":16}
 —
