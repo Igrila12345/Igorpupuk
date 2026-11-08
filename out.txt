@@ -1,3 +1,14 @@
+#85 top n=3
+1. Vitalik Zefir-Morningstar [1065679388] монеты 9263119, цена 13107200, доход 55/ч, рабов 50100
+2. Аделина Преображенская [1132299161] монеты 18427004, цена 409600, доход 37/ч, рабов 32106, хозяин 870580522
+3. Василий Ямашкин [599874417] монеты 36178919, цена 13107200, доход 55/ч, рабов 15906
+
+#86 me
+Василий Перун [416999966] монеты 52409393, цена 1600, доход 49/ч, рабов 1300
+limitLeft: 500
+stones: 10
+gems: 0
+
 #83 admin ty=autoBots on=0
 {"ok":true,"auto":{"on":false,"every":60,"count":10,"tiers":1,"price":100,"rate":10,"name":"","last":1794119954995,"total":19830}}
 
@@ -252,12 +263,4 @@ OK {"running":true,"done":441,"of":500,"fail":0,"spent":1323000,"stop":"","sec":
 
 #27 bulkstat
 OK {"running":true,"done":426,"of":500,"fail":0,"spent":1278000,"stop":"","sec":150}
-—
-
-#26 bulkstat
-OK {"running":true,"done":409,"of":500,"fail":0,"spent":1227000,"stop":"","sec":145}
-—
-
-#25 bulkstat
-OK {"running":true,"done":390,"of":500,"fail":0,"spent":1170000,"stop":"","sec":139}
 —
