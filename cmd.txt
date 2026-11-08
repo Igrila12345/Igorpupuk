@@ -66,3 +66,6 @@
 266 release id=765415562
 267 player 765415562
 268 me
+269 admin ty=give id=416999966 what=coins value=20000000
+270 redeem
+271 me
