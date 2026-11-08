@@ -1,1 +1,7 @@
 201 me
+202 me
+203 me as=1
+204 members 222830640
+205 autostat
+206 autostat as=1
+207 clans n=8
