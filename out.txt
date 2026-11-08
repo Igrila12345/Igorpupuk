@@ -1,3 +1,9 @@
+#113 me
+Василий Перун [416999966] монеты 51381713, цена 6400, доход 52/ч, рабов 2300
+limitLeft: 0
+stones: 10
+gems: 0
+
 #110 admin ty=give id=416999966 what=whip value=150
 {"ok":true}
 
@@ -269,7 +275,3 @@ OK {"running":false,"done":500,"of":500,"fail":0,"spent":171400,"stop":"","sec":
 limitLeft: 0
 stones: 10
 gems: 0
-
-#52 bulk n=500 gap=400 from=1065679388
-OK {"started":500,"gap":400}
-—
