@@ -62,3 +62,7 @@
 262 admin ty=find q=Пиков
 263 admin ty=find q=дама
 264 admin ty=find q=Queen
+265 buy id=765415562
+266 release id=765415562
+267 player 765415562
+268 me
