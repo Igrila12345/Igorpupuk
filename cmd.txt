@@ -1,1 +1,1 @@
-139 auto every=60 n=500 gap=300 collect=0
+140 bulkstat
