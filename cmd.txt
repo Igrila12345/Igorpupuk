@@ -17,3 +17,7 @@
 178 me as=1
 179 collect
 180 collect as=1
+181 autostat
+182 autostat as=1
+183 bulkstat
+184 clans n=8
