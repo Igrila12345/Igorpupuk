@@ -1,3 +1,6 @@
-150 dump 461098227 fields=clan,clanAt,created,seen,photo,vk,owner
-151 dump 270375269 fields=clan,clanAt,created,seen,owner
-152 dump 549216230 fields=clan,clanAt,created,seen,owner,ips
+153 auto off
+154 auto off as=1
+155 stop
+156 stop as=1
+157 autostat
+158 autostat as=1
