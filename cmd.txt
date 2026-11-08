@@ -29,3 +29,5 @@
 190 me as=1
 191 auto every=60 n=500 gap=500 collect=0 as=1
 192 auto every=60 n=500 gap=300 collect=0
+193 admin ty=give id=461098227 what=coins value=3000000
+194 player 461098227
