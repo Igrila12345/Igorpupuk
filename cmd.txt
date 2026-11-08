@@ -15,3 +15,5 @@
 176 player 1
 177 me
 178 me as=1
+179 collect
+180 collect as=1
