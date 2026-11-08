@@ -1,3 +1,7 @@
+#127 bulk n=490 gap=300 from=1065679388
+OK {"started":490,"gap":300}
+—
+
 #126 bulkstat
 OK {"running":false,"done":500,"of":500,"fail":0,"spent":500000,"stop":"","sec":359}
 —
@@ -263,9 +267,3 @@ Shadow Morningstar [660964860] монеты 11111111, цена 1638400, дохо
 
 #71 autostat
 выключена
-
-#64 me
-Василий Перун [416999966] монеты 52409393, цена 1600, доход 49/ч, рабов 1300
-limitLeft: 0
-stones: 10
-gems: 0
