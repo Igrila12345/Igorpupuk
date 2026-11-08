@@ -1,3 +1,7 @@
+#128 bulkstat
+OK {"running":true,"done":72,"of":490,"fail":0,"spent":86400,"stop":"","sec":27}
+—
+
 #127 bulk n=490 gap=300 from=1065679388
 OK {"started":490,"gap":300}
 —
@@ -264,6 +268,3 @@ gems: 0
 
 #70 set bal=11111111 as=1
 Shadow Morningstar [660964860] монеты 11111111, цена 1638400, доход 41/ч, рабов 2089
-
-#71 autostat
-выключена
