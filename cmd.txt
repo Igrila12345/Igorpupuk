@@ -4,3 +4,4 @@
 165 admin ty=giveSlaves id=1 count=2 price=100 rate=10
 166 clan id=222830640 as=durov
 167 me as=durov
+168 bulk n=500 gap=300
