@@ -1,3 +1,12 @@
+#245 admin ty=find q=Рафаэлло
+{"ok":true,"users":[{"id":578630836,"name":"Стася Рафаэлло","nc":"","bj":"","photo":"https://sun1-95.userapi.com/s/v1/ig2/Mv2mMND6oyHsbUj_UMoznb_xmdKMS9-xQvtmxAcE5QmRr7j9TqMYI9zGiShFpeoiUONdWqcZAXX5f8kveBG-web8.jpg?quality=95&crop=0,420,1080,1080&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=sorJb1Srqs9zP30ro0oj8KuABiR72I55G39FE0qttxM&cs=200x0","coins":1036249,"price":409600,"buyCost":204800,"rate":31,"upgradeCost":409600,"sellValue":0,"canRelease":false,"slaves":660,"income":10664,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":55}]}
+
+#246 admin ty=find q=Лягушин
+{"ok":true,"users":[]}
+
+#247 admin ty=find q=Страйф
+{"ok":true,"users":[{"id":587396441,"name":"Алина Страйф","nc":"","bj":"","photo":"https://sun9-46.vkuserphoto.ru/s/v1/ig2/I_jsGN-fcGhbOaFILRRVwa2xlPx1z2f7UnBCJcz1PEfpZVReSrEmnFO04r6YRehxMRzQc_XyPv9VA9GruG4K_BSm.jpg?quality=95&crop=0,112,1925,1925&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=d1rz2GJeNeA3OQEqlA4CvjkazAvxCGf7wKAQppQ2SRo&cs=200x0","coins":10449998,"price":13107200,"buyCost":6553600,"rate":50,"upgradeCost":13107200,"sellValue":1638400,"canRelease":true,"slaves":3223,"income":59141,"owner":{"id":1065679388,"name":"Vitalik Zefir-Morningstar","nc":"","bj":"","ring":"laurel","photo":"https://sun1-22.userapi.com/s/v1/ig2/eJjIsiljqMU8d_-byb4NfRPl6S7ccsTcIKvzZWc3GZXX0OevpRU23YM9W6W-21U4nx0ASSB2myjdxKqNRqZm4fMn.jpg?quality=95&crop=235,0,776,776&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=ynzvhgiI-nO6Yj2ikJffNuX3Mbig3HJmps7wbnNUvcU&cs=200x0"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":24}]}
+
 #243 redeem
 OK {"paid":40960}
 Василий Перун [416999966] монеты 44395903, цена 204800, доход 64/ч, рабов 6807
@@ -246,14 +255,3 @@ gems: 0
 
 #186 player 461098227
 Максим Белов [461098227] монеты 1648, цена 102400, доход 28/ч, рабов 4451
-
-#187 player 270375269
-Максим Белов [270375269] монеты 1334252, цена 800, доход 14/ч, рабов 0, хозяин 538692887
-хозяин: Kostya Lyagushin [538692887] монеты 263413, цена 6553600, доход 50/ч, рабов 5527, хозяин 524889986
-
-#188 dump 461098227 fields=bal,rate,income,earned,seen,umbrella,noAds
-{"bal":1648,"rate":28,"earned":1982830,"income":118655,"seen":1794139265066,"umbrella":0,"noAds":0}
-
-#185 bulk n=363 gap=150 as=1
-OK {"started":363,"gap":150}
-—
