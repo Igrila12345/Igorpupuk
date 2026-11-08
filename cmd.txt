@@ -1,2 +1,2 @@
-83 admin ty=autoBots on=0
-84 me as=1
+85 top n=3
+86 me
