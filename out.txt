@@ -1,3 +1,12 @@
+#262 admin ty=find q=Пиков
+{"ok":true,"users":[{"id":765415562,"name":"Пиковая Дама","nc":"","bj":"","photo":"https://sun1-20.userapi.com/s/v1/ig2/hn5FNR-IrB1mOyBICwRYm-AKaMYlpTOX2oIxXTSskqD0sH64gnTs6UXXGGn-zeOLrE3uVoBCzFYdtXVTEJdyCHNM.jpg?quality=95&crop=2,353,1077,1077&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=5n7uthMgTwBKlYdp1h4D-SGbD3d1Gb92GlnHF1dHUjk&cs=200x0","coins":7870116,"price":26214400,"buyCost":13107200,"rate":55,"upgradeCost":26214400,"sellValue":3276800,"canRelease":true,"slaves":647,"income":12840,"owner":{"id":1065679388,"name":"Vitalik Zefir-Morningstar","nc":"","bj":"","ring":"laurel","photo":"https://sun1-22.userapi.com/s/v1/ig2/eJjIsiljqMU8d_-byb4NfRPl6S7ccsTcIKvzZWc3GZXX0OevpRU23YM9W6W-21U4nx0ASSB2myjdxKqNRqZm4fMn.jpg?quality=95&crop=235,0,776,776&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=ynzvhgiI-nO6Yj2ikJffNuX3Mbig3HJmps7wbnNUvcU&cs=200x0"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":55}]}
+
+#263 admin ty=find q=дама
+{"ok":true,"users":[{"id":765415562,"name":"Пиковая Дама","nc":"","bj":"","photo":"https://sun1-20.userapi.com/s/v1/ig2/hn5FNR-IrB1mOyBICwRYm-AKaMYlpTOX2oIxXTSskqD0sH64gnTs6UXXGGn-zeOLrE3uVoBCzFYdtXVTEJdyCHNM.jpg?quality=95&crop=2,353,1077,1077&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=5n7uthMgTwBKlYdp1h4D-SGbD3d1Gb92GlnHF1dHUjk&cs=200x0","coins":7870116,"price":26214400,"buyCost":13107200,"rate":55,"upgradeCost":26214400,"sellValue":3276800,"canRelease":true,"slaves":647,"income":12840,"owner":{"id":1065679388,"name":"Vitalik Zefir-Morningstar","nc":"","bj":"","ring":"laurel","photo":"https://sun1-22.userapi.com/s/v1/ig2/eJjIsiljqMU8d_-byb4NfRPl6S7ccsTcIKvzZWc3GZXX0OevpRU23YM9W6W-21U4nx0ASSB2myjdxKqNRqZm4fMn.jpg?quality=95&crop=235,0,776,776&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=ynzvhgiI-nO6Yj2ikJffNuX3Mbig3HJmps7wbnNUvcU&cs=200x0"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":55}]}
+
+#264 admin ty=find q=Queen
+{"ok":true,"users":[]}
+
 #251 buy id=587396441
 OK {"paid":6553600}
 Василий Перун [416999966] монеты 37842303, цена 819200, доход 71/ч, рабов 6808, хозяин 881948076
@@ -228,19 +237,3 @@ Requiem [222830640], доход 47306934, владелец 461098227
 4. Юра Натфуллин [115374735] собрано 0, монеты 52300, рабов 0
 5. Максим Белов [270375269] собрано 0, монеты 1334252, рабов 0
 6. Данил Фролов-Дарков [549216230] собрано 0, монеты 31000, рабов 0
-
-#205 autostat
-каждые 60 мин, по 500, пауза 300 мс, следующая через 37 мин; сейчас ждёт; прошлая: куплено 500 на 500000
-
-#206 autostat as=1
-каждые 60 мин, по 500, пауза 500 мс, следующая через 28 мин; сейчас ждёт; прошлая: куплено 500 на 500000
-
-#207 clans n=8
-1. Elitę [161256065] доход 318728512, игроков 19
-2. MKL Imperial | 30к за вступление! [222116919] доход 237663882, игроков 38
-3. __Snow elves___Walkers__ [231068212] доход 213580058, игроков 7
-4. Idealist | 30к за вступление [229209629] доход 130825090, игроков 18
-5. 乂•ROLLEX•乂 [224328649] доход 63649734, игроков 27
-6. Requiem [222830640] доход 47306934, игроков 6
-7. ♛ DarkDragonS [207109241] доход 39535321, игроков 5
-8. Flotilia [239965393] доход 24893276, игроков 5
