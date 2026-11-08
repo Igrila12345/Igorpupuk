@@ -1,3 +1,7 @@
+#88 bulkstat
+OK {"running":true,"done":133,"of":500,"fail":0,"spent":133000,"stop":"","sec":52}
+—
+
 #87 bulk n=500 gap=300 from=1065679388
 OK {"started":500,"gap":300}
 —
@@ -260,7 +264,3 @@ gems: 0
 
 #30 clans n=1
 1. Elitę [161256065] доход 278528392, игроков 18
-
-#28 bulkstat
-OK {"running":true,"done":441,"of":500,"fail":0,"spent":1323000,"stop":"","sec":157}
-—
