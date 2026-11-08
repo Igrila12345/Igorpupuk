@@ -1,2 +1,3 @@
-131 me
-132 player 1065679388
+133 auto every=60 n=500 gap=300 collect=0
+134 autostat as=1
+135 autostat
