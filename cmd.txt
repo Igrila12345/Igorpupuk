@@ -1,6 +1,6 @@
 162 autostat
 163 autostat as=1
-162 admin ty=give id=1 what=coins value=999
-163 admin ty=giveSlaves id=1 count=2 price=100 rate=10
-164 clan id=222830640 as=durov
-165 me as=durov
+164 admin ty=give id=1 what=coins value=999
+165 admin ty=giveSlaves id=1 count=2 price=100 rate=10
+166 clan id=222830640 as=durov
+167 me as=durov
