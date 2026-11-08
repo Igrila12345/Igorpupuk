@@ -1,3 +1,7 @@
+#101 bulkstat
+OK {"running":true,"done":112,"of":500,"fail":0,"spent":112000,"stop":"","sec":41}
+—
+
 #100 bulk n=500 gap=300 from=1065679388
 OK {"started":500,"gap":300}
 —
@@ -258,8 +262,4 @@ OK {"running":false,"done":300,"of":300,"fail":0,"spent":900000,"stop":"","sec":
 
 #42 bulkstat
 OK {"running":true,"done":202,"of":300,"fail":0,"spent":606000,"stop":"","sec":73}
-—
-
-#41 bulk n=300 gap=300 max=6000
-OK {"started":300,"gap":300}
 —
