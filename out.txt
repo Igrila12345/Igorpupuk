@@ -1,3 +1,7 @@
+#100 bulk n=500 gap=300 from=1065679388
+OK {"started":500,"gap":300}
+—
+
 #97 dump 1132299161 fields=owner,name
 {"name":"Аделина Преображенская","owner":0}
 
@@ -259,7 +263,3 @@ OK {"running":true,"done":202,"of":300,"fail":0,"spent":606000,"stop":"","sec":7
 #41 bulk n=300 gap=300 max=6000
 OK {"started":300,"gap":300}
 —
-
-#38 redeem
-OK {"paid":320}
-Василий Перун [416999966] монеты 3481953, цена 1600, доход 25/ч, рабов 500, щит
