@@ -69,3 +69,8 @@
 269 admin ty=give id=416999966 what=coins value=20000000
 270 redeem
 271 me
+272 me
+273 me as=1
+274 autostat
+275 autostat as=1
+276 clans n=8
