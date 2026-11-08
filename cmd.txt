@@ -1,6 +1,2 @@
-153 auto off
-154 auto off as=1
-155 stop
-156 stop as=1
-157 autostat
-158 autostat as=1
+159 autostat
+160 autostat as=1
