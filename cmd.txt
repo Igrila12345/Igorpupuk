@@ -5,3 +5,12 @@
 205 autostat
 206 autostat as=1
 207 clans n=8
+208 redeem
+209 admin ty=give id=660964860 what=coins value=5000000
+210 redeem as=1
+211 player 115374735
+212 player 270375269
+213 player 549216230
+214 player 461098227
+215 me
+216 me as=1
