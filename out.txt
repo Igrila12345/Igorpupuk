@@ -1,3 +1,7 @@
+#168 bulk n=500 gap=300
+OK {"started":500,"gap":300}
+—
+
 #162 autostat
 выключена
 
@@ -222,8 +226,4 @@ gems: 0
 
 #106 bulkstat
 OK {"running":false,"done":500,"of":500,"fail":0,"spent":526400,"stop":"","sec":379}
-—
-
-#104 bulkstat
-OK {"running":false,"done":500,"of":500,"fail":0,"spent":526400,"stop":"","sec":367}
 —
