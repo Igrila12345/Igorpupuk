@@ -1,3 +1,1 @@
-110 admin ty=give id=416999966 what=whip value=150
-111 admin ty=give id=416999966 what=umbrella value=30
-112 admin ty=give id=416999966 what=chains value=150
+113 me
