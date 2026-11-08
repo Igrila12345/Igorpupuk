@@ -1,1 +1,2 @@
-101 bulkstat
+102 clans n=7
+103 members 222830640
