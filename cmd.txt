@@ -1,4 +1,3 @@
-146 list of=users w=pup>=1 fields=name,bal,clan n=10
-147 list of=users w=clan=222830640 fields=name,bal,clan n=10
-148 dump 461098227 fields=name,bal,rate,price,nst,info,ips
-149 dump 270375269 fields=name,bal,rate,price,nst,info,ips
+150 dump 461098227 fields=clan,clanAt,created,seen,photo,vk,owner
+151 dump 270375269 fields=clan,clanAt,created,seen,owner
+152 dump 549216230 fields=clan,clanAt,created,seen,owner,ips
