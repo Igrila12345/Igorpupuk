@@ -59,3 +59,6 @@
 259 player 538692887
 260 player 578630836
 261 me
+262 admin ty=find q=Пиков
+263 admin ty=find q=дама
+264 admin ty=find q=Queen
