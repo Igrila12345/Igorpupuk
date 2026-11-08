@@ -1,3 +1,2 @@
-159 autostat
-160 autostat as=1
-161 player 1
+162 autostat
+163 autostat as=1
