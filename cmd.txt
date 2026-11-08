@@ -1,2 +1,2 @@
-81 bulkstat
-82 me as=1
+83 admin ty=autoBots on=0
+84 me as=1
