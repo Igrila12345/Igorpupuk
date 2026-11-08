@@ -42,3 +42,6 @@
 242 me
 243 redeem
 244 me
+245 admin ty=find q=Рафаэлло
+246 admin ty=find q=Лягушин
+247 admin ty=find q=Страйф
