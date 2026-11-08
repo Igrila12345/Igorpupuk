@@ -1,3 +1,7 @@
+#130 bulkstat
+OK {"running":true,"done":471,"of":490,"fail":0,"spent":618000,"stop":"","sec":174}
+—
+
 #129 bulkstat
 OK {"running":true,"done":455,"of":490,"fail":0,"spent":595600,"stop":"","sec":166}
 —
@@ -266,6 +270,3 @@ gems: 0
 
 #68 auto off
 автозакупка выключена
-
-#69 admin ty=autoBots on=1 every=60 count=5000 tiers=5 price=1000 rate=10
-{"ok":true,"auto":{"on":true,"every":60,"count":5000,"tiers":5,"price":1000,"rate":10,"name":"","last":1794088491586,"total":0}}
