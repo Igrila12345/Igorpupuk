@@ -1,3 +1,46 @@
+#251 buy id=587396441
+OK {"paid":6553600}
+Василий Перун [416999966] монеты 37842303, цена 819200, доход 71/ч, рабов 6808, хозяин 881948076
+
+#252 buy id=421556147
+OK {"paid":3276800}
+Василий Перун [416999966] монеты 34565503, цена 819200, доход 71/ч, рабов 6809, хозяин 881948076
+
+#253 buy id=538692887
+OK {"paid":6553600}
+Василий Перун [416999966] монеты 28011903, цена 819200, доход 71/ч, рабов 6810, хозяин 881948076
+
+#254 release id=587396441
+OK 
+Василий Перун [416999966] монеты 28011903, цена 819200, доход 71/ч, рабов 6809, хозяин 881948076
+
+#255 release id=421556147
+OK 
+Василий Перун [416999966] монеты 28011903, цена 819200, доход 71/ч, рабов 6808, хозяин 881948076
+
+#256 release id=538692887
+OK 
+Василий Перун [416999966] монеты 28011903, цена 819200, доход 71/ч, рабов 6807, хозяин 881948076
+
+#257 player 587396441
+Алина Страйф [587396441] монеты 10449998, цена 13107200, доход 55/ч, рабов 3223
+
+#258 player 421556147
+Mixail Lyagushin [421556147] монеты 553964, цена 6553600, доход 50/ч, рабов 7529
+
+#259 player 538692887
+Kostya Lyagushin [538692887] монеты 1525188, цена 13107200, доход 55/ч, рабов 5226
+
+#260 player 578630836
+Стася Рафаэлло [578630836] монеты 1036249, цена 204800, доход 31/ч, рабов 660
+
+#261 me
+Василий Перун [416999966] монеты 28011903, цена 819200, доход 71/ч, рабов 6807, хозяин 881948076
+limitLeft: 493
+stones: 10
+gems: 0
+хозяин: Александр Мдаээ [881948076] монеты 217073, цена 1600, доход 15/ч, рабов 51
+
 #248 admin ty=find q=Lyagushin
 {"ok":true,"users":[{"id":421556147,"name":"Mixail Lyagushin","nc":"","bj":"","photo":"https://sun1-30.userapi.com/s/v1/ig2/mYQO0gEo78uYt_VHunkh58XGWi8cG7DAAfaynv4AdhyvX1eKngwEqG12HuxUgcL0YH62Gv3j7PK-alZCrmEsAX_n.jpg?quality=95&crop=1,61,894,894&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=3yat-JbZUvR0kQgEc755adE77-dEFPblHCUmyw-VXRI&cs=200x0","coins":553964,"price":6553600,"buyCost":3276800,"rate":45,"upgradeCost":6553600,"sellValue":819200,"canRelease":true,"slaves":7529,"income":128997,"owner":{"id":1065679388,"name":"Vitalik Zefir-Morningstar","nc":"","bj":"","ring":"laurel","photo":"https://sun1-22.userapi.com/s/v1/ig2/eJjIsiljqMU8d_-byb4NfRPl6S7ccsTcIKvzZWc3GZXX0OevpRU23YM9W6W-21U4nx0ASSB2myjdxKqNRqZm4fMn.jpg?quality=95&crop=235,0,776,776&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=ynzvhgiI-nO6Yj2ikJffNuX3Mbig3HJmps7wbnNUvcU&cs=200x0"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":13},{"id":538692887,"name":"Kostya Lyagushin","nc":"","bj":"","photo":"https://sun1-14.userapi.com/s/v1/ig2/IRKgUp9vTmMYC1Wmb2RwJC7fj_PQCYPxvRKoxKqTHDx7oFtINQclaT__FjObemRIfjvlJPCSfMuX6sUi_omPKkeV.jpg?quality=95&crop=0,0,734,734&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=y7DB3N_0yWguGJgq2YH4m7_3VJyzG5AmMsWjZaNlzDg&cs=200x0","coins":1525188,"price":13107200,"buyCost":6553600,"rate":50,"upgradeCost":13107200,"sellValue":1638400,"canRelease":true,"slaves":5226,"income":83404,"owner":{"id":524889986,"name":"Елисей Булавин","nc":"","bj":"","ring":"laurel","photo":"https://sun1-26.vkuserphoto.ru/impg/DW4IDqvukChyc-WPXmzIot46En40R00idiUAXw/l5w5aIHioYc.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=10ad7d7953daabb7b0e707fdfb7ebefd&u=I6EtahnrCRLlyd0MhT2raQt6ydhuyxX4s72EHGuUSoM&cs=200x200"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":17}]}
 
@@ -201,53 +244,3 @@ Requiem [222830640], доход 47306934, владелец 461098227
 6. Requiem [222830640] доход 47306934, игроков 6
 7. ♛ DarkDragonS [207109241] доход 39535321, игроков 5
 8. Flotilia [239965393] доход 24893276, игроков 5
-
-#201 me
-Василий Перун [416999966] монеты 47504617, цена 12800, доход 54/ч, рабов 5488, хозяин 452704603
-limitLeft: 500
-stones: 10
-gems: 0
-хозяин: Максим Максимов [452704603] монеты 1847157, цена 6553600, доход 50/ч, рабов 952
-
-#195 me
-Василий Перун [416999966] монеты 48497407, цена 6400, доход 52/ч, рабов 4495
-limitLeft: 500
-stones: 10
-gems: 0
-
-#196 me as=1
-Shadow Morningstar [660964860] монеты 4876301, цена 6553600, доход 50/ч, рабов 9636
-limitLeft: 500
-stones: 168
-gems: 0
-
-#197 autostat
-каждые 60 мин, по 500, пауза 300 мс, следующая через 18 мин; сейчас ждёт; прошлая: куплено 500 на 500000
-
-#198 autostat as=1
-каждые 60 мин, по 500, пауза 500 мс, следующая через 9 мин; сейчас ждёт; прошлая: куплено 500 на 500000
-
-#199 clans n=8
-1. Elitę [161256065] доход 311234847, игроков 19
-2. MKL Imperial | 30к за вступление! [222116919] доход 233269107, игроков 38
-3. __Snow elves___Walkers__ [231068212] доход 195922378, игроков 7
-4. Idealist | 30к за вступление [229209629] доход 124342191, игроков 18
-5. 乂•ROLLEX•乂 [224328649] доход 61830680, игроков 26
-6. Requiem [222830640] доход 46211280, игроков 5
-7. ♛ DarkDragonS [207109241] доход 39531628, игроков 6
-8. Flotilia [239965393] доход 24893276, игроков 5
-
-#200 player 461098227
-Максим Белов [461098227] монеты 1817938, цена 102400, доход 28/ч, рабов 5401
-
-#193 admin ty=give id=461098227 what=coins value=3000000
-{"ok":true,"value":3001648}
-
-#194 player 461098227
-Максим Белов [461098227] монеты 3001648, цена 102400, доход 28/ч, рабов 4451
-
-#192 auto every=60 n=500 gap=300 collect=0
-автозакупка: каждые 60 мин, по 500, пауза 300 мс
-
-#191 auto every=60 n=500 gap=500 collect=0 as=1
-автозакупка: каждые 60 мин, по 500, пауза 500 мс
