@@ -1,1 +1,5 @@
-140 bulkstat
+141 acc
+142 me
+143 me as=1
+144 autostat
+145 autostat as=1
