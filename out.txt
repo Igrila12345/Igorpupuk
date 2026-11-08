@@ -1,3 +1,15 @@
+#177 me
+Василий Перун [416999966] монеты 47245601, цена 6400, доход 52/ч, рабов 3798
+limitLeft: 0
+stones: 10
+gems: 0
+
+#178 me as=1
+Shadow Morningstar [660964860] монеты 6335679, цена 1638400, доход 41/ч, рабов 8393
+limitLeft: 363
+stones: 168
+gems: 0
+
 #172 admin ty=setBalance id=798896577 value=2147483647
 {"ok":true}
 
@@ -211,13 +223,3 @@ gems: 0
 
 #115 autostat
 выключена
-
-#116 bulkstat
-OK {"running":false,"done":500,"of":500,"fail":0,"spent":526400,"stop":"","sec":1174}
-—
-
-#117 me as=1
-Shadow Morningstar [660964860] монеты 7567469, цена 1638400, доход 41/ч, рабов 7405
-limitLeft: 500
-stones: 150
-gems: 0
