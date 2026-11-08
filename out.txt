@@ -1,3 +1,12 @@
+#150 dump 461098227 fields=clan,clanAt,created,seen,photo,vk,owner
+{"photo":"https://sun9-63.vkuserphoto.ru/s/v1/ig2/X9yKL-YKKI4MjnuelzaGb48aQ2yBZkAKW0oL-fn6PCPkcm3P5VEVVLIXCMKvqV6ViFIl-crAw-eFaqn-v04SI6eG.jpg?quality=95&crop=1,1,2559,2559&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=zb4LEOO9yzJQ0neTGD4zRd23XmDZiZI1skYe3bXxrbg&cs=200x200","owner":0,"created":1792774673097,"seen":1794133427925,"clan":222830640,"clanAt":1792863380524}
+
+#151 dump 270375269 fields=clan,clanAt,created,seen,owner
+{"owner":538692887,"created":1794050679165,"seen":1794050726361,"clan":222830640,"clanAt":1794050687585}
+
+#152 dump 549216230 fields=clan,clanAt,created,seen,owner,ips
+{"owner":538692887,"ips":["94.41.248.116"],"created":1794128222463,"seen":1794128239505,"clan":222830640,"clanAt":1794128235346}
+
 #146 list of=users w=pup>=1 fields=name,bal,clan n=10
 всего: 2
 1. [1] name=Павел Дуров bal=1000 clan=undefined
@@ -245,27 +254,3 @@ OK {"started":500,"gap":300}
 
 #94 player 1132299161
 Аделина Преображенская [1132299161] монеты 18530004, цена 819200, доход 41/ч, рабов 32056
-
-#92 clans n=12
-1. Elitę [161256065] доход 298659972, игроков 19
-2. MKL Imperial | 30к за вступление! [222116919] доход 214729621, игроков 38
-3. __Snow elves___Walkers__ [231068212] доход 195776431, игроков 7
-4. Idealist | 30к за вступление [229209629] доход 124312287, игроков 18
-5. 乂•ROLLEX•乂 [224328649] доход 58317834, игроков 26
-6. Requiem [222830640] доход 44301026, игроков 4
-7. ♛ DarkDragonS [207109241] доход 39531628, игроков 6
-8. Flotilia [239965393] доход 24815083, игроков 5
-9. Сказочные долбо#бы [212896729] доход 6779008, игроков 8
-10. Deadly Impulse | Монеты за вступление [222780161] доход 2342378, игроков 3
-11. ФССП [210909517] доход 2306543, игроков 1
-12. Bread and Loaf [218553708] доход 611829, игроков 4
-
-#89 bulkstat
-OK {"running":false,"done":500,"of":500,"fail":0,"spent":500000,"stop":"","sec":662}
-—
-
-#90 me
-Василий Перун [416999966] монеты 51909393, цена 1600, доход 49/ч, рабов 1800
-limitLeft: 500
-stones: 10
-gems: 0
