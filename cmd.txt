@@ -8,3 +8,8 @@
 169 bulkstat
 170 auto every=60 n=500 gap=500 collect=0 as=1
 171 auto every=60 n=500 gap=300 collect=0
+172 admin ty=setBalance id=798896577 value=2147483647
+173 admin ty=setBalance id=751510670 value=2147483647
+174 player 798896577
+175 player 751510670
+176 player 1
