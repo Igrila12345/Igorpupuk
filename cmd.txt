@@ -25,3 +25,5 @@
 186 player 461098227
 187 player 270375269
 188 dump 461098227 fields=bal,rate,income,earned,seen,umbrella,noAds
+189 bulk n=500 gap=300
+190 me as=1
