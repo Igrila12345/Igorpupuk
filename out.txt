@@ -1,3 +1,7 @@
+#140 bulkstat
+OK {"running":true,"done":57,"of":500,"fail":0,"spent":85500,"stop":"","sec":20}
+—
+
 #139 auto every=60 n=500 gap=300 collect=0
 автозакупка: каждые 60 мин, по 500, пауза 300 мс
 
@@ -269,7 +273,3 @@ Shadow Morningstar [660964860] монеты 10953494, цена 1638400, дохо
 limitLeft: 0
 stones: 150
 gems: 0
-
-#80 bulkstat
-OK {"running":true,"done":89,"of":500,"fail":0,"spent":89000,"stop":"","sec":52}
-—
