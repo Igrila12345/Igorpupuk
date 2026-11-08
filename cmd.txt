@@ -74,3 +74,6 @@
 274 autostat
 275 autostat as=1
 276 clans n=8
+277 auto off as=1
+278 autostat
+279 autostat as=1
