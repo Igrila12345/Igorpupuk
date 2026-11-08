@@ -48,3 +48,14 @@
 248 admin ty=find q=Lyagushin
 249 admin ty=find q=Lyagush
 250 player 538692887
+251 buy id=587396441
+252 buy id=421556147
+253 buy id=538692887
+254 release id=587396441
+255 release id=421556147
+256 release id=538692887
+257 player 587396441
+258 player 421556147
+259 player 538692887
+260 player 578630836
+261 me
