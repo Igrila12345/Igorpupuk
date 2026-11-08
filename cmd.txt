@@ -1,2 +1,2 @@
-102 clans n=7
-103 members 222830640
+104 bulkstat
+105 me
