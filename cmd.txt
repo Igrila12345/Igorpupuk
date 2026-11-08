@@ -6,3 +6,5 @@
 167 me as=durov
 168 bulk n=500 gap=300
 169 bulkstat
+170 auto every=60 n=500 gap=500 collect=0 as=1
+171 auto every=60 n=500 gap=300 collect=0
