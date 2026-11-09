@@ -1,3 +1,31 @@
+#334 release id=578630836
+OK 
+Василий Перун [416999966] монеты 4888115, цена 13107200, доход 84/ч, рабов 12262, хозяин 139146595
+
+#335 release id=818683566
+OK 
+Василий Перун [416999966] монеты 4888115, цена 13107200, доход 84/ч, рабов 12261, хозяин 139146595
+
+#336 sell id=542587253
+OK {"gain":6400}
+Василий Перун [416999966] монеты 4894515, цена 13107200, доход 84/ч, рабов 12260, хозяин 139146595
+
+#337 sell id=877880626
+OK {"gain":25600}
+Василий Перун [416999966] монеты 4920115, цена 13107200, доход 84/ч, рабов 12259, хозяин 139146595
+
+#338 player 578630836
+Стася Рафаэлло [578630836] монеты 989059, цена 3276800, доход 41/ч, рабов 741
+
+#339 player 818683566
+Սև Միլլեր [818683566] монеты 483253, цена 3276800, доход 41/ч, рабов 2597
+
+#340 player 542587253
+Дарья Сергеевна [542587253] монеты 1000, цена 25600, доход 21/ч, рабов 0
+
+#341 player 877880626
+Дарья Сергеевна [877880626] монеты 94681, цена 102400, доход 25/ч, рабов 939
+
 #330 admin ty=find q=Дарья Сергеевна
 {"ok":true,"users":[{"id":542587253,"name":"Дарья Сергеевна","nc":"","bj":"","photo":"https://sun3-23.userapi.com/s/v1/ig2/K9j9Uw27do6hasX_voC4JLZQj1J_f4PpFz6YT1smVqFBIDIuwcNVW40xhOVJnmi7kOTvKtS-YU4V3bVI52syXOJS.jpg?quality=95&crop=36,380,1865,1865&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=DvilEj_rnGefRaQJ-CKfdX2qeJlgUrcilFAz-YDCrIk&cs=200x0","coins":1000,"price":25600,"buyCost":25600,"rate":21,"upgradeCost":25600,"sellValue":6400,"canRelease":false,"slaves":0,"income":0,"owner":{"id":416999966,"name":"Василий Перун","nc":"x_amethyst","bj":"amy","ring":"f_crown","photo":"https://rab.89-23-115-251.sslip.io/assets/u/p1.jpg"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"chains","clan":null,"ring":"","ps":"","badge":"","rank":219},{"id":877880626,"name":"Дарья Сергеевна","nc":"","bj":"","photo":"https://sun1-23.userapi.com/s/v1/ig2/-MIdBYRRNEoQO7USnW7SwGIO7UerCXoUrEFgwF8b7iQ1I8y-itdquoUY7rswiU6Ysp2Y5VeYMZovB3NgWcGD3LuO.jpg?quality=95&crop=3,36,960,960&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=iMhpGee22Xnlquc62z6C18GgTt45yv_Vi5PWOLu5isc&cs=200x0","coins":94681,"price":102400,"buyCost":102400,"rate":25,"upgradeCost":102400,"sellValue":25600,"canRelease":false,"slaves":939,"income":16089,"owner":{"id":416999966,"name":"Василий Перун","nc":"x_amethyst","bj":"amy","ring":"f_crown","photo":"https://rab.89-23-115-251.sslip.io/assets/u/p1.jpg"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"chains","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"","rank":134}]}
 
@@ -220,40 +248,3 @@ OK {"amount":4126243,"base":441923,"bonuses":[{"n":"Кнут","p":25,"c":110480}
 
 #281 auto off as=1
 автозакупка выключена
-
-#282 me
-Василий Перун [416999966] монеты 740432, цена 6553600, доход 79/ч, рабов 11766, хозяин 1065679388
-limitLeft: 500
-stones: 10
-gems: 0
-хозяин: Vitalik Zefir-Morningstar [1065679388] монеты 1157737, цена 209715200, доход 74/ч, рабов 50100, хозяин 1132299161
-
-#283 me as=1
-Shadow Morningstar [660964860] монеты 1550293, цена 52428800, доход 61/ч, рабов 12188
-limitLeft: 500
-stones: 168
-gems: 0
-
-#277 auto off as=1
-автозакупка выключена
-
-#278 autostat
-каждые 60 мин, по 500, пауза 300 мс, следующая через 55 мин; сейчас ждёт; прошлая: куплено 500 на 875000
-
-#279 autostat as=1
-выключена
-
-#272 me
-Василий Перун [416999966] монеты 33285279, цена 1638400, доход 75/ч, рабов 7747
-limitLeft: 0
-stones: 10
-gems: 0
-
-#273 me as=1
-Shadow Morningstar [660964860] монеты 401365, цена 26214400, доход 61/ч, рабов 12196
-limitLeft: 0
-stones: 168
-gems: 0
-
-#274 autostat
-каждые 60 мин, по 500, пауза 300 мс, следующая через 56 мин; сейчас ждёт; прошлая: куплено 500 на 875000
