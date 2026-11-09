@@ -1,3 +1,2 @@
-293 list of=users w=id>=900425000 w1=id<=999999999 n=1
-294 list of=users w=id>=900425000 w1=id<=999999999 w2=owner=0 n=1
-295 list of=users w=id>=900425000 w1=id<=999999999 w2=owner>=1 sort=-id fields=owner n=6
+296 player 866257381
+297 list of=users w=owner=866257381 w1=id>=900425000 n=1
