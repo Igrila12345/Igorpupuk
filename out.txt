@@ -1,3 +1,12 @@
+#307 acc add=1132299161
+Аккаунты под управлением: Аделина Преображенская [1132299161]
+
+#308 me as=1132299161
+Аделина Преображенская [1132299161] монеты 37651383, цена 104857600, доход 70/ч, рабов 30792
+limitLeft: 500
+stones: 34
+gems: 7800
+
 #304 collect
 OK {"amount":4126243,"base":441923,"bonuses":[{"n":"Кнут","p":25,"c":110480}]}
 Василий Перун [416999966] монеты 5888115, цена 13107200, доход 84/ч, рабов 11763, хозяин 139146595
@@ -247,10 +256,3 @@ gems: 0
 
 #249 admin ty=find q=Lyagush
 {"ok":true,"users":[{"id":421556147,"name":"Mixail Lyagushin","nc":"","bj":"","photo":"https://sun1-30.userapi.com/s/v1/ig2/mYQO0gEo78uYt_VHunkh58XGWi8cG7DAAfaynv4AdhyvX1eKngwEqG12HuxUgcL0YH62Gv3j7PK-alZCrmEsAX_n.jpg?quality=95&crop=1,61,894,894&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=3yat-JbZUvR0kQgEc755adE77-dEFPblHCUmyw-VXRI&cs=200x0","coins":553964,"price":6553600,"buyCost":3276800,"rate":45,"upgradeCost":6553600,"sellValue":819200,"canRelease":true,"slaves":7529,"income":128997,"owner":{"id":1065679388,"name":"Vitalik Zefir-Morningstar","nc":"","bj":"","ring":"laurel","photo":"https://sun1-22.userapi.com/s/v1/ig2/eJjIsiljqMU8d_-byb4NfRPl6S7ccsTcIKvzZWc3GZXX0OevpRU23YM9W6W-21U4nx0ASSB2myjdxKqNRqZm4fMn.jpg?quality=95&crop=235,0,776,776&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=ynzvhgiI-nO6Yj2ikJffNuX3Mbig3HJmps7wbnNUvcU&cs=200x0"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":13},{"id":538692887,"name":"Kostya Lyagushin","nc":"","bj":"","photo":"https://sun1-14.userapi.com/s/v1/ig2/IRKgUp9vTmMYC1Wmb2RwJC7fj_PQCYPxvRKoxKqTHDx7oFtINQclaT__FjObemRIfjvlJPCSfMuX6sUi_omPKkeV.jpg?quality=95&crop=0,0,734,734&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=y7DB3N_0yWguGJgq2YH4m7_3VJyzG5AmMsWjZaNlzDg&cs=200x0","coins":1525188,"price":13107200,"buyCost":6553600,"rate":50,"upgradeCost":13107200,"sellValue":1638400,"canRelease":true,"slaves":5226,"income":83404,"owner":{"id":524889986,"name":"Елисей Булавин","nc":"","bj":"","ring":"laurel","photo":"https://sun1-26.vkuserphoto.ru/impg/DW4IDqvukChyc-WPXmzIot46En40R00idiUAXw/l5w5aIHioYc.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=10ad7d7953daabb7b0e707fdfb7ebefd&u=I6EtahnrCRLlyd0MhT2raQt6ydhuyxX4s72EHGuUSoM&cs=200x200"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":17}]}
-
-#250 player 538692887
-Kostya Lyagushin [538692887] монеты 1525188, цена 6553600, доход 50/ч, рабов 5226, хозяин 524889986
-хозяин: Елисей Булавин [524889986] монеты 945612, цена 819200, доход 37/ч, рабов 471, хозяин 818683566
-
-#245 admin ty=find q=Рафаэлло
-{"ok":true,"users":[{"id":578630836,"name":"Стася Рафаэлло","nc":"","bj":"","photo":"https://sun1-95.userapi.com/s/v1/ig2/Mv2mMND6oyHsbUj_UMoznb_xmdKMS9-xQvtmxAcE5QmRr7j9TqMYI9zGiShFpeoiUONdWqcZAXX5f8kveBG-web8.jpg?quality=95&crop=0,420,1080,1080&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=sorJb1Srqs9zP30ro0oj8KuABiR72I55G39FE0qttxM&cs=200x0","coins":1036249,"price":409600,"buyCost":204800,"rate":31,"upgradeCost":409600,"sellValue":0,"canRelease":false,"slaves":660,"income":10664,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":55}]}
