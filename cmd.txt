@@ -24,3 +24,6 @@
 324 me as=1
 325 me as=1132299161
 326 bulk n=500 gap=20
+327 bulkstat
+328 me
+329 autostat
