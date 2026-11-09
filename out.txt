@@ -1,3 +1,30 @@
+#357 bulkstat
+OK {"running":false,"done":499,"of":500,"fail":0,"spent":998000,"stop":"Нельзя купить больше 500 рабов за час. Лимит сбросится в 23:05","sec":560}
+—
+
+#358 me
+Василий Перун [416999966] монеты 3975675, цена 13107200, доход 84/ч, рабов 12757, хозяин 139146595
+limitLeft: 0
+stones: 10
+gems: 0
+хозяин: Виталий Аркадьевич [139146595] монеты 13383606, цена 13107200, доход 50/ч, рабов 5175
+
+#359 me as=1
+Shadow Morningstar [660964860] монеты 6752948, цена 52428800, доход 61/ч, рабов 13188
+limitLeft: 0
+stones: 183
+gems: 0
+
+#360 me as=1132299161
+Аделина Преображенская [1132299161] монеты 35652983, цена 104857600, доход 70/ч, рабов 31792
+limitLeft: 0
+stones: 34
+gems: 7800
+
+#361 player 1
+Павел Дуров [1] монеты 1684, цена 1600, доход 14/ч, рабов 0, хозяин 1132299161
+хозяин: Аделина Преображенская [1132299161] монеты 35652983, цена 104857600, доход 70/ч, рабов 31792
+
 #356 bulk n=500 gap=20
 OK {"started":500,"gap":150}
 —
@@ -224,26 +251,3 @@ OK {"amount":4126243,"base":441923,"bonuses":[{"n":"Кнут","p":25,"c":110480}
 
 #302 admin ty=ban id=900328537 on=1
 {"ok":true}
-
-#303 market n=2 sort=income
-всего: 4007
-Аделина Преображенская [1132299161] монеты 4791246, цена 104857600, доход 70/ч, рабов 30792
-卂刀从工尺卂乚口リ 口下下工匚工卂乚 [406634157] монеты 1909, цена 104857600, доход 67/ч, рабов 18074
-
-#300 list of=users w=bot>=1 w1=rate>150 fields=name,rate,owner,price n=10
-всего: 6
-1. [900029874] name=Данил Крылов rate=162 owner=406634157 price=6400
-2. [900029875] name=Руслан Волков rate=164 owner=406634157 price=6400
-3. [900029876] name=Павел Фомин rate=161 owner=406634157 price=6400
-4. [900029877] name=Кирилл Зайцев rate=162 owner=406634157 price=6400
-5. [900328509] name=Алина Волков rate=5000000 owner=0 price=999999999
-6. [900328537] name=Марат Лисин rate=2147483647 owner=0 price=2147483647
-
-#298 admin ty=purgeRich max=150 dry=1
-{"ok":true,"bots":6,"owned":4,"real":0}
-
-#299 admin ty=purgeFree keep=999999 dry=1
-ОШИБКА: Нет админ-команды: purgeFree. Есть: ui, suspects, banScripters, banSuspects, dismiss, dismissMany, banMany, dismissAll, badAuthList, badAuthClear, player, banWithAlts, multi, stats, resetPrices, rules, setRules, resetRules, setStones, setLag, setTop, setBalance, grant, give, addGems, addRubies, ban, promo, clansList, promoList, promoDel, clanFake, resetClans, addBots, autoBots, giveSlaves, purgeRich, giveAll, restoreSlaves, takeSlaves, petGive, setSlotLuck, setWallPlus, setNoDelay, setNoLimit, resetRabbits, unban, trimBots, removeBots, find
-
-#296 player 866257381
-Арсэн Сагадеев-Кэрролл [866257381] монеты 1700, цена 51200, доход 23/ч, рабов 15
