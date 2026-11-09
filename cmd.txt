@@ -13,3 +13,8 @@
 354 bulk n=500 gap=20 as=1132299161
 355 bulk n=500 gap=20 as=1
 356 bulk n=500 gap=20
+357 bulkstat
+358 me
+359 me as=1
+360 me as=1132299161
+361 player 1
