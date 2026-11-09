@@ -1,3 +1,9 @@
+#298 admin ty=purgeRich max=150 dry=1
+{"ok":true,"bots":6,"owned":4,"real":0}
+
+#299 admin ty=purgeFree keep=999999 dry=1
+ОШИБКА: Нет админ-команды: purgeFree. Есть: ui, suspects, banScripters, banSuspects, dismiss, dismissMany, banMany, dismissAll, badAuthList, badAuthClear, player, banWithAlts, multi, stats, resetPrices, rules, setRules, resetRules, setStones, setLag, setTop, setBalance, grant, give, addGems, addRubies, ban, promo, clansList, promoList, promoDel, clanFake, resetClans, addBots, autoBots, giveSlaves, purgeRich, giveAll, restoreSlaves, takeSlaves, petGive, setSlotLuck, setWallPlus, setNoDelay, setNoLimit, resetRabbits, unban, trimBots, removeBots, find
+
 #296 player 866257381
 Арсэн Сагадеев-Кэрролл [866257381] монеты 1700, цена 51200, доход 23/ч, рабов 15
 
@@ -246,11 +252,3 @@ OK {"paid":6400}
 #232 buy id=549216230
 OK {"paid":1600}
 Василий Перун [416999966] монеты 46017727, цена 102400, доход 62/ч, рабов 6811, хозяин 881948076
-
-#233 buy id=461098227
-OK {"paid":1638400}
-Василий Перун [416999966] монеты 44379327, цена 102400, доход 62/ч, рабов 6812, хозяин 881948076
-
-#234 sell id=115374735
-OK {"gain":800}
-Василий Перун [416999966] монеты 44380127, цена 102400, доход 62/ч, рабов 6811, хозяин 881948076
