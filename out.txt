@@ -1,3 +1,26 @@
+#322 bulkstat
+OK {"running":false,"done":500,"of":500,"fail":0,"spent":1000000,"stop":"","sec":184}
+—
+
+#323 me
+Василий Перун [416999966] монеты 5888115, цена 13107200, доход 84/ч, рабов 11763, хозяин 139146595
+limitLeft: 500
+stones: 10
+gems: 0
+хозяин: Виталий Аркадьевич [139146595] монеты 13507225, цена 13107200, доход 50/ч, рабов 4421
+
+#324 me as=1
+Shadow Morningstar [660964860] монеты 7752948, цена 52428800, доход 61/ч, рабов 12688
+limitLeft: 0
+stones: 183
+gems: 0
+
+#325 me as=1132299161
+Аделина Преображенская [1132299161] монеты 36651783, цена 104857600, доход 70/ч, рабов 31292
+limitLeft: 0
+stones: 34
+gems: 7800
+
 #321 bulk n=500 gap=20
 ОШИБКА: Закупка уже идёт: 427/500
 
@@ -240,19 +263,3 @@ OK
 
 #267 player 765415562
 Пиковая Дама [765415562] монеты 7870116, цена 26214400, доход 61/ч, рабов 647
-
-#268 me
-Василий Перун [416999966] монеты 14904703, цена 819200, доход 71/ч, рабов 6807, хозяин 881948076
-limitLeft: 492
-stones: 10
-gems: 0
-хозяин: Александр Мдаээ [881948076] монеты 217073, цена 1600, доход 15/ч, рабов 51
-
-#262 admin ty=find q=Пиков
-{"ok":true,"users":[{"id":765415562,"name":"Пиковая Дама","nc":"","bj":"","photo":"https://sun1-20.userapi.com/s/v1/ig2/hn5FNR-IrB1mOyBICwRYm-AKaMYlpTOX2oIxXTSskqD0sH64gnTs6UXXGGn-zeOLrE3uVoBCzFYdtXVTEJdyCHNM.jpg?quality=95&crop=2,353,1077,1077&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=5n7uthMgTwBKlYdp1h4D-SGbD3d1Gb92GlnHF1dHUjk&cs=200x0","coins":7870116,"price":26214400,"buyCost":13107200,"rate":55,"upgradeCost":26214400,"sellValue":3276800,"canRelease":true,"slaves":647,"income":12840,"owner":{"id":1065679388,"name":"Vitalik Zefir-Morningstar","nc":"","bj":"","ring":"laurel","photo":"https://sun1-22.userapi.com/s/v1/ig2/eJjIsiljqMU8d_-byb4NfRPl6S7ccsTcIKvzZWc3GZXX0OevpRU23YM9W6W-21U4nx0ASSB2myjdxKqNRqZm4fMn.jpg?quality=95&crop=235,0,776,776&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=ynzvhgiI-nO6Yj2ikJffNuX3Mbig3HJmps7wbnNUvcU&cs=200x0"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":55}]}
-
-#263 admin ty=find q=дама
-{"ok":true,"users":[{"id":765415562,"name":"Пиковая Дама","nc":"","bj":"","photo":"https://sun1-20.userapi.com/s/v1/ig2/hn5FNR-IrB1mOyBICwRYm-AKaMYlpTOX2oIxXTSskqD0sH64gnTs6UXXGGn-zeOLrE3uVoBCzFYdtXVTEJdyCHNM.jpg?quality=95&crop=2,353,1077,1077&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=5n7uthMgTwBKlYdp1h4D-SGbD3d1Gb92GlnHF1dHUjk&cs=200x0","coins":7870116,"price":26214400,"buyCost":13107200,"rate":55,"upgradeCost":26214400,"sellValue":3276800,"canRelease":true,"slaves":647,"income":12840,"owner":{"id":1065679388,"name":"Vitalik Zefir-Morningstar","nc":"","bj":"","ring":"laurel","photo":"https://sun1-22.userapi.com/s/v1/ig2/eJjIsiljqMU8d_-byb4NfRPl6S7ccsTcIKvzZWc3GZXX0OevpRU23YM9W6W-21U4nx0ASSB2myjdxKqNRqZm4fMn.jpg?quality=95&crop=235,0,776,776&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=ynzvhgiI-nO6Yj2ikJffNuX3Mbig3HJmps7wbnNUvcU&cs=200x0"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":55}]}
-
-#264 admin ty=find q=Queen
-{"ok":true,"users":[]}
