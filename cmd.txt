@@ -6,3 +6,10 @@
 306 admin ty=find q=Адел
 307 acc add=1132299161
 308 me as=1132299161
+309 admin ty=addBots count=1500 price=2000 rate=20
+310 admin ty=addBots count=1500 price=2000 rate=20
+311 admin ty=addBots count=1500 price=2000 rate=20
+312 admin ty=addBots count=500 price=2000 rate=20
+313 admin ty=addBots count=1500 price=3500 rate=30
+314 admin ty=addBots count=1500 price=3500 rate=30
+315 admin ty=stats
