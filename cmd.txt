@@ -13,3 +13,7 @@
 313 admin ty=addBots count=1500 price=3500 rate=30
 314 admin ty=addBots count=1500 price=3500 rate=30
 315 admin ty=stats
+316 collect as=1
+317 me
+318 me as=1
+319 bulk n=500 gap=20 as=1132299161
