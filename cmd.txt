@@ -1,3 +1,6 @@
 301 admin ty=ban id=900328509 on=1
 302 admin ty=ban id=900328537 on=1
 303 market n=2 sort=income
+304 collect
+305 admin ty=find q=Аделина
+306 admin ty=find q=Адел
