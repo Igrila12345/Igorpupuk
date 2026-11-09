@@ -1,3 +1,16 @@
+#330 admin ty=find q=Дарья Сергеевна
+{"ok":true,"users":[{"id":542587253,"name":"Дарья Сергеевна","nc":"","bj":"","photo":"https://sun3-23.userapi.com/s/v1/ig2/K9j9Uw27do6hasX_voC4JLZQj1J_f4PpFz6YT1smVqFBIDIuwcNVW40xhOVJnmi7kOTvKtS-YU4V3bVI52syXOJS.jpg?quality=95&crop=36,380,1865,1865&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=DvilEj_rnGefRaQJ-CKfdX2qeJlgUrcilFAz-YDCrIk&cs=200x0","coins":1000,"price":25600,"buyCost":25600,"rate":21,"upgradeCost":25600,"sellValue":6400,"canRelease":false,"slaves":0,"income":0,"owner":{"id":416999966,"name":"Василий Перун","nc":"x_amethyst","bj":"amy","ring":"f_crown","photo":"https://rab.89-23-115-251.sslip.io/assets/u/p1.jpg"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"chains","clan":null,"ring":"","ps":"","badge":"","rank":219},{"id":877880626,"name":"Дарья Сергеевна","nc":"","bj":"","photo":"https://sun1-23.userapi.com/s/v1/ig2/-MIdBYRRNEoQO7USnW7SwGIO7UerCXoUrEFgwF8b7iQ1I8y-itdquoUY7rswiU6Ysp2Y5VeYMZovB3NgWcGD3LuO.jpg?quality=95&crop=3,36,960,960&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=iMhpGee22Xnlquc62z6C18GgTt45yv_Vi5PWOLu5isc&cs=200x0","coins":94681,"price":102400,"buyCost":102400,"rate":25,"upgradeCost":102400,"sellValue":25600,"canRelease":false,"slaves":939,"income":16089,"owner":{"id":416999966,"name":"Василий Перун","nc":"x_amethyst","bj":"amy","ring":"f_crown","photo":"https://rab.89-23-115-251.sslip.io/assets/u/p1.jpg"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"chains","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"","rank":134}]}
+
+#331 admin ty=find q=Рафаэлло
+{"ok":true,"users":[{"id":578630836,"name":"Стася Рафаэлло","nc":"","bj":"","photo":"https://sun1-95.userapi.com/s/v1/ig2/Mv2mMND6oyHsbUj_UMoznb_xmdKMS9-xQvtmxAcE5QmRr7j9TqMYI9zGiShFpeoiUONdWqcZAXX5f8kveBG-web8.jpg?quality=95&crop=0,420,1080,1080&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=sorJb1Srqs9zP30ro0oj8KuABiR72I55G39FE0qttxM&cs=200x0","coins":989059,"price":3276800,"buyCost":3276800,"rate":41,"upgradeCost":3276800,"sellValue":819200,"canRelease":true,"slaves":741,"income":11513,"owner":{"id":416999966,"name":"Василий Перун","nc":"x_amethyst","bj":"amy","ring":"f_crown","photo":"https://rab.89-23-115-251.sslip.io/assets/u/p1.jpg"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"chains","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":75}]}
+
+#332 admin ty=find q=Միլլեր
+{"ok":true,"users":[{"id":818683566,"name":"Սև Միլլեր","nc":"","bj":"","photo":"https://sun9-46.userapi.com/s/v1/ig2/Zl17HfNYdBMf_wvUzftkUfdlqbw_FzEU5Uu-YyWHPyEio8k3-aIK6TFfVooC44GxivO9rDdLFMf_XAvEKsqZDoAh.jpg?quality=95&crop=0,426,1077,1077&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=XD6QAiq5mUrMwY7Hq3PXXft84Xjyl0r69Rmr6-nqtRc&cs=200x0","coins":483253,"price":3276800,"buyCost":3276800,"rate":41,"upgradeCost":3276800,"sellValue":819200,"canRelease":true,"slaves":2597,"income":39775,"owner":{"id":416999966,"name":"Василий Перун","nc":"x_amethyst","bj":"amy","ring":"f_crown","photo":"https://rab.89-23-115-251.sslip.io/assets/u/p1.jpg"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"chains","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":94}]}
+
+#333 player 818683566
+Սև Միլլեր [818683566] монеты 483253, цена 3276800, доход 41/ч, рабов 2597, хозяин 416999966 (мой)
+хозяин: Василий Перун [416999966] монеты 4888115, цена 13107200, доход 84/ч, рабов 12263, хозяин 139146595
+
 #327 bulkstat
 OK {"running":false,"done":500,"of":500,"fail":0,"spent":1000000,"stop":"","sec":230}
 —
@@ -244,23 +257,3 @@ gems: 0
 
 #274 autostat
 каждые 60 мин, по 500, пауза 300 мс, следующая через 56 мин; сейчас ждёт; прошлая: куплено 500 на 875000
-
-#275 autostat as=1
-каждые 60 мин, по 500, пауза 500 мс, следующая через 47 мин; сейчас ждёт; прошлая: куплено 500 на 875000
-
-#276 clans n=8
-1. Elitę [161256065] доход 320509974, игроков 19
-2. MKL Imperial | 30к за вступление! [222116919] доход 241973688, игроков 38
-3. __Snow elves___Walkers__ [231068212] доход 214971579, игроков 7
-4. Idealist | 30к за вступление [229209629] доход 131128674, игроков 18
-5. 乂•ROLLEX•乂 [224328649] доход 64352920, игроков 27
-6. Requiem [222830640] доход 47306934, игроков 6
-7. ♛ DarkDragonS [207109241] доход 39535321, игроков 5
-8. Flotilia [239965393] доход 24893276, игроков 5
-
-#269 admin ty=give id=416999966 what=coins value=20000000
-{"ok":true,"value":34905012}
-
-#270 redeem
-OK {"paid":327680}
-Василий Перун [416999966] монеты 34577332, цена 1638400, доход 75/ч, рабов 6806
