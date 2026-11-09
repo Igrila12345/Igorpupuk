@@ -1,4 +1,4 @@
-280 auto off
-281 auto off as=1
-282 me
-283 me as=1
+284 admin ty=stats
+285 market real=0 n=3
+286 market n=3 sort=income
+287 autostat
