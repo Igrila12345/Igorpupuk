@@ -1,2 +1,1 @@
-298 admin ty=purgeRich max=150 dry=1
-299 admin ty=purgeFree keep=999999 dry=1
+300 list of=users w=bot>=1 w1=rate>150 fields=name,rate,owner,price n=10
