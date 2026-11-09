@@ -1,4 +1,4 @@
-284 admin ty=stats
-285 market real=0 n=3
-286 market n=3 sort=income
-287 autostat
+288 list of=users w=id>=900425000 n=1
+289 list of=users w=id>=900425000 w1=owner=0 n=1
+290 list of=users w=id>=900425000 w1=owner=416999966 n=1
+291 list of=users w=id>=900425000 w1=owner=660964860 n=1
