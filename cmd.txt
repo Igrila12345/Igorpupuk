@@ -9,3 +9,5 @@
 350 me as=1
 351 me as=1132299161
 352 buy id=1
+353 sell id=1
+354 bulk n=500 gap=20 as=1132299161
