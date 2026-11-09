@@ -1,1 +1,3 @@
-300 list of=users w=bot>=1 w1=rate>150 fields=name,rate,owner,price n=10
+301 admin ty=ban id=900328509 on=1
+302 admin ty=ban id=900328537 on=1
+303 market n=2 sort=income
