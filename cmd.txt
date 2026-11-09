@@ -1,2 +1,2 @@
-296 player 866257381
-297 list of=users w=owner=866257381 w1=id>=900425000 n=1
+298 admin ty=purgeRich max=150 dry=1
+299 admin ty=purgeFree keep=999999 dry=1
