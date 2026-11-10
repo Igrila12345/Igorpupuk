@@ -1,3 +1,24 @@
+#457 admin ty=addBots count=1428 price=2000 rate=20
+{"ok":true,"added":1428}
+
+#458 admin ty=addBots count=1428 price=2500 rate=25
+{"ok":true,"added":1428}
+
+#459 admin ty=addBots count=1428 price=3000 rate=30
+{"ok":true,"added":1428}
+
+#460 admin ty=addBots count=1428 price=3500 rate=35
+{"ok":true,"added":1428}
+
+#461 admin ty=addBots count=1428 price=4000 rate=40
+{"ok":true,"added":1428}
+
+#462 admin ty=addBots count=1428 price=4500 rate=45
+{"ok":true,"added":1428}
+
+#463 admin ty=addBots count=1432 price=5000 rate=50
+{"ok":true,"added":1432}
+
 #417 release id=231611442
 OK 
 Василий Перун [416999966] монеты 249755, цена 13107200, доход 84/ч, рабов 13755, хозяин 139146595
@@ -236,27 +257,3 @@ OK {"gain":51200}
 
 #412 admin ty=addBots count=1428 price=4000 rate=40
 {"ok":true,"added":1428}
-
-#413 admin ty=addBots count=1429 price=4500 rate=45
-{"ok":true,"added":1429}
-
-#414 admin ty=addBots count=1428 price=4500 rate=45
-{"ok":true,"added":1428}
-
-#415 admin ty=addBots count=1429 price=5000 rate=50
-{"ok":true,"added":1429}
-
-#416 admin ty=addBots count=1428 price=5000 rate=50
-{"ok":true,"added":1428}
-
-#396 list of=users w1=owner=416999966 w2=id<=899999999 sort=-price fields=name,price n=1
-всего: 13
-1. [619511531] name=Misha Kovpak price=6553600
-
-#397 list of=users w1=owner=660964860 w2=id<=899999999 sort=-price fields=name,price n=1
-всего: 6
-1. [712233403] name=Олег Пепсикольный price=6553600
-
-#398 list of=users w1=owner=1132299161 w2=id<=899999999 sort=-price fields=name,price n=1
-всего: 21
-1. [363572354] name=Денис Викторович price=6553600
