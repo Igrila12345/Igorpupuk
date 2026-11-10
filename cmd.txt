@@ -149,3 +149,7 @@
 490 admin ty=addBots count=1432 price=5000 rate=50
 491 bulk n=500 gap=30
 492 bulkstat
+493 bulkstat
+494 player 416999966
+495 list of=users w1=owner=416999966 w2=id<=899999999 fields=name,price n=1
+496 autostat
