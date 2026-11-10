@@ -160,3 +160,7 @@
 501 bulk n=500 gap=50 as=1132299161
 502 bulkstat
 503 bulk n=500 gap=50 as=1
+504 player 798896577
+505 player 751510670
+506 list of=users sort=-coins fields=name,coins,price,income n=6
+507 list of=users sort=-price fields=name,coins,price,income n=6
