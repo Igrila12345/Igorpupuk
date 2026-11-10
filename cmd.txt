@@ -120,3 +120,8 @@
 461 admin ty=addBots count=1428 price=4000 rate=40
 462 admin ty=addBots count=1428 price=4500 rate=45
 463 admin ty=addBots count=1432 price=5000 rate=50
+464 player 416999966
+465 player 660964860
+466 player 1132299161
+467 clans n=8
+468 autostat
