@@ -18,3 +18,5 @@
 359 me as=1
 360 me as=1132299161
 361 player 1
+362 admin ty=stats
+363 list of=users w=owner=0 n=1
