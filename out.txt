@@ -1,3 +1,28 @@
+#364 admin ty=addBots count=714 price=2000 rate=20
+{"ok":true,"added":714}
+
+#365 admin ty=addBots count=714 price=2500 rate=25
+{"ok":true,"added":714}
+
+#366 admin ty=addBots count=714 price=3000 rate=30
+{"ok":true,"added":714}
+
+#367 admin ty=addBots count=714 price=3500 rate=35
+{"ok":true,"added":714}
+
+#368 admin ty=addBots count=714 price=4000 rate=40
+{"ok":true,"added":714}
+
+#369 admin ty=addBots count=714 price=4500 rate=45
+{"ok":true,"added":714}
+
+#370 admin ty=addBots count=716 price=5000 rate=50
+{"ok":true,"added":716}
+
+#371 list of=users w=owner=0 n=1
+всего: 5075
+1. [2180119] name=Роман Бауман bal=13876054
+
 #362 admin ty=stats
 {"ok":true,"users":345061,"bots":344792,"clans":16,"slaves":344986,"banned":5,"topMode":"balance","stoneOff":true,"lag":false,"totalCoins":4768362011,"promos":["123","12345","ABC123","RABSTVO","MKL","DARKDRAGONS","ROLLEX","1SUDNY","IDEALIST","BOMZ","PRO","TRAX","TRAXNY","SOSOBOMZ","CASINO","DEPNIVSE","SLIV","NOOBLO","SUDNY2","BOGAT","BOMZHI"],"autoBots":{"on":false,"every":60,"count":10,"tiers":1,"price":100,"rate":10,"name":"","last":1794119954995,"total":19830},"suspects":26,"online":3}
 
@@ -224,31 +249,3 @@ OK {"started":500,"gap":150}
 
 #312 admin ty=addBots count=500 price=2000 rate=20
 {"ok":true,"added":500}
-
-#313 admin ty=addBots count=1500 price=3500 rate=30
-{"ok":true,"added":1500}
-
-#314 admin ty=addBots count=1500 price=3500 rate=30
-{"ok":true,"added":1500}
-
-#315 admin ty=stats
-{"ok":true,"users":345058,"bots":344792,"clans":16,"slaves":335564,"banned":5,"topMode":"balance","stoneOff":true,"lag":false,"totalCoins":4702744587,"promos":["123","12345","ABC123","RABSTVO","MKL","DARKDRAGONS","ROLLEX","1SUDNY","IDEALIST","BOMZ","PRO","TRAX","TRAXNY","SOSOBOMZ","CASINO","DEPNIVSE","SLIV","NOOBLO","SUDNY2"],"autoBots":{"on":false,"every":60,"count":10,"tiers":1,"price":100,"rate":10,"name":"","last":1794119954995,"total":19830},"suspects":23,"online":7}
-
-#307 acc add=1132299161
-Аккаунты под управлением: Аделина Преображенская [1132299161]
-
-#308 me as=1132299161
-Аделина Преображенская [1132299161] монеты 37651383, цена 104857600, доход 70/ч, рабов 30792
-limitLeft: 500
-stones: 34
-gems: 7800
-
-#304 collect
-OK {"amount":4126243,"base":441923,"bonuses":[{"n":"Кнут","p":25,"c":110480}]}
-Василий Перун [416999966] монеты 5888115, цена 13107200, доход 84/ч, рабов 11763, хозяин 139146595
-
-#305 admin ty=find q=Аделина
-{"ok":true,"users":[{"id":864707619,"name":"Аделина Жукова","nc":"","bj":"","photo":"https://sun9-51.vkuserphoto.ru/s/v1/ig2/fqBre00jTxWSU2-HGBtm12cPBvk5FyyQurkgvazaYMBr2EkNoAMf636Khue0SMUOPOxCwpCO8ESlxwGOcf3AiL-7.jpg?quality=95&crop=133,98,298,298&as=32x32,48x48,72x72,108x108,160x160,240x240&ava=1&u=x2GK2COzDocMgR4DgKASZzC1pRzxuRNXxut19MF2OKk&cs=200x0","coins":38905,"price":200,"buyCost":200,"rate":11,"upgradeCost":200,"sellValue":50,"canRelease":false,"slaves":0,"income":0,"owner":{"id":621106709,"name":"Petya Kristall","nc":"","bj":"","ring":"laurel","photo":"https://sun9-39.vkuserphoto.ru/s/v1/ig2/LdIQicl2ua9-_FVUPbYJmdbqlYXRDsprhX2v7U37raaTsnMrNXAcs0FV7EQ1_171VlLIqbDnXFzymQFbrKIvCANT.jpg?quality=95&crop=245,1065,1481,1481&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=o7XCHdl7Wpq-_3ApaPhC2fuB9uRFprXWnnu86dJzx0w&cs=200x200"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":161256065,"name":"Elitę"},"ring":"","ps":"","badge":"","rank":149},{"id":1132299036,"name":"Аделина Преображенская","nc":"x_plasma","bj":"jack","photo":"https://sun2-10.vkuserphoto.ru/s/v1/ig2/sYW554IjRkQutaDOCT67a7aHlSO3qyCqUZFyh7NtzTbrpnqsHvAqpmGTwd0V42pEmElesNCqILFabdTzj4xFT-Jf.jpg?quality=95&crop=0,0,1059,1059&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=JnGkDbTjcZGWSMYr2b20EwCMqttgJRrt9TZLzXu4NQU&cs=200x200","coins":666,"price":6553600,"buyCost":6553600,"rate":46,"upgradeCost":6553600,"sellValue":0,"canRelease":true,"slaves":0,"income":0,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":true,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"f_halloween","ps":"p_neon","badge":"","rank":0},{"id":1132299161,"name":"Аделина Преображенская","nc":"x_casino","bj":"","photo":"https://sun1-30.vkuserphoto.ru/s/v1/ig2/sUcfRVBi0ygiH9B-gAqzgDd4FImSDBjJ0HioK2RSCcAKYi8vUTJs3sxzy6vhujY2LuWYTo-Y337__5dBQE9Ld17p.jpg?quality=95&crop=0,659,1676,1676&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=FL0CoWb4JHxWaMddXHSjbk8PAKZaW0KuCobm6G0x5wY&cs=200x200","coins":37651383,"price":104857600,"buyCost":104857600,"rate":70,"upgradeCost":181193933,"sellValue":0,"canRelease":true,"slaves":30792,"income":1104577,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":true,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"f_cas1","ps":"","badge":"","rank":3}]}
-
-#306 admin ty=find q=Адел
-{"ok":true,"users":[{"id":864707619,"name":"Аделина Жукова","nc":"","bj":"","photo":"https://sun9-51.vkuserphoto.ru/s/v1/ig2/fqBre00jTxWSU2-HGBtm12cPBvk5FyyQurkgvazaYMBr2EkNoAMf636Khue0SMUOPOxCwpCO8ESlxwGOcf3AiL-7.jpg?quality=95&crop=133,98,298,298&as=32x32,48x48,72x72,108x108,160x160,240x240&ava=1&u=x2GK2COzDocMgR4DgKASZzC1pRzxuRNXxut19MF2OKk&cs=200x0","coins":38905,"price":200,"buyCost":200,"rate":11,"upgradeCost":200,"sellValue":50,"canRelease":false,"slaves":0,"income":0,"owner":{"id":621106709,"name":"Petya Kristall","nc":"","bj":"","ring":"laurel","photo":"https://sun9-39.vkuserphoto.ru/s/v1/ig2/LdIQicl2ua9-_FVUPbYJmdbqlYXRDsprhX2v7U37raaTsnMrNXAcs0FV7EQ1_171VlLIqbDnXFzymQFbrKIvCANT.jpg?quality=95&crop=245,1065,1481,1481&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=o7XCHdl7Wpq-_3ApaPhC2fuB9uRFprXWnnu86dJzx0w&cs=200x200"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":161256065,"name":"Elitę"},"ring":"","ps":"","badge":"","rank":149},{"id":1132299036,"name":"Аделина Преображенская","nc":"x_plasma","bj":"jack","photo":"https://sun2-10.vkuserphoto.ru/s/v1/ig2/sYW554IjRkQutaDOCT67a7aHlSO3qyCqUZFyh7NtzTbrpnqsHvAqpmGTwd0V42pEmElesNCqILFabdTzj4xFT-Jf.jpg?quality=95&crop=0,0,1059,1059&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=JnGkDbTjcZGWSMYr2b20EwCMqttgJRrt9TZLzXu4NQU&cs=200x200","coins":666,"price":6553600,"buyCost":6553600,"rate":46,"upgradeCost":6553600,"sellValue":0,"canRelease":true,"slaves":0,"income":0,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":true,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"f_halloween","ps":"p_neon","badge":"","rank":0},{"id":1132299161,"name":"Аделина Преображенская","nc":"x_casino","bj":"","photo":"https://sun1-30.vkuserphoto.ru/s/v1/ig2/sUcfRVBi0ygiH9B-gAqzgDd4FImSDBjJ0HioK2RSCcAKYi8vUTJs3sxzy6vhujY2LuWYTo-Y337__5dBQE9Ld17p.jpg?quality=95&crop=0,659,1676,1676&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=FL0CoWb4JHxWaMddXHSjbk8PAKZaW0KuCobm6G0x5wY&cs=200x200","coins":37651383,"price":104857600,"buyCost":104857600,"rate":70,"upgradeCost":181193933,"sellValue":0,"canRelease":true,"slaves":30792,"income":1104577,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":true,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"f_cas1","ps":"","badge":"","rank":3}]}
