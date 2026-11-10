@@ -125,3 +125,9 @@
 466 player 1132299161
 467 clans n=8
 468 autostat
+469 player 416999966
+470 player 660964860
+471 player 1132299161
+472 clans n=8
+473 autostat
+474 list of=users w1=owner=0 w2=id<=899999999 fields=name,price n=1
