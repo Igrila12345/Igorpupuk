@@ -140,3 +140,12 @@
 481 player 416999966
 482 player 660964860
 483 player 1132299161
+484 admin ty=addBots count=1428 price=2000 rate=20
+485 admin ty=addBots count=1428 price=2500 rate=25
+486 admin ty=addBots count=1428 price=3000 rate=30
+487 admin ty=addBots count=1428 price=3500 rate=35
+488 admin ty=addBots count=1428 price=4000 rate=40
+489 admin ty=addBots count=1428 price=4500 rate=45
+490 admin ty=addBots count=1432 price=5000 rate=50
+491 bulk n=500 gap=30
+492 bulkstat
