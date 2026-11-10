@@ -52,3 +52,7 @@
 393 me
 394 me as=1
 395 me as=1132299161
+396 list of=users w1=owner=416999966 w2=id<=899999999 sort=-price fields=name,price n=1
+397 list of=users w1=owner=660964860 w2=id<=899999999 sort=-price fields=name,price n=1
+398 list of=users w1=owner=1132299161 w2=id<=899999999 sort=-price fields=name,price n=1
+399 list of=users w1=owner=0 w2=id<=899999999 fields=name,price n=1
