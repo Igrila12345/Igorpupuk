@@ -113,3 +113,10 @@
 454 sell id=870580522 as=1132299161
 455 sell id=877880626 as=1132299161
 456 sell id=881694706 as=1132299161
+457 admin ty=addBots count=1428 price=2000 rate=20
+458 admin ty=addBots count=1428 price=2500 rate=25
+459 admin ty=addBots count=1428 price=3000 rate=30
+460 admin ty=addBots count=1428 price=3500 rate=35
+461 admin ty=addBots count=1428 price=4000 rate=40
+462 admin ty=addBots count=1428 price=4500 rate=45
+463 admin ty=addBots count=1432 price=5000 rate=50
