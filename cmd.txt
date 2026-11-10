@@ -186,3 +186,10 @@
 527 auto off as=1132299161
 528 autostat as=1132299161
 529 player 1132299161
+530 player 416999966
+531 player 660964860
+532 player 1132299161
+533 list of=users w1=owner=416999966 w2=id<=899999999 fields=name,price n=1
+534 list of=users w1=owner=660964860 w2=id<=899999999 fields=name,price n=1
+535 list of=users w1=owner=0 fields=id n=1
+536 clans n=7
