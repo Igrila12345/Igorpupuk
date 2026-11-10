@@ -39,3 +39,8 @@
 380 autostat as=1
 381 autostat as=1132299161
 382 list of=users w=owner=0 n=1
+383 bulkstat
+384 me
+385 me as=1
+386 me as=1132299161
+387 list of=users w=owner=0 n=1
