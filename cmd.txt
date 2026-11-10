@@ -164,3 +164,7 @@
 505 player 751510670
 506 list of=users sort=-coins fields=name,coins,price,income n=6
 507 list of=users sort=-price fields=name,coins,price,income n=6
+508 admin ty=setBalance id=798896577 value=15000
+509 admin ty=setBalance id=751510670 value=12000
+510 player 798896577
+511 player 751510670
