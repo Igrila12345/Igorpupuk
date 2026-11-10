@@ -28,3 +28,9 @@
 369 admin ty=addBots count=714 price=4500 rate=45
 370 admin ty=addBots count=716 price=5000 rate=50
 371 list of=users w=owner=0 n=1
+372 auto every=60 n=500 gap=50 collect=0 as=1132299161
+373 auto every=60 n=500 gap=50 collect=0 as=1
+374 auto every=60 n=500 gap=50 collect=0
+375 autostat
+376 autostat as=1
+377 autostat as=1132299161
