@@ -34,3 +34,8 @@
 375 autostat
 376 autostat as=1
 377 autostat as=1132299161
+378 bulkstat
+379 autostat
+380 autostat as=1
+381 autostat as=1132299161
+382 list of=users w=owner=0 n=1
