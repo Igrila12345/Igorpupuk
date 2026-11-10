@@ -158,3 +158,4 @@
 499 player 1132299161
 500 clans n=6
 501 bulk n=500 gap=50 as=1132299161
+502 bulkstat
