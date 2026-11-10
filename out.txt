@@ -1,3 +1,97 @@
+#388 list of=users w1=owner=0 w2=bz!=1 fields=name,price n=15
+всего: 47
+1. [2180119] name=Роман Бауман price=13107200
+2. [26169737] name=Б Л О Х А price=13107200
+3. [139146595] name=Виталий Аркадьевич price=13107200
+4. [194580290] name=Михаил Колодиев price=13107200
+5. [263118406] name=Степан Матвеев price=13107200
+6. [271121143] name=Константин Сергеевич price=13107200
+7. [357413627] name=Батырка Солниченко price=52428800
+8. [406634157] name=卂刀从工尺卂乚口リ 口下下工匚工卂乚 price=104857600
+9. [452704603] name=Максим Максимов price=13107200
+10. [461098227] name=Максим Белов price=6553600
+11. [479094212] name=Роман Бусарнов price=6553600
+12. [510062544] name=Отвратительный Король price=6553600
+13. [534497120] name=Александр Меркурьев price=6553600
+14. [555880960] name=Екатерина Перепелицына price=6553600
+15. [559368482] name=Дима Рудак price=6553600
+
+#389 list of=users w1=owner=416999966 w2=bz!=1 fields=name,price n=15
+всего: 13756
+1. [231611442] name=Елена Николаевна price=3276800
+2. [445341403] name=Валера Васин price=819200
+3. [509414278] name=Black-Star Black-Star price=3276800
+4. [548468068] name=Егор Стинкер-Вральман price=3276800
+5. [573233132] name=Маргарита Гуляева price=3276800
+6. [592980632] name=Полина Олешкова price=3276800
+7. [600335304] name=Алина Коровина price=3276800
+8. [615216448] name=Мила Чеза price=3276800
+9. [615235567] name=Lesha Kristall Fort price=6400
+10. [619511531] name=Misha Kovpak price=6553600
+11. [640028712] name=Рита Калашникова price=3276800
+12. [833447292] name=Настя Мдаээ-Ковпак price=3276800
+13. [844592273] name=Vova Ynin price=819200
+14. [900029887] name=Руслан Уткин price=1600
+15. [900031837] name=Марат Крылов price=1600
+
+#390 list of=users w1=owner=660964860 w2=bz!=1 fields=name,price n=15
+всего: 14189
+1. [464050595] name=Roma Zdravstvyu price=12800
+2. [466608211] name=Sanya Polyak price=204800
+3. [569937200] name=Lucifer Morningstar price=819200
+4. [712233403] name=Олег Пепсикольный price=6553600
+5. [846347205] name=Tadjikskiy Viper price=204800
+6. [866437151] name=Расул Антуанетта price=204800
+7. [900329334] name=Данил Уткин price=4000
+8. [900329335] name=Никита Мельников price=4000
+9. [900329336] name=Яна Ершов price=4000
+10. [900329337] name=Павел Уткин price=4000
+11. [900329338] name=Руслан Крылов price=4000
+12. [900329339] name=Ренат Уткин price=4000
+13. [900329340] name=Павел Ершов price=4000
+14. [900329341] name=Марат Орлов price=4000
+15. [900329342] name=Кирилл Зайцев price=4000
+
+#391 list of=users w1=owner=1132299161 w2=bz!=1 fields=name,price n=15
+всего: 32437
+1. [1] name=Павел Дуров price=1600
+2. [115374735] name=Юра Натфуллин price=409600
+3. [230268407] name=Елисей Прохоров price=25600
+4. [363572354] name=Денис Викторович price=6553600
+5. [416502838] name=Виталий Колоколов price=819200
+6. [494156596] name=Venera Merkyrieva price=102400
+7. [510317709] name=Марина Романова price=6553600
+8. [524889986] name=Елисей Булавин price=6553600
+9. [536275237] name=Сережа Адмиралов price=6553600
+10. [547166070] name=Tumen Erdyneev price=819200
+11. [558812363] name=Really Fuzze price=409600
+12. [578630836] name=Стася Рафаэлло price=6553600
+13. [601836857] name=Тёма Вяденко price=6553600
+14. [720500734] name=Бананос Арбузов-Зина price=819200
+15. [741408856] name=Forever Young price=6553600
+
+#392 autostat
+каждые 60 мин, по 500, пауза 150 мс, следующая через 31 мин; сейчас ждёт; прошлая: куплено 1 на 3276800, стоп: Недостаточно монет
+
+#393 me
+Василий Перун [416999966] монеты 249755, цена 13107200, доход 84/ч, рабов 13756, хозяин 139146595
+limitLeft: 500
+stones: 10
+gems: 0
+хозяин: Виталий Аркадьевич [139146595] монеты 14483181, цена 13107200, доход 50/ч, рабов 5185
+
+#394 me as=1
+Shadow Morningstar [660964860] монеты 57648, цена 52428800, доход 61/ч, рабов 14189
+limitLeft: 500
+stones: 183
+gems: 0
+
+#395 me as=1132299161
+Аделина Преображенская [1132299161] монеты 868047, цена 104857600, доход 70/ч, рабов 32437
+limitLeft: 500
+stones: 34
+gems: 7800
+
 #383 bulkstat
 OK {"running":true,"done":368,"of":500,"fail":0,"spent":920000,"stop":"","sec":61}
 —
@@ -211,33 +305,3 @@ OK {"gain":25600}
 
 #339 player 818683566
 Սև Միլլեր [818683566] монеты 483253, цена 3276800, доход 41/ч, рабов 2597
-
-#340 player 542587253
-Дарья Сергеевна [542587253] монеты 1000, цена 25600, доход 21/ч, рабов 0
-
-#341 player 877880626
-Дарья Сергеевна [877880626] монеты 94681, цена 102400, доход 25/ч, рабов 939
-
-#330 admin ty=find q=Дарья Сергеевна
-{"ok":true,"users":[{"id":542587253,"name":"Дарья Сергеевна","nc":"","bj":"","photo":"https://sun3-23.userapi.com/s/v1/ig2/K9j9Uw27do6hasX_voC4JLZQj1J_f4PpFz6YT1smVqFBIDIuwcNVW40xhOVJnmi7kOTvKtS-YU4V3bVI52syXOJS.jpg?quality=95&crop=36,380,1865,1865&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=DvilEj_rnGefRaQJ-CKfdX2qeJlgUrcilFAz-YDCrIk&cs=200x0","coins":1000,"price":25600,"buyCost":25600,"rate":21,"upgradeCost":25600,"sellValue":6400,"canRelease":false,"slaves":0,"income":0,"owner":{"id":416999966,"name":"Василий Перун","nc":"x_amethyst","bj":"amy","ring":"f_crown","photo":"https://rab.89-23-115-251.sslip.io/assets/u/p1.jpg"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"chains","clan":null,"ring":"","ps":"","badge":"","rank":219},{"id":877880626,"name":"Дарья Сергеевна","nc":"","bj":"","photo":"https://sun1-23.userapi.com/s/v1/ig2/-MIdBYRRNEoQO7USnW7SwGIO7UerCXoUrEFgwF8b7iQ1I8y-itdquoUY7rswiU6Ysp2Y5VeYMZovB3NgWcGD3LuO.jpg?quality=95&crop=3,36,960,960&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=iMhpGee22Xnlquc62z6C18GgTt45yv_Vi5PWOLu5isc&cs=200x0","coins":94681,"price":102400,"buyCost":102400,"rate":25,"upgradeCost":102400,"sellValue":25600,"canRelease":false,"slaves":939,"income":16089,"owner":{"id":416999966,"name":"Василий Перун","nc":"x_amethyst","bj":"amy","ring":"f_crown","photo":"https://rab.89-23-115-251.sslip.io/assets/u/p1.jpg"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"chains","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"","rank":134}]}
-
-#331 admin ty=find q=Рафаэлло
-{"ok":true,"users":[{"id":578630836,"name":"Стася Рафаэлло","nc":"","bj":"","photo":"https://sun1-95.userapi.com/s/v1/ig2/Mv2mMND6oyHsbUj_UMoznb_xmdKMS9-xQvtmxAcE5QmRr7j9TqMYI9zGiShFpeoiUONdWqcZAXX5f8kveBG-web8.jpg?quality=95&crop=0,420,1080,1080&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=sorJb1Srqs9zP30ro0oj8KuABiR72I55G39FE0qttxM&cs=200x0","coins":989059,"price":3276800,"buyCost":3276800,"rate":41,"upgradeCost":3276800,"sellValue":819200,"canRelease":true,"slaves":741,"income":11513,"owner":{"id":416999966,"name":"Василий Перун","nc":"x_amethyst","bj":"amy","ring":"f_crown","photo":"https://rab.89-23-115-251.sslip.io/assets/u/p1.jpg"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"chains","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":75}]}
-
-#332 admin ty=find q=Միլլեր
-{"ok":true,"users":[{"id":818683566,"name":"Սև Միլլեր","nc":"","bj":"","photo":"https://sun9-46.userapi.com/s/v1/ig2/Zl17HfNYdBMf_wvUzftkUfdlqbw_FzEU5Uu-YyWHPyEio8k3-aIK6TFfVooC44GxivO9rDdLFMf_XAvEKsqZDoAh.jpg?quality=95&crop=0,426,1077,1077&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=XD6QAiq5mUrMwY7Hq3PXXft84Xjyl0r69Rmr6-nqtRc&cs=200x0","coins":483253,"price":3276800,"buyCost":3276800,"rate":41,"upgradeCost":3276800,"sellValue":819200,"canRelease":true,"slaves":2597,"income":39775,"owner":{"id":416999966,"name":"Василий Перун","nc":"x_amethyst","bj":"amy","ring":"f_crown","photo":"https://rab.89-23-115-251.sslip.io/assets/u/p1.jpg"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"chains","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":94}]}
-
-#333 player 818683566
-Սև Միլլեր [818683566] монеты 483253, цена 3276800, доход 41/ч, рабов 2597, хозяин 416999966 (мой)
-хозяин: Василий Перун [416999966] монеты 4888115, цена 13107200, доход 84/ч, рабов 12263, хозяин 139146595
-
-#327 bulkstat
-OK {"running":false,"done":500,"of":500,"fail":0,"spent":1000000,"stop":"","sec":230}
-—
-
-#328 me
-Василий Перун [416999966] монеты 4888115, цена 13107200, доход 84/ч, рабов 12263, хозяин 139146595
-limitLeft: 0
-stones: 10
-gems: 0
-хозяин: Виталий Аркадьевич [139146595] монеты 13383225, цена 13107200, доход 50/ч, рабов 4483
