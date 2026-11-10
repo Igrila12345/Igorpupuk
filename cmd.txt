@@ -131,3 +131,12 @@
 472 clans n=8
 473 autostat
 474 list of=users w1=owner=0 w2=id<=899999999 fields=name,price n=1
+475 collect
+476 collect as=1
+477 collect as=1132299161
+478 admin ty=give id=416999966 what=coins value=3180000
+479 admin ty=give id=660964860 what=coins value=4720000
+480 admin ty=give id=1132299161 what=coins value=5950000
+481 player 416999966
+482 player 660964860
+483 player 1132299161
