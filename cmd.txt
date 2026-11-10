@@ -193,3 +193,11 @@
 534 list of=users w1=owner=660964860 w2=id<=899999999 fields=name,price n=1
 535 list of=users w1=owner=0 fields=id n=1
 536 clans n=7
+537 player 416999966
+538 player 660964860
+539 player 1132299161
+540 list of=users w1=owner=416999966 w2=id<=899999999 fields=name,price n=1
+541 list of=users w1=owner=660964860 w2=id<=899999999 fields=name,price n=1
+542 list of=users w1=owner=0 fields=id n=1
+543 clans n=7
+544 autostat
