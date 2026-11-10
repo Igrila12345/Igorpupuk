@@ -56,3 +56,20 @@
 397 list of=users w1=owner=660964860 w2=id<=899999999 sort=-price fields=name,price n=1
 398 list of=users w1=owner=1132299161 w2=id<=899999999 sort=-price fields=name,price n=1
 399 list of=users w1=owner=0 w2=id<=899999999 fields=name,price n=1
+400 list of=users w1=owner=416999966 w2=id<=899999999 fields=id,price n=60
+401 list of=users w1=owner=660964860 w2=id<=899999999 fields=id,price n=60
+402 list of=users w1=owner=1132299161 w2=id<=899999999 fields=id,price n=60
+403 admin ty=addBots count=1429 price=2000 rate=20
+404 admin ty=addBots count=1428 price=2000 rate=20
+405 admin ty=addBots count=1429 price=2500 rate=25
+406 admin ty=addBots count=1428 price=2500 rate=25
+407 admin ty=addBots count=1429 price=3000 rate=30
+408 admin ty=addBots count=1428 price=3000 rate=30
+409 admin ty=addBots count=1429 price=3500 rate=35
+410 admin ty=addBots count=1428 price=3500 rate=35
+411 admin ty=addBots count=1429 price=4000 rate=40
+412 admin ty=addBots count=1428 price=4000 rate=40
+413 admin ty=addBots count=1429 price=4500 rate=45
+414 admin ty=addBots count=1428 price=4500 rate=45
+415 admin ty=addBots count=1429 price=5000 rate=50
+416 admin ty=addBots count=1428 price=5000 rate=50
