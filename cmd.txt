@@ -44,3 +44,11 @@
 385 me as=1
 386 me as=1132299161
 387 list of=users w=owner=0 n=1
+388 list of=users w1=owner=0 w2=bz!=1 fields=name,price n=15
+389 list of=users w1=owner=416999966 w2=bz!=1 fields=name,price n=15
+390 list of=users w1=owner=660964860 w2=bz!=1 fields=name,price n=15
+391 list of=users w1=owner=1132299161 w2=bz!=1 fields=name,price n=15
+392 autostat
+393 me
+394 me as=1
+395 me as=1132299161
