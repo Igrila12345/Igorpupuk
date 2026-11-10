@@ -178,3 +178,8 @@
 519 list of=users w1=owner=0 w2=id<=899999999 fields=id n=1
 520 clans n=7
 521 autostat
+522 auto off as=1132299161
+523 auto every=1440 n=0 gap=150 collect=1 as=1132299161
+524 autostat as=1132299161
+525 autostat
+526 autostat as=1
