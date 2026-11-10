@@ -183,3 +183,6 @@
 524 autostat as=1132299161
 525 autostat
 526 autostat as=1
+527 auto off as=1132299161
+528 autostat as=1132299161
+529 player 1132299161
