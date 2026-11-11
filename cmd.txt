@@ -209,3 +209,25 @@
 550 list of=users w1=owner=0 w2=id<=899999999 fields=id n=1
 551 clans n=7
 552 autostat
+553 collect
+554 collect as=1
+555 admin ty=addBots count=1429 price=2000 rate=20
+556 admin ty=addBots count=1428 price=2000 rate=20
+557 admin ty=addBots count=1429 price=2500 rate=25
+558 admin ty=addBots count=1428 price=2500 rate=25
+559 admin ty=addBots count=1429 price=3000 rate=30
+560 admin ty=addBots count=1428 price=3000 rate=30
+561 admin ty=addBots count=1429 price=3500 rate=35
+562 admin ty=addBots count=1428 price=3500 rate=35
+563 admin ty=addBots count=1429 price=4000 rate=40
+564 admin ty=addBots count=1428 price=4000 rate=40
+565 admin ty=addBots count=1429 price=4500 rate=45
+566 admin ty=addBots count=1428 price=4500 rate=45
+567 admin ty=addBots count=1429 price=5000 rate=50
+568 admin ty=addBots count=1428 price=5000 rate=50
+569 auto every=60 n=500 gap=50 collect=0
+570 auto every=60 n=500 gap=50 collect=0 as=1
+571 autostat
+572 autostat as=1
+573 player 416999966
+574 player 660964860
