@@ -202,3 +202,10 @@
 543 clans n=7
 544 autostat
 545 collect as=1132299161
+546 player 416999966
+547 player 660964860
+548 player 1132299161
+549 list of=users w1=owner=0 fields=id n=1
+550 list of=users w1=owner=0 w2=id<=899999999 fields=id n=1
+551 clans n=7
+552 autostat
