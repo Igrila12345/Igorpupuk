@@ -1,3 +1,14 @@
+#739 list sort=-sw.all fields=name,sw.all,st.slot,created n=8 w=st.slot>0
+всего: 115
+1. [547166070] name=Tumen Erdyneev sw.all=850949147 st.slot=882 created=1793549483127
+2. [357413627] name=Батырка Солниченко sw.all=205842080 st.slot=1437 created=1792682597460
+3. [321220270] name=Максим Крупский sw.all=80801102 st.slot=8444 created=1793354775644
+4. [139146595] name=Виталий Аркадьевич sw.all=53976459 st.slot=2485 created=1792693687280
+5. [576571212] name=Dobriy Pos-Baby Kovpak sw.all=46166664 st.slot=1390 created=1792694007506
+6. [614925733] name=Moon Lamperush sw.all=41669408 st.slot=133 created=1792683608770
+7. [561743896] name=Матвей Шейхов sw.all=35623744 st.slot=669 created=1792702289627
+8. [479094212] name=Роман Бусарнов sw.all=34401479 st.slot=360 created=1793034341198
+
 #737 list sort=-sw.all fields=name,sw.all,st.slot n=12 w=st.slot>0
 всего: 115
 1. [547166070] name=Tumen Erdyneev sw.all=850949147 st.slot=882
@@ -295,6 +306,3 @@ OK {"amount":28531674,"base":1900715,"bonuses":[]}
 
 #670 admin ty=addBots count=1429 price=2500 rate=25
 {"ok":true,"added":1429}
-
-#671 admin ty=addBots count=1428 price=2500 rate=25
-{"ok":true,"added":1428}
