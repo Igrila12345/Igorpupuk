@@ -271,3 +271,6 @@
 612 admin ty=find q=Караев
 613 admin ty=find q=Бабка
 614 player 406634157
+615 admin ty=find q=Tadjik
+616 admin ty=find q=Lyagushin
+617 admin ty=find q=Viper
