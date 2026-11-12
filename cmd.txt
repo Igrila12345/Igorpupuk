@@ -304,3 +304,23 @@
 645 admin ty=find q=Данил Красин
 646 set sm=sm_heart as=846347205
 647 admin ty=find q=Tadjikskiy
+648 admin ty=give id=846347205 what=gems value=500
+649 admin ty=give id=790793204 what=gems value=300
+650 admin ty=give id=602691173 what=gems value=200
+651 admin ty=give id=509414278 what=gems value=100
+652 admin ty=give id=1055301772 what=gems value=100
+653 admin ty=give id=452704603 what=gems value=100
+654 admin ty=give id=561743896 what=gems value=100
+655 admin ty=give id=200006631097 what=gems value=100
+656 admin ty=give id=406634157 what=gems value=100
+657 admin ty=give id=538692887 what=gems value=100
+658 admin ty=give id=1055244295 what=gems value=50
+659 admin ty=give id=230268407 what=gems value=50
+660 admin ty=give id=524889986 what=gems value=50
+661 admin ty=give id=615346304 what=gems value=50
+662 admin ty=give id=271121143 what=gems value=50
+663 admin ty=give id=648786045 what=gems value=50
+664 admin ty=give id=576571212 what=gems value=50
+665 admin ty=give id=479094212 what=gems value=50
+666 admin ty=give id=852651679 what=gems value=50
+667 admin ty=give id=1061480290 what=gems value=50
