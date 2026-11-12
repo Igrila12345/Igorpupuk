@@ -231,3 +231,26 @@
 572 autostat as=1
 573 player 416999966
 574 player 660964860
+575 admin ty=find q=Тун-Тун Сахур
+576 admin ty=find q=Сергей Давыдов-Кэрролл
+577 admin ty=find q=Вячеслав Нестеренко
+578 admin ty=find q=Дедушка Мороз
+579 admin ty=find q=Елисей Прохоров
+580 admin ty=find q=Kostya Lyagushin
+581 admin ty=find q=КААРИИ
+582 admin ty=find q=Матвей Шейхов
+583 admin ty=find q=Валерия Когут
+584 admin ty=find q=Dobriy Pos-Baby Kovpak
+585 admin ty=find q=Кристина Палмышова
+586 admin ty=find q=Кощей Бессмертный
+587 admin ty=find q=Роман Бауман
+588 admin ty=find q=Лена Леонова
+589 admin ty=find q=Сергей Кэрролл
+590 admin ty=find q=Геннадий Великий
+591 admin ty=find q=Иван Копаев
+592 admin ty=find q=Black-Star Black-Star
+593 admin ty=find q=Расул Антуанетта
+594 admin ty=find q=Александра Ахметова
+595 admin ty=find q=Отвратительный Король
+596 admin ty=find q=Дмитрий Груздев
+597 admin ty=find q=Константин Сергеевич
