@@ -17,3 +17,11 @@
 714 admin ty=addBots count=1074 price=5000 rate=50
 715 admin ty=addBots count=1074 price=5000 rate=50
 716 list of=users w1=owner=0 fields=id n=1
+717 player 416999966
+718 player 660964860
+719 player 1132299161
+720 list of=users w1=owner=0 fields=id n=1
+721 list of=users w1=owner=0 w2=id<=899999999 fields=id n=1
+722 clans n=7
+723 autostat
+724 autostat as=1
