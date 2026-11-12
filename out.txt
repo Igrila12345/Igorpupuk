@@ -1,3 +1,6 @@
+#690 admin ty=ymFails
+{"ok":true,"list":[{"t":1794491227949,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"864.31","cur":"643","cp":"false","op":"test-notification"},{"t":1794491224319,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"482.72","cur":"643","cp":"false","op":"test-notification"},{"t":1794491218139,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"760.94","cur":"643","cp":"false","op":"test-notification"},{"t":1794491217458,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"864.31","cur":"643","cp":"false","op":"test-notification"},{"t":1794491214205,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"482.72","cur":"643","cp":"false","op":"test-notification"},{"t":1794491207990,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"760.94","cur":"643","cp":"false","op":"test-notification"},{"t":1794491044683,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"1095310362-mwdl7ngm2b9ff255","amount":"77.60","wd":"80.00","cur":"643","cp":"false","un":"false","op":"847805627074493124"},{"t":1794490444477,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"1095310362-mwdl7ngm2b9ff255","amount":"77.60","wd":"80.00","cur":"643","cp":"false","un":"false","op":"847805627074493124"},{"t":1794490434041,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"1095310362-mwdl7ngm2b9ff255","amount":"77.60","wd":"80.00","cur":"643","cp":"false","un":"false","op":"847805627074493124"}]}
+
 #689 admin ty=ymCredit label=1095310362-mwdl7ngm2b9ff255
 {"ok":true,"gems":80}
 
@@ -190,6 +193,3 @@ Tadjikskiy Viper [846347205] монеты 45119148, цена 204800, доход 
 
 #625 admin ty=give id=200006631097 what=coins value=8000000
 {"ok":true,"value":20006185}
-
-#626 admin ty=give id=406634157 what=coins value=8000000
-{"ok":true,"value":28723295}
