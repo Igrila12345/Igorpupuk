@@ -295,3 +295,8 @@
 636 admin ty=give id=852651679 what=coins value=3000000
 637 admin ty=give id=1061480290 what=coins value=3000000
 638 admin ty=give id=846347205 what=donate value=500
+639 acc add=846347205
+640 set ring=f_candy nc=x_chrome as=846347205
+641 acc add=790793204
+642 set nc=rainbow as=790793204
+643 set bj=heart as=846347205
