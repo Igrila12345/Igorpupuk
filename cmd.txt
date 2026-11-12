@@ -1,4 +1,2 @@
-733 dump 561743896
-734 dump 846347205
-735 dump 790793204
-736 dump 1132299036
+737 list sort=-sw.all fields=name,sw.all,st.slot n=12 w=st.slot>0
+738 list sort=-st.slot fields=name,st.slot,sw.all n=100 w=st.slot>0
