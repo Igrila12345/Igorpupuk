@@ -1,3 +1,49 @@
+#668 admin ty=addBots count=1429 price=2000 rate=20
+{"ok":true,"added":1429}
+
+#669 admin ty=addBots count=1428 price=2000 rate=20
+{"ok":true,"added":1428}
+
+#670 admin ty=addBots count=1429 price=2500 rate=25
+{"ok":true,"added":1429}
+
+#671 admin ty=addBots count=1428 price=2500 rate=25
+{"ok":true,"added":1428}
+
+#672 admin ty=addBots count=1429 price=3000 rate=30
+{"ok":true,"added":1429}
+
+#673 admin ty=addBots count=1428 price=3000 rate=30
+{"ok":true,"added":1428}
+
+#674 admin ty=addBots count=1429 price=3500 rate=35
+{"ok":true,"added":1429}
+
+#675 admin ty=addBots count=1428 price=3500 rate=35
+{"ok":true,"added":1428}
+
+#676 admin ty=addBots count=1429 price=4000 rate=40
+{"ok":true,"added":1429}
+
+#677 admin ty=addBots count=1428 price=4000 rate=40
+{"ok":true,"added":1428}
+
+#678 admin ty=addBots count=1429 price=4500 rate=45
+{"ok":true,"added":1429}
+
+#679 admin ty=addBots count=1428 price=4500 rate=45
+{"ok":true,"added":1428}
+
+#680 admin ty=addBots count=1429 price=5000 rate=50
+{"ok":true,"added":1429}
+
+#681 admin ty=addBots count=1428 price=5000 rate=50
+{"ok":true,"added":1428}
+
+#682 list of=users w1=owner=0 fields=id n=1
+всего: 20091
+1. [2180119] id=2180119
+
 #648 admin ty=give id=846347205 what=gems value=500
 {"ok":true,"value":500}
 
@@ -132,48 +178,3 @@ Tadjikskiy Viper [846347205] монеты 45119148, цена 204800, доход 
 
 #633 admin ty=give id=648786045 what=coins value=3000000
 {"ok":true,"value":5433583}
-
-#634 admin ty=give id=576571212 what=coins value=3000000
-{"ok":true,"value":10070819}
-
-#635 admin ty=give id=479094212 what=coins value=3000000
-{"ok":true,"value":19816775}
-
-#636 admin ty=give id=852651679 what=coins value=3000000
-{"ok":true,"value":4069118}
-
-#637 admin ty=give id=1061480290 what=coins value=3000000
-{"ok":true,"value":9456275}
-
-#638 admin ty=give id=846347205 what=donate value=500
-{"ok":false,"error":"Неизвестный пункт"}
-
-#615 admin ty=find q=Tadjik
-{"ok":true,"users":[{"id":846347205,"name":"Tadjikskiy Viper","nc":"","bj":"","photo":"https://sun1-27.vkuserphoto.ru/s/v1/ig2/gFcAFdpOBAWwUrqtOWMN9ERpN9xbgCfwo5rpaISG1zYYDV0xehn3cJOmo_LIsOxDlWHt3D4XQfCdbxI4NDJIcsOG.jpg?quality=95&crop=4,41,796,796&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=U1AVw5uABRFKWgmj0DvwNldR_5fJGsyiMOarzAkAgMw&cs=200x0","coins":5119148,"price":204800,"buyCost":204800,"rate":28,"upgradeCost":204800,"sellValue":25600,"canRelease":false,"slaves":35,"income":281,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":224328649,"name":"乂•ROLLEX•乂"},"ring":"","ps":"","badge":"","rank":38}]}
-
-#616 admin ty=find q=Lyagushin
-{"ok":true,"users":[{"id":538692887,"name":"Kostya Lyagushin","nc":"","bj":"","photo":"https://sun1-89.userapi.com/s/v1/ig2/IRKgUp9vTmMYC1Wmb2RwJC7fj_PQCYPxvRKoxKqTHDx7oFtINQclaT__FjObemRIfjvlJPCSfMuX6sUi_omPKkeV.jpg?quality=95&crop=0,0,734,734&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=Y4znYfBwY3l7fpFJbla4tzrlyMU-DT3v1cwVciB_e14&cs=200x0","coins":6965632,"price":52428800,"buyCost":52428800,"rate":61,"upgradeCost":52428800,"sellValue":6553600,"canRelease":true,"slaves":5703,"income":92913,"owner":{"id":599874417,"name":"Василий Ямашкин","nc":"","bj":"","ring":"laurel","photo":"https://sun1-26.userapi.com/impg/DW4IDqvukChyc-WPXmzIot46En40R00idiUAXw/l5w5aIHioYc.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=10ad7d7953daabb7b0e707fdfb7ebefd&u=I6EtahnrCRLlyd0MhT2raQt6ydhuyxX4s72EHGuUSoM&cs=200x0"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":30}]}
-
-#617 admin ty=find q=Viper
-{"ok":true,"users":[{"id":846347205,"name":"Tadjikskiy Viper","nc":"","bj":"","photo":"https://sun1-27.vkuserphoto.ru/s/v1/ig2/gFcAFdpOBAWwUrqtOWMN9ERpN9xbgCfwo5rpaISG1zYYDV0xehn3cJOmo_LIsOxDlWHt3D4XQfCdbxI4NDJIcsOG.jpg?quality=95&crop=4,41,796,796&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=U1AVw5uABRFKWgmj0DvwNldR_5fJGsyiMOarzAkAgMw&cs=200x0","coins":5119148,"price":204800,"buyCost":204800,"rate":28,"upgradeCost":204800,"sellValue":25600,"canRelease":false,"slaves":35,"income":281,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":224328649,"name":"乂•ROLLEX•乂"},"ring":"","ps":"","badge":"","rank":38}]}
-
-#612 admin ty=find q=Караев
-{"ok":true,"users":[{"id":852651679,"name":"Александр Караев","nc":"","bj":"","photo":"https://sun1-20.vkuserphoto.ru/s/v1/ig2/begfp9VL82bT8FV5avnYzwutdZqxw1K8joGYqzugqdT5cjDCwJMrvFtDlujjXS8SfspUKUdLzuqqvmwCUIdHoZ0f.jpg?quality=95&crop=128,34,681,681&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640&ava=1&u=WYHmMMOfh3T3ELA6bYNTuxrV1Gmd1Lxqo4IvCs0zUVM&cs=200x0","coins":1069118,"price":204800,"buyCost":204800,"rate":28,"upgradeCost":204800,"sellValue":51200,"canRelease":false,"slaves":644,"income":17406,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":161256065,"name":"Elitę"},"ring":"laurel","ps":"","badge":"ruby","rank":90}]}
-
-#613 admin ty=find q=Бабка
-{"ok":true,"users":[{"id":1061480290,"name":"Позывной Бабка Ежка","nc":"","bj":"","photo":"https://sun1-87.vkuserphoto.ru/s/v1/ig2/aBLsKANBta9xLTvE5Z95URjPmLvowbBNRLNTm8bf09sU11msaAU7RUnX5G7WoG0c_ax1KBaRREdbB4QBYAO7Rx94.jpg?quality=95&crop=552,0,1343,1343&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280&ava=1&u=jkkS5mFMnG5kHCLdxmoni7fg407HL9c7bnpLdbJpcyY&cs=200x0","coins":6456275,"price":3276800,"buyCost":3276800,"rate":41,"upgradeCost":3276800,"sellValue":819200,"canRelease":true,"slaves":1019,"income":16623,"owner":{"id":1132299161,"name":"Аделина Преображенская","nc":"x_casino","bj":"","ring":"f_cas1","photo":"https://sun1-30.vkuserphoto.ru/s/v1/ig2/sUcfRVBi0ygiH9B-gAqzgDd4FImSDBjJ0HioK2RSCcAKYi8vUTJs3sxzy6vhujY2LuWYTo-Y337__5dBQE9Ld17p.jpg?quality=95&crop=0,659,1676,1676&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=FL0CoWb4JHxWaMddXHSjbk8PAKZaW0KuCobm6G0x5wY&cs=200x200"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":212896729,"name":"Сказочные долбо#бы"},"ring":"laurel","ps":"","badge":"ruby","rank":32}]}
-
-#614 player 406634157
-卂刀从工尺卂乚口リ 口下下工匚工卂乚 [406634157] монеты 20723295, цена 104857600, доход 67/ч, рабов 23936
-
-#609 admin ty=find q=OFFICIAL
-{"ok":true,"users":[]}
-
-#610 admin ty=find q=Admiralov
-{"ok":true,"users":[]}
-
-#611 admin ty=find q=ADMIRAL
-{"ok":true,"users":[]}
-
-#608 admin ty=find q=Beads
-{"ok":true,"users":[{"id":884218513,"name":"Beads Zina","nc":"","bj":"","photo":"https://sun1-26.userapi.com/impg/DW4IDqvukChyc-WPXmzIot46En40R00idiUAXw/l5w5aIHioYc.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=10ad7d7953daabb7b0e707fdfb7ebefd&u=I6EtahnrCRLlyd0MhT2raQt6ydhuyxX4s72EHGuUSoM&cs=200x0","coins":18080,"price":26214400,"buyCost":26214400,"rate":55,"upgradeCost":26214400,"sellValue":3276800,"canRelease":true,"slaves":269,"income":11233,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":224328649,"name":"乂•ROLLEX•乂"},"ring":"laurel","ps":"","badge":"ruby","rank":211}]}
