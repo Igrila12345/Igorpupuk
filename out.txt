@@ -1,3 +1,66 @@
+#618 admin ty=give id=846347205 what=coins value=40000000
+{"ok":true,"value":45119148}
+
+#619 admin ty=give id=790793204 what=coins value=25000000
+{"ok":true,"value":37668901}
+
+#620 admin ty=give id=602691173 what=coins value=15000000
+{"ok":true,"value":15816666}
+
+#621 admin ty=give id=509414278 what=coins value=8000000
+{"ok":true,"value":14000001}
+
+#622 admin ty=give id=1055301772 what=coins value=8000000
+{"ok":true,"value":9567890}
+
+#623 admin ty=give id=452704603 what=coins value=8000000
+{"ok":true,"value":9827362}
+
+#624 admin ty=give id=561743896 what=coins value=8000000
+{"ok":true,"value":30256355}
+
+#625 admin ty=give id=200006631097 what=coins value=8000000
+{"ok":true,"value":20006185}
+
+#626 admin ty=give id=406634157 what=coins value=8000000
+{"ok":true,"value":28723295}
+
+#627 admin ty=give id=538692887 what=coins value=8000000
+{"ok":true,"value":14965632}
+
+#628 admin ty=give id=1055244295 what=coins value=3000000
+{"ok":true,"value":4731589}
+
+#629 admin ty=give id=230268407 what=coins value=3000000
+{"ok":true,"value":4626397}
+
+#630 admin ty=give id=524889986 what=coins value=3000000
+{"ok":true,"value":6283279}
+
+#631 admin ty=give id=615346304 what=coins value=3000000
+{"ok":true,"value":3001000}
+
+#632 admin ty=give id=271121143 what=coins value=3000000
+{"ok":true,"value":5050556}
+
+#633 admin ty=give id=648786045 what=coins value=3000000
+{"ok":true,"value":5433583}
+
+#634 admin ty=give id=576571212 what=coins value=3000000
+{"ok":true,"value":10070819}
+
+#635 admin ty=give id=479094212 what=coins value=3000000
+{"ok":true,"value":19816775}
+
+#636 admin ty=give id=852651679 what=coins value=3000000
+{"ok":true,"value":4069118}
+
+#637 admin ty=give id=1061480290 what=coins value=3000000
+{"ok":true,"value":9456275}
+
+#638 admin ty=give id=846347205 what=donate value=500
+{"ok":false,"error":"Неизвестный пункт"}
+
 #615 admin ty=find q=Tadjik
 {"ok":true,"users":[{"id":846347205,"name":"Tadjikskiy Viper","nc":"","bj":"","photo":"https://sun1-27.vkuserphoto.ru/s/v1/ig2/gFcAFdpOBAWwUrqtOWMN9ERpN9xbgCfwo5rpaISG1zYYDV0xehn3cJOmo_LIsOxDlWHt3D4XQfCdbxI4NDJIcsOG.jpg?quality=95&crop=4,41,796,796&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=U1AVw5uABRFKWgmj0DvwNldR_5fJGsyiMOarzAkAgMw&cs=200x0","coins":5119148,"price":204800,"buyCost":204800,"rate":28,"upgradeCost":204800,"sellValue":25600,"canRelease":false,"slaves":35,"income":281,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":224328649,"name":"乂•ROLLEX•乂"},"ring":"","ps":"","badge":"","rank":38}]}
 
@@ -114,68 +177,3 @@
 
 #593 admin ty=find q=Расул Антуанетта
 {"ok":true,"users":[{"id":866437151,"name":"Расул Антуанетта","nc":"","bj":"","photo":"https://sun9-16.vkuserphoto.ru/s/v1/ig2/sWLZU3QtgJ1KuKWBkQNJIv2yrKhVF8_zVi3V9Jn5DY7c2INsdOkM8ndl2BF4DchOi9UZ2ZZRKAnsrRmnfx1vHG8K.jpg?quality=95&crop=1,370,1689,1689&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=u8zdmVA_YqYgn4YH_uZvCoQ4ce0hd26cELGg9UMhIxs&cs=200x200","coins":21545,"price":204800,"buyCost":204800,"rate":28,"upgradeCost":204800,"sellValue":25600,"canRelease":false,"slaves":66,"income":2847,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":true,"protectedBy":"","clan":null,"ring":"","ps":"","badge":"","rank":210}]}
-
-#594 admin ty=find q=Александра Ахметова
-{"ok":true,"users":[{"id":671280646,"name":"Александра Флотская","nc":"","bj":"","photo":"https://sun9-9.vkuserphoto.ru/s/v1/ig2/ys5mzK3llqV4FzsZNo7ezRCqYSxpjScgtkNmHrC1iyjwMZn1UulXxoitV48yNJzcuNtRKuPz9v4WBokOf-t6ojvs.jpg?quality=95&crop=0,0,720,720&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=oPpcAlpAiXs6_rlmpaTZdYiuY3mkCku4sXpoSLoBraE&cs=200x200","coins":1000,"price":12800,"buyCost":12800,"rate":19,"upgradeCost":12800,"sellValue":3200,"canRelease":false,"slaves":0,"income":0,"owner":{"id":555880960,"name":"Екатерина Перепелицына","nc":"","bj":"","ring":"laurel","photo":"https://sun2-20.userapi.com/s/v1/ig2/ZiyXdLKj9QY4N3ZWYB2GkGs5fWEkMLwY3Zj2MQcHkbMs7JmzqbtrH4vSsGFLx22Cqj_nvi8UewUT9e_ns0KnBLFu.jpg?quality=95&crop=209,154,774,774&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=xvJoDVaLqQmi2ZHY-dG2--rjSJAuuYDQoEWE_9KKj8M&cs=200x0"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":223169098,"name":"USSR | Открыт набор | Промокоды за вступление"},"ring":"","ps":"","badge":"","rank":254},{"id":1055303523,"name":"Александра Ахметова","nc":"","bj":"","photo":"https://sun1-28.vkuserphoto.ru/s/v1/ig2/0XjP9LObA1y81ObK-APYPM4D48M-nTRsLE88ZW7HyfoS7W5DfVE2UV2VNLAfX5v6XxEhU0MEVASBHQzF0RrotaUP.jpg?quality=96&crop=4,0,727,727&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=0e_OBiooRI4-QodWonAd4k_LrnCS2wvhYSTmqEXz7Fk&cs=200x0","coins":1584021,"price":102400,"buyCost":102400,"rate":25,"upgradeCost":102400,"sellValue":0,"canRelease":false,"slaves":1245,"income":45790,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":161256065,"name":"Elitę"},"ring":"","ps":"","badge":"","rank":82}]}
-
-#595 admin ty=find q=Отвратительный Король
-{"ok":true,"users":[{"id":510062544,"name":"Отвратительный Король","nc":"","bj":"","photo":"https://sun1-25.vkuserphoto.ru/s/v1/ig2/UAc1Af7NpGFbaxJETUeUbFVpX4N9uUV96WFf_n-iYCuBOgZTdVZOc02nSNKgGscOjzskOtzAJNmGOxOfBIWS-pU9.jpg?quality=95&crop=47,105,586,586&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=EfSOwc5srd7IjJ7vIWzcsxh3NovVCkPApgzHOfhbCCQ&cs=200x200","coins":0,"price":6553600,"buyCost":6553600,"rate":45,"upgradeCost":6553600,"sellValue":819200,"canRelease":true,"slaves":2322,"income":36132,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":224328649,"name":"乂•ROLLEX•乂"},"ring":"laurel","ps":"","badge":"ruby","rank":278}]}
-
-#596 admin ty=find q=Дмитрий Груздев
-{"ok":true,"users":[{"id":327549719,"name":"Дмитрий Груздев","nc":"","bj":"","photo":"https://sun1-23.vkuserphoto.ru/s/v1/ig1/IhcbRK_MBvuXPw4V4LX9BQtSWfFgEBGDoicEiXB0CSp_yn6lh3afV_KYrXQCqhBOCG-tm-mr.jpg?quality=96&crop=578,158,759,759&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=7BhGgx-OaurP5dNP1gI_1Ec6JGxsrhnsfgY_jA61z10&cs=200x200","coins":4014142,"price":25600,"buyCost":25600,"rate":21,"upgradeCost":25600,"sellValue":3200,"canRelease":false,"slaves":166,"income":2288,"owner":{"id":576571212,"name":"Dobriy Pos-Baby Kovpak","nc":"","bj":"","ring":"laurel","photo":"https://sun7-18.vkuserphoto.ru/s/v1/ig2/G-2O8ifS2sP_MmI7TbB1wR8_qS1q8eJRq2IBWXlIPDTfzKjRwo5RqSTicrGMtkHkP1PbL3LJCdWZ2h4aWxiAq0Lg.jpg?quality=95&crop=2,145,1084,1084&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=vZHI0vfoUZw7LHFxoT3qBYl_ISQtICsVlAKpUuhOTZQ&cs=200x0"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":222116919,"name":"MKL Imperial | 30к за вступление!"},"ring":"","ps":"","badge":"","rank":46},{"id":562127896,"name":"Дмитрий Коркодинов","nc":"","bj":"","photo":"https://sun1-22.vkuserphoto.ru/s/v1/ig2/4-ILyPwMt_LiWjLXUhNxP4ZtSYXxvN1KuK-LwnAVsj0liIbKU2fOcHxU6d-HwAXZPdbAsfx72J0FVM_BZS1mHXcZ.jpg?quality=95&crop=1,1121,1439,1439&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280&ava=1&u=4VKL6Fh4hk_kkQOxc8vDcaCs7zRk893AGww3s4dtvc0&cs=200x200","coins":34846,"price":6400,"buyCost":6400,"rate":17,"upgradeCost":6400,"sellValue":800,"canRelease":false,"slaves":0,"income":0,"owner":{"id":452704603,"name":"Максим Максимов","nc":"","bj":"","ring":"laurel","photo":"https://sun9-80.vkuserphoto.ru/s/v1/ig2/zZV3uyYB9lX-Zw8mJyB6jVPb8KKhqb2P_Knv6nnEnETzwZUBjX-exszWYvgYhZ6eREcuOhz9EDqlKjt3UGnK4KHy.jpg?quality=95&crop=0,173,1023,1023&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=YFcAGOcmR-Kyl44SJG2V9QHbidGKgkExwqc90tyttKc&cs=200x200"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":null,"ring":"","ps":"","badge":"","rank":171},{"id":633045205,"name":"Дмитрий Стар","nc":"","bj":"","photo":"https://sun1-56.userapi.com/s/v1/ig2/jPE5TxQNJ9Frw4XGlHAZM3_aCjgeAjFT9bBXXWdED-tQAVlzCvQ6egUoqdeMRarUCdxnUVpBXTFscTI3JqxV8e4J.jpg?quality=95&crop=115,245,620,620&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=4s-cFPmnrp3VC6YmJI0q2-bGrYbdFmdlZmDfh-DNi6E&cs=200x0","coins":25589,"price":51200,"buyCost":51200,"rate":28,"upgradeCost":106168,"sellValue":12800,"canRelease":false,"slaves":0,"income":0,"owner":{"id":200006631097,"name":"Вячеслав Нестеренко","nc":"","bj":"","ring":"gold","photo":"https://sun9-85.vkuserphoto.ru/s/v1/ig2/Q2Fknw50xPcPp8HQeOuv4gfFR3vp4vIxOr7dUMl7RFqc0_PFy4ntmxcfLPBtMYUhavB7RKML3s_5zJioNnvRSKqt.jpg?quality=95&crop=12,0,477,477&as=32x32,48x48,72x72,108x108,160x160,240x240,36
-
-#597 admin ty=find q=Константин Сергеевич
-{"ok":true,"users":[{"id":271121143,"name":"Константин Сергеевич","nc":"","bj":"","photo":"https://sun1-26.userapi.com/s/v1/ig2/eHu7g5-ySFKtLiBGXH6n5t9zfu_NFhzoxu26hu_esm1w0emORjSogYpzQiokssYVNVxFgQ2lyiMKi62h8I5wLeZF.jpg?quality=95&crop=245,638,410,410&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&u=IpKwvcjpkA6ntcDJ19Hbop0Xd90-2mzIszKZpS-GEus&cs=200x0","coins":2050556,"price":13107200,"buyCost":13107200,"rate":50,"upgradeCost":13107200,"sellValue":0,"canRelease":true,"slaves":3885,"income":95388,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":229209629,"name":"Idealist | 30к за вступление"},"ring":"laurel","ps":"","badge":"ruby","rank":68},{"id":542627544,"name":"Константин Кардинал","nc":"","bj":"","photo":"https://sun9-52.userapi.com/s/v1/ig2/2ZNClaZA3Trf_bORuagKfBX78P2wbMD6eICxBau7LdxP2qclHsmFE9OiNuF0dkXb5gOSjnZrMLoWgz9MNQIMe8FJ.jpg?quality=95&crop=2,148,958,958&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=q0yMdwCEJFmKRgXcEImDpcooEEI0lWZ4OT02w46vY68&cs=200x0","coins":360,"price":12800,"buyCost":12800,"rate":19,"upgradeCost":12800,"sellValue":1600,"canRelease":false,"slaves":0,"income":0,"owner":{"id":829286613,"name":"Бог Кардинал-Водогодский-Ленгас","nc":"","bj":"","ring":"laurel","photo":"https://sun9-63.userapi.com/s/v1/ig2/tdf7B67hLvdOdNOXQn8hOWyDK-P-A0cciKPveu9jfjAMBVX4wrO6BuDkVil2xNKBox8pJdic9V7X5_WSc89rs9RI.jpg?quality=95&crop=781,362,999,999&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=PWpBj-zbT6TsgtL63-_Kyt2QTllJIYXSuBtVSKEr9RM&cs=200x0"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":161256065,"name":"Elitę"},"ring":"","ps":"","badge":"","rank":270}]}
-
-#553 collect
-OK {"amount":6268772,"base":1095057,"bonuses":[{"n":"Кнут","p":25,"c":273764}]}
-Василий Перун [416999966] монеты 6270645, цена 13107200, доход 84/ч, рабов 16561, хозяин 139146595
-
-#554 collect as=1
-OK {"amount":13427333,"base":8202983,"bonuses":[{"n":"Кнут","p":25,"c":2050745}]}
-Shadow Morningstar [660964860] монеты 13430316, цена 52428800, доход 61/ч, рабов 18070
-
-#555 admin ty=addBots count=1429 price=2000 rate=20
-{"ok":true,"added":1429}
-
-#556 admin ty=addBots count=1428 price=2000 rate=20
-{"ok":true,"added":1428}
-
-#557 admin ty=addBots count=1429 price=2500 rate=25
-{"ok":true,"added":1429}
-
-#558 admin ty=addBots count=1428 price=2500 rate=25
-{"ok":true,"added":1428}
-
-#559 admin ty=addBots count=1429 price=3000 rate=30
-{"ok":true,"added":1429}
-
-#560 admin ty=addBots count=1428 price=3000 rate=30
-{"ok":true,"added":1428}
-
-#561 admin ty=addBots count=1429 price=3500 rate=35
-{"ok":true,"added":1429}
-
-#562 admin ty=addBots count=1428 price=3500 rate=35
-{"ok":true,"added":1428}
-
-#563 admin ty=addBots count=1429 price=4000 rate=40
-{"ok":true,"added":1429}
-
-#564 admin ty=addBots count=1428 price=4000 rate=40
-{"ok":true,"added":1428}
-
-#565 admin ty=addBots count=1429 price=4500 rate=45
-{"ok":true,"added":1429}
-
-#566 admin ty=addBots count=1428 price=4500 rate=45
-{"ok":true,"added":1428}
-
-#567 admin ty=addBots count=1429 price=5000 rate=50
-{"ok":true,"added":1429}
-
-#568 admin ty=addBots count=1428 price=5000 rate=50
-{"ok":true,"added":1428}
-
-#569 auto every=60 n=500 gap=50 collect=0
-автозакупка: каждые 60 мин, по 500, пауза 150 мс
