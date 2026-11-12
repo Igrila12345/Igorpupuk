@@ -1,3 +1,30 @@
+#683 list of=users w=bot!=1 w1=seen>=1793885250000 sort=-income fields=income,bal,price n=12
+всего: 178
+1. [1065679388] income=1262212 bal=45045420 price=209715200
+2. [1132299161] income=1188416 bal=61250991 price=104857600
+3. [406634157] income=535647 bal=28723295 price=104857600
+4. [660964860] income=531585 bal=12447100 price=52428800
+5. [479094212] income=479203 bal=28727424 price=6553600
+6. [1107424416] income=368078 bal=20772845 price=6553600
+7. [357413627] income=350437 bal=0 price=52428800
+8. [2180119] income=350078 bal=20409926 price=13107200
+9. [599874417] income=322105 bal=11103242 price=104857600
+10. [200006631097] income=292933 bal=24955132 price=13107200
+11. [776689627] income=276907 bal=18038308 price=26214400
+12. [576571212] income=193833 bal=9390522 price=26214400
+
+#684 list of=users w=bot!=1 w1=seen>=1793885250000 w2=income>=1000 n=1
+всего: 98
+1. [2180119] name=Роман Бауман bal=20409926
+
+#685 list of=users w=bot!=1 w1=seen>=1793885250000 w2=income>=10000 n=1
+всего: 74
+1. [2180119] name=Роман Бауман bal=20409926
+
+#686 list of=users w=bot!=1 w1=seen>=1793885250000 w2=income>=100000 n=1
+всего: 22
+1. [2180119] name=Роман Бауман bal=20409926
+
 #668 admin ty=addBots count=1429 price=2000 rate=20
 {"ok":true,"added":1429}
 
@@ -166,15 +193,3 @@ Tadjikskiy Viper [846347205] монеты 45119148, цена 204800, доход 
 
 #629 admin ty=give id=230268407 what=coins value=3000000
 {"ok":true,"value":4626397}
-
-#630 admin ty=give id=524889986 what=coins value=3000000
-{"ok":true,"value":6283279}
-
-#631 admin ty=give id=615346304 what=coins value=3000000
-{"ok":true,"value":3001000}
-
-#632 admin ty=give id=271121143 what=coins value=3000000
-{"ok":true,"value":5050556}
-
-#633 admin ty=give id=648786045 what=coins value=3000000
-{"ok":true,"value":5433583}
