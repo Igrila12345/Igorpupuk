@@ -1,4 +1,1 @@
-683 list of=users w=bot!=1 w1=seen>=1793885250000 sort=-income fields=income,bal,price n=12
-684 list of=users w=bot!=1 w1=seen>=1793885250000 w2=income>=1000 n=1
-685 list of=users w=bot!=1 w1=seen>=1793885250000 w2=income>=10000 n=1
-686 list of=users w=bot!=1 w1=seen>=1793885250000 w2=income>=100000 n=1
+687 admin ty=ymFails
