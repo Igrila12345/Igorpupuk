@@ -1,3 +1,49 @@
+#702 admin ty=addBots count=1071 price=2000 rate=20
+{"ok":true,"added":1071}
+
+#703 admin ty=addBots count=1071 price=2000 rate=20
+{"ok":true,"added":1071}
+
+#704 admin ty=addBots count=1071 price=2500 rate=25
+{"ok":true,"added":1071}
+
+#705 admin ty=addBots count=1071 price=2500 rate=25
+{"ok":true,"added":1071}
+
+#706 admin ty=addBots count=1071 price=3000 rate=30
+{"ok":true,"added":1071}
+
+#707 admin ty=addBots count=1071 price=3000 rate=30
+{"ok":true,"added":1071}
+
+#708 admin ty=addBots count=1071 price=3500 rate=35
+{"ok":true,"added":1071}
+
+#709 admin ty=addBots count=1071 price=3500 rate=35
+{"ok":true,"added":1071}
+
+#710 admin ty=addBots count=1071 price=4000 rate=40
+{"ok":true,"added":1071}
+
+#711 admin ty=addBots count=1071 price=4000 rate=40
+{"ok":true,"added":1071}
+
+#712 admin ty=addBots count=1071 price=4500 rate=45
+{"ok":true,"added":1071}
+
+#713 admin ty=addBots count=1071 price=4500 rate=45
+{"ok":true,"added":1071}
+
+#714 admin ty=addBots count=1074 price=5000 rate=50
+{"ok":true,"added":1074}
+
+#715 admin ty=addBots count=1074 price=5000 rate=50
+{"ok":true,"added":1074}
+
+#716 list of=users w1=owner=0 fields=id n=1
+всего: 32222
+1. [2180119] id=2180119
+
 #699 auto every=60 n=700 gap=50 collect=0 as=1
 автозакупка: каждые 60 мин, по 700, пауза 150 мс
 
@@ -152,48 +198,3 @@ OK {"amount":28531674,"base":1900715,"bonuses":[]}
 
 #658 admin ty=give id=1055244295 what=gems value=50
 {"ok":true,"value":50}
-
-#659 admin ty=give id=230268407 what=gems value=50
-{"ok":true,"value":50}
-
-#660 admin ty=give id=524889986 what=gems value=50
-{"ok":true,"value":54}
-
-#661 admin ty=give id=615346304 what=gems value=50
-{"ok":true,"value":50}
-
-#662 admin ty=give id=271121143 what=gems value=50
-{"ok":true,"value":120}
-
-#663 admin ty=give id=648786045 what=gems value=50
-{"ok":true,"value":50}
-
-#664 admin ty=give id=576571212 what=gems value=50
-{"ok":true,"value":88}
-
-#665 admin ty=give id=479094212 what=gems value=50
-{"ok":true,"value":50}
-
-#666 admin ty=give id=852651679 what=gems value=50
-{"ok":true,"value":50}
-
-#667 admin ty=give id=1061480290 what=gems value=50
-{"ok":true,"value":50}
-
-#646 set sm=sm_heart as=846347205
-Tadjikskiy Viper [846347205] монеты 45119148, цена 204800, доход 28/ч, рабов 35
-
-#647 admin ty=find q=Tadjikskiy
-{"ok":true,"users":[{"id":846347205,"name":"Tadjikskiy Viper","nc":"x_chrome","bj":"sm_heart","photo":"https://sun1-27.vkuserphoto.ru/s/v1/ig2/gFcAFdpOBAWwUrqtOWMN9ERpN9xbgCfwo5rpaISG1zYYDV0xehn3cJOmo_LIsOxDlWHt3D4XQfCdbxI4NDJIcsOG.jpg?quality=95&crop=4,41,796,796&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=U1AVw5uABRFKWgmj0DvwNldR_5fJGsyiMOarzAkAgMw&cs=200x0","coins":45119148,"price":204800,"buyCost":204800,"rate":28,"upgradeCost":204800,"sellValue":25600,"canRelease":false,"slaves":35,"income":281,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":224328649,"name":"乂•ROLLEX•乂"},"ring":"f_candy","ps":"","badge":"","rank":2}]}
-
-#644 admin ty=find q=Tadjikskiy
-{"ok":true,"users":[{"id":846347205,"name":"Tadjikskiy Viper","nc":"x_chrome","bj":"","photo":"https://sun1-27.vkuserphoto.ru/s/v1/ig2/gFcAFdpOBAWwUrqtOWMN9ERpN9xbgCfwo5rpaISG1zYYDV0xehn3cJOmo_LIsOxDlWHt3D4XQfCdbxI4NDJIcsOG.jpg?quality=95&crop=4,41,796,796&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=U1AVw5uABRFKWgmj0DvwNldR_5fJGsyiMOarzAkAgMw&cs=200x0","coins":45119148,"price":204800,"buyCost":204800,"rate":28,"upgradeCost":204800,"sellValue":25600,"canRelease":false,"slaves":35,"income":281,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":224328649,"name":"乂•ROLLEX•乂"},"ring":"f_candy","ps":"","badge":"","rank":2}]}
-
-#645 admin ty=find q=Данил Красин
-{"ok":true,"users":[{"id":549216230,"name":"Данил Фролов-Дарков","nc":"","bj":"","photo":"https://sun1-26.vkuserphoto.ru/s/v1/ig2/JMCJhCQ84vNqt1l1fFLJD3KmmZPWq9sqvvxC_JakZ298xpj_7BN7GrZ1DnseY-Ox940sA8_jXyv6uvm60Al2-l8p.jpg?quality=95&crop=0,320,1920,1920&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=Qj3Kb49wnv7GW9X4zg5MoA4Dfh7QSlhs654QC1SoiYQ&cs=200x0","coins":61000,"price":12800,"buyCost":12800,"rate":19,"upgradeCost":12800,"sellValue":3200,"canRelease":false,"slaves":0,"income":0,"owner":{"id":844592273,"name":"Vova Ynin","nc":"","bj":"","ring":"laurel","photo":"https://sun9-15.userapi.com/s/v1/ig2/nbfEZkPFkkKwtvHlOuzDjcYE57u-LzR2Q_v8qjsUgUuGDr7mhaNpD4Il03OE14G7KXBUKZZSjHZgRnViDj-ee6mK.jpg?quality=95&crop=310,0,882,882&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=A2eb8IJ2Soq3lawc8wAaxzojfIYodh26Z8Gfnvsw_0w&cs=200x0"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"chains","clan":{"id":222830640,"name":"Requiem"},"ring":"","ps":"","badge":"","rank":155},{"id":790793204,"name":"Данил Красин","nc":"rainbow","bj":"","photo":"https://sun1-26.vkuserphoto.ru/impg/DW4IDqvukChyc-WPXmzIot46En40R00idiUAXw/l5w5aIHioYc.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=10ad7d7953daabb7b0e707fdfb7ebefd&u=I6EtahnrCRLlyd0MhT2raQt6ydhuyxX4s72EHGuUSoM&cs=200x200","coins":37818901,"price":26214400,"buyCost":26214400,"rate":55,"upgradeCost":26214400,"sellValue":0,"canRelease":true,"slaves":10447,"income":171299,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":229209629,"name":"Idealist | 30к за вступление"},"ring":"laurel","ps":"","badge":"ruby","rank":4}]}
-
-#639 acc add=846347205
-Аккаунты под управлением: Аделина Преображенская [1132299161], Tadjikskiy Viper [846347205]
-
-#640 set ring=f_candy nc=x_chrome as=846347205
-Tadjikskiy Viper [846347205] монеты 45119148, цена 204800, доход 28/ч, рабов 35
