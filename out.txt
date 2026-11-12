@@ -1,3 +1,7 @@
+#693 collect as=1132299161
+OK {"amount":28531674,"base":1900715,"bonuses":[]}
+Аделина Преображенская [1132299161] монеты 89782665, цена 104857600, доход 70/ч, рабов 34508
+
 #692 admin ty=ymFails
 {"ok":true,"list":[{"t":1794491324174,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"403.13","cur":"643","cp":"false","op":"test-notification"},{"t":1794491314110,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"403.13","cur":"643","cp":"false","op":"test-notification"},{"t":1794491227949,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"864.31","cur":"643","cp":"false","op":"test-notification"},{"t":1794491224319,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"482.72","cur":"643","cp":"false","op":"test-notification"},{"t":1794491218139,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"760.94","cur":"643","cp":"false","op":"test-notification"},{"t":1794491217458,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"864.31","cur":"643","cp":"false","op":"test-notification"},{"t":1794491214205,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"482.72","cur":"643","cp":"false","op":"test-notification"},{"t":1794491207990,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"760.94","cur":"643","cp":"false","op":"test-notification"},{"t":1794491044683,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"1095310362-mwdl7ngm2b9ff255","amount":"77.60","wd":"80.00","cur":"643","cp":"false","un":"false","op":"847805627074493124"},{"t":1794490444477,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"1095310362-mwdl7ngm2b9ff255","amount":"77.60","wd":"80.00","cur":"643","cp":"false","un":"false","op":"847805627074493124"},{"t":1794490434041,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"1095310362-mwdl7ngm2b9ff255","amount":"77.60","wd":"80.00","cur":"643","cp":"false","un":"false","op":"847805627074493124"}]}
 
@@ -190,6 +194,3 @@ Tadjikskiy Viper [846347205] монеты 45119148, цена 204800, доход 
 
 #622 admin ty=give id=1055301772 what=coins value=8000000
 {"ok":true,"value":9567890}
-
-#623 admin ty=give id=452704603 what=coins value=8000000
-{"ok":true,"value":9827362}
