@@ -1,2 +1,1 @@
-737 list sort=-sw.all fields=name,sw.all,st.slot n=12 w=st.slot>0
-738 list sort=-st.slot fields=name,st.slot,sw.all n=100 w=st.slot>0
+739 list sort=-sw.all fields=name,sw.all,st.slot,created n=8 w=st.slot>0
