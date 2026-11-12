@@ -1,3 +1,51 @@
+#938 admin ty=give id=818683566 what=shield value=0
+{"ok":true}
+
+#939 admin ty=give id=824850634 what=shield value=0
+{"ok":true}
+
+#940 admin ty=give id=833447292 what=shield value=0
+{"ok":true}
+
+#941 admin ty=give id=834374252 what=shield value=0
+{"ok":true}
+
+#942 admin ty=give id=844592273 what=shield value=0
+{"ok":true}
+
+#943 admin ty=give id=846347205 what=shield value=0
+{"ok":true}
+
+#944 admin ty=give id=852651679 what=shield value=0
+{"ok":true}
+
+#945 admin ty=give id=855553012 what=shield value=0
+{"ok":true}
+
+#946 admin ty=give id=866257381 what=shield value=0
+{"ok":true}
+
+#947 admin ty=give id=866437151 what=shield value=0
+{"ok":true}
+
+#948 admin ty=give id=870580522 what=shield value=0
+{"ok":true}
+
+#949 admin ty=give id=877056777 what=shield value=0
+{"ok":true}
+
+#950 admin ty=give id=877880626 what=shield value=0
+{"ok":true}
+
+#951 admin ty=give id=881694706 what=shield value=0
+{"ok":true}
+
+#952 admin ty=give id=884218513 what=shield value=0
+{"ok":true}
+
+#953 admin ty=give id=888884972 what=shield value=0
+{"ok":true}
+
 #862 admin ty=give id=2180119 what=shield value=0
 {"ok":true}
 
@@ -128,52 +176,4 @@
 {"ok":true}
 
 #905 admin ty=give id=602691173 what=shield value=0
-{"ok":true}
-
-#906 admin ty=give id=614925733 what=shield value=0
-{"ok":true}
-
-#907 admin ty=give id=615216448 what=shield value=0
-{"ok":true}
-
-#908 admin ty=give id=618221787 what=shield value=0
-{"ok":true}
-
-#909 admin ty=give id=619511531 what=shield value=0
-{"ok":true}
-
-#910 admin ty=give id=621106709 what=shield value=0
-{"ok":true}
-
-#911 admin ty=give id=640028712 what=shield value=0
-{"ok":true}
-
-#912 admin ty=give id=652442259 what=shield value=0
-{"ok":true}
-
-#913 admin ty=give id=712233403 what=shield value=0
-{"ok":true}
-
-#914 admin ty=give id=715705553 what=shield value=0
-{"ok":true}
-
-#915 admin ty=give id=720500734 what=shield value=0
-{"ok":true}
-
-#916 admin ty=give id=741408856 what=shield value=0
-{"ok":true}
-
-#917 admin ty=give id=756361600 what=shield value=0
-{"ok":true}
-
-#918 admin ty=give id=758276627 what=shield value=0
-{"ok":true}
-
-#919 admin ty=give id=765415562 what=shield value=0
-{"ok":true}
-
-#920 admin ty=give id=776689627 what=shield value=0
-{"ok":true}
-
-#921 admin ty=give id=790793204 what=shield value=0
 {"ok":true}
