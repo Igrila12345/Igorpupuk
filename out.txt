@@ -1,3 +1,12 @@
+#612 admin ty=find q=Караев
+{"ok":true,"users":[{"id":852651679,"name":"Александр Караев","nc":"","bj":"","photo":"https://sun1-20.vkuserphoto.ru/s/v1/ig2/begfp9VL82bT8FV5avnYzwutdZqxw1K8joGYqzugqdT5cjDCwJMrvFtDlujjXS8SfspUKUdLzuqqvmwCUIdHoZ0f.jpg?quality=95&crop=128,34,681,681&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640&ava=1&u=WYHmMMOfh3T3ELA6bYNTuxrV1Gmd1Lxqo4IvCs0zUVM&cs=200x0","coins":1069118,"price":204800,"buyCost":204800,"rate":28,"upgradeCost":204800,"sellValue":51200,"canRelease":false,"slaves":644,"income":17406,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":161256065,"name":"Elitę"},"ring":"laurel","ps":"","badge":"ruby","rank":90}]}
+
+#613 admin ty=find q=Бабка
+{"ok":true,"users":[{"id":1061480290,"name":"Позывной Бабка Ежка","nc":"","bj":"","photo":"https://sun1-87.vkuserphoto.ru/s/v1/ig2/aBLsKANBta9xLTvE5Z95URjPmLvowbBNRLNTm8bf09sU11msaAU7RUnX5G7WoG0c_ax1KBaRREdbB4QBYAO7Rx94.jpg?quality=95&crop=552,0,1343,1343&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280&ava=1&u=jkkS5mFMnG5kHCLdxmoni7fg407HL9c7bnpLdbJpcyY&cs=200x0","coins":6456275,"price":3276800,"buyCost":3276800,"rate":41,"upgradeCost":3276800,"sellValue":819200,"canRelease":true,"slaves":1019,"income":16623,"owner":{"id":1132299161,"name":"Аделина Преображенская","nc":"x_casino","bj":"","ring":"f_cas1","photo":"https://sun1-30.vkuserphoto.ru/s/v1/ig2/sUcfRVBi0ygiH9B-gAqzgDd4FImSDBjJ0HioK2RSCcAKYi8vUTJs3sxzy6vhujY2LuWYTo-Y337__5dBQE9Ld17p.jpg?quality=95&crop=0,659,1676,1676&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=FL0CoWb4JHxWaMddXHSjbk8PAKZaW0KuCobm6G0x5wY&cs=200x200"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":212896729,"name":"Сказочные долбо#бы"},"ring":"laurel","ps":"","badge":"ruby","rank":32}]}
+
+#614 player 406634157
+卂刀从工尺卂乚口リ 口下下工匚工卂乚 [406634157] монеты 20723295, цена 104857600, доход 67/ч, рабов 23936
+
 #609 admin ty=find q=OFFICIAL
 {"ok":true,"users":[]}
 
@@ -170,14 +179,3 @@ Shadow Morningstar [660964860] монеты 13430316, цена 52428800, дох�
 
 #572 autostat as=1
 каждые 60 мин, по 500, пауза 150 мс, следующая через 0 мин; сейчас ждёт; прошлая: куплено 0 на 0, стоп: Недостаточно монет
-
-#573 player 416999966
-Василий Перун [416999966] монеты 6270645, цена 13107200, доход 84/ч, рабов 16561, хозяин 139146595
-хозяин: Виталий Аркадьевич [139146595] монеты 11127719, цена 13107200, доход 50/ч, рабов 7566
-
-#574 player 660964860
-Shadow Morningstar [660964860] монеты 13430316, цена 52428800, доход 61/ч, рабов 18070
-
-#546 player 416999966
-Василий Перун [416999966] монеты 1873, цена 13107200, доход 84/ч, рабов 16561, хозяин 139146595
-хозяин: Виталий Аркадьевич [139146595] монеты 11127719, цена 13107200, доход 50/ч, рабов 7566
