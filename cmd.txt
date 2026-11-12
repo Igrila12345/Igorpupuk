@@ -302,3 +302,5 @@
 643 set bj=heart as=846347205
 644 admin ty=find q=Tadjikskiy
 645 admin ty=find q=Данил Красин
+646 set sm=sm_heart as=846347205
+647 admin ty=find q=Tadjikskiy
