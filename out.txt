@@ -1,230 +1,179 @@
-#844 admin ty=give id=776689627 what=shield value=8760
+#862 admin ty=give id=2180119 what=shield value=0
 {"ok":true}
 
-#845 admin ty=give id=790793204 what=shield value=8760
+#863 admin ty=give id=26169737 what=shield value=0
 {"ok":true}
 
-#846 admin ty=give id=818683566 what=shield value=8760
+#864 admin ty=give id=115374735 what=shield value=0
 {"ok":true}
 
-#847 admin ty=give id=824850634 what=shield value=8760
+#865 admin ty=give id=139146595 what=shield value=0
 {"ok":true}
 
-#848 admin ty=give id=833447292 what=shield value=8760
+#866 admin ty=give id=194580290 what=shield value=0
 {"ok":true}
 
-#849 admin ty=give id=834374252 what=shield value=8760
+#867 admin ty=give id=230268407 what=shield value=0
 {"ok":true}
 
-#850 admin ty=give id=844592273 what=shield value=8760
+#868 admin ty=give id=231611442 what=shield value=0
 {"ok":true}
 
-#851 admin ty=give id=846347205 what=shield value=8760
+#869 admin ty=give id=263118406 what=shield value=0
 {"ok":true}
 
-#852 admin ty=give id=852651679 what=shield value=8760
+#870 admin ty=give id=271121143 what=shield value=0
 {"ok":true}
 
-#853 admin ty=give id=855553012 what=shield value=8760
+#871 admin ty=give id=321220270 what=shield value=0
 {"ok":true}
 
-#854 admin ty=give id=866257381 what=shield value=8760
+#872 admin ty=give id=357413627 what=shield value=0
 {"ok":true}
 
-#855 admin ty=give id=866437151 what=shield value=8760
+#873 admin ty=give id=363572354 what=shield value=0
 {"ok":true}
 
-#856 admin ty=give id=870580522 what=shield value=8760
+#874 admin ty=give id=406634157 what=shield value=0
 {"ok":true}
 
-#857 admin ty=give id=877056777 what=shield value=8760
+#875 admin ty=give id=416502838 what=shield value=0
 {"ok":true}
 
-#858 admin ty=give id=877880626 what=shield value=8760
+#876 admin ty=give id=445341403 what=shield value=0
 {"ok":true}
 
-#859 admin ty=give id=881694706 what=shield value=8760
+#877 admin ty=give id=452704603 what=shield value=0
 {"ok":true}
 
-#860 admin ty=give id=884218513 what=shield value=8760
+#878 admin ty=give id=461098227 what=shield value=0
 {"ok":true}
 
-#861 admin ty=give id=888884972 what=shield value=8760
+#879 admin ty=give id=466608211 what=shield value=0
 {"ok":true}
 
-#842 list of=users w1=owner=0 fields=id n=1
-всего: 27561
-1. [2180119] id=2180119
-
-#843 list of=users w1=owner=0 w2=id<=899999999 fields=id n=100
-всего: 77
-1. [2180119] id=2180119
-2. [26169737] id=26169737
-3. [115374735] id=115374735
-4. [139146595] id=139146595
-5. [194580290] id=194580290
-6. [230268407] id=230268407
-7. [231611442] id=231611442
-8. [263118406] id=263118406
-9. [271121143] id=271121143
-10. [321220270] id=321220270
-11. [357413627] id=357413627
-12. [363572354] id=363572354
-13. [406634157] id=406634157
-14. [416502838] id=416502838
-15. [445341403] id=445341403
-16. [452704603] id=452704603
-17. [461098227] id=461098227
-18. [466608211] id=466608211
-19. [479094212] id=479094212
-20. [494156596] id=494156596
-21. [509414278] id=509414278
-22. [510062544] id=510062544
-23. [510317709] id=510317709
-24. [524889986] id=524889986
-25. [534497120] id=534497120
-26. [536275237] id=536275237
-27. [547166070] id=547166070
-28. [548468068] id=548468068
-29. [555880960] id=555880960
-30. [558812363] id=558812363
-31. [559368482] id=559368482
-32. [561743896] id=561743896
-33. [569937200] id=569937200
-34. [573233132] id=573233132
-35. [578630836] id=578630836
-36. [587396441] id=587396441
-37. [590223593] id=590223593
-38. [592484611] id=592484611
-39. [592980632] id=592980632
-40. [597663228] id=597663228
-41. [599874417] id=599874417
-42. [600335304] id=600335304
-43. [601836857] id=601836857
-44. [602691173] id=602691173
-45. [614925733] id=614925733
-46. [615216448] id=615216448
-47. [618221787] id=618221787
-48. [619511531] id=619511531
-49. [621106709] id=621106709
-50. [640028712] id=640028712
-
-#766 admin ty=give id=2180119 what=shield value=8760
+#880 admin ty=give id=479094212 what=shield value=0
 {"ok":true}
 
-#767 admin ty=give id=26169737 what=shield value=8760
+#881 admin ty=give id=494156596 what=shield value=0
 {"ok":true}
 
-#768 admin ty=give id=115374735 what=shield value=8760
+#882 admin ty=give id=509414278 what=shield value=0
 {"ok":true}
 
-#769 admin ty=give id=139146595 what=shield value=8760
+#883 admin ty=give id=510062544 what=shield value=0
 {"ok":true}
 
-#770 admin ty=give id=194580290 what=shield value=8760
+#884 admin ty=give id=510317709 what=shield value=0
 {"ok":true}
 
-#771 admin ty=give id=230268407 what=shield value=8760
+#885 admin ty=give id=524889986 what=shield value=0
 {"ok":true}
 
-#772 admin ty=give id=231611442 what=shield value=8760
+#886 admin ty=give id=534497120 what=shield value=0
 {"ok":true}
 
-#773 admin ty=give id=263118406 what=shield value=8760
+#887 admin ty=give id=536275237 what=shield value=0
 {"ok":true}
 
-#774 admin ty=give id=271121143 what=shield value=8760
+#888 admin ty=give id=547166070 what=shield value=0
 {"ok":true}
 
-#775 admin ty=give id=321220270 what=shield value=8760
+#889 admin ty=give id=548468068 what=shield value=0
 {"ok":true}
 
-#776 admin ty=give id=357413627 what=shield value=8760
+#890 admin ty=give id=555880960 what=shield value=0
 {"ok":true}
 
-#777 admin ty=give id=363572354 what=shield value=8760
+#891 admin ty=give id=558812363 what=shield value=0
 {"ok":true}
 
-#778 admin ty=give id=406634157 what=shield value=8760
+#892 admin ty=give id=559368482 what=shield value=0
 {"ok":true}
 
-#779 admin ty=give id=416502838 what=shield value=8760
+#893 admin ty=give id=561743896 what=shield value=0
 {"ok":true}
 
-#780 admin ty=give id=445341403 what=shield value=8760
+#894 admin ty=give id=569937200 what=shield value=0
 {"ok":true}
 
-#781 admin ty=give id=452704603 what=shield value=8760
+#895 admin ty=give id=573233132 what=shield value=0
 {"ok":true}
 
-#782 admin ty=give id=461098227 what=shield value=8760
+#896 admin ty=give id=578630836 what=shield value=0
 {"ok":true}
 
-#783 admin ty=give id=466608211 what=shield value=8760
+#897 admin ty=give id=587396441 what=shield value=0
 {"ok":true}
 
-#784 admin ty=give id=479094212 what=shield value=8760
+#898 admin ty=give id=590223593 what=shield value=0
 {"ok":true}
 
-#785 admin ty=give id=494156596 what=shield value=8760
+#899 admin ty=give id=592484611 what=shield value=0
 {"ok":true}
 
-#786 admin ty=give id=509414278 what=shield value=8760
+#900 admin ty=give id=592980632 what=shield value=0
 {"ok":true}
 
-#787 admin ty=give id=510062544 what=shield value=8760
+#901 admin ty=give id=597663228 what=shield value=0
 {"ok":true}
 
-#788 admin ty=give id=510317709 what=shield value=8760
+#902 admin ty=give id=599874417 what=shield value=0
 {"ok":true}
 
-#789 admin ty=give id=524889986 what=shield value=8760
+#903 admin ty=give id=600335304 what=shield value=0
 {"ok":true}
 
-#790 admin ty=give id=534497120 what=shield value=8760
+#904 admin ty=give id=601836857 what=shield value=0
 {"ok":true}
 
-#791 admin ty=give id=536275237 what=shield value=8760
+#905 admin ty=give id=602691173 what=shield value=0
 {"ok":true}
 
-#792 admin ty=give id=547166070 what=shield value=8760
+#906 admin ty=give id=614925733 what=shield value=0
 {"ok":true}
 
-#793 admin ty=give id=548468068 what=shield value=8760
+#907 admin ty=give id=615216448 what=shield value=0
 {"ok":true}
 
-#794 admin ty=give id=555880960 what=shield value=8760
+#908 admin ty=give id=618221787 what=shield value=0
 {"ok":true}
 
-#795 admin ty=give id=558812363 what=shield value=8760
+#909 admin ty=give id=619511531 what=shield value=0
 {"ok":true}
 
-#796 admin ty=give id=559368482 what=shield value=8760
+#910 admin ty=give id=621106709 what=shield value=0
 {"ok":true}
 
-#797 admin ty=give id=561743896 what=shield value=8760
+#911 admin ty=give id=640028712 what=shield value=0
 {"ok":true}
 
-#798 admin ty=give id=569937200 what=shield value=8760
+#912 admin ty=give id=652442259 what=shield value=0
 {"ok":true}
 
-#799 admin ty=give id=573233132 what=shield value=8760
+#913 admin ty=give id=712233403 what=shield value=0
 {"ok":true}
 
-#800 admin ty=give id=578630836 what=shield value=8760
+#914 admin ty=give id=715705553 what=shield value=0
 {"ok":true}
 
-#801 admin ty=give id=587396441 what=shield value=8760
+#915 admin ty=give id=720500734 what=shield value=0
 {"ok":true}
 
-#802 admin ty=give id=590223593 what=shield value=8760
+#916 admin ty=give id=741408856 what=shield value=0
 {"ok":true}
 
-#803 admin ty=give id=592484611 what=shield value=8760
+#917 admin ty=give id=756361600 what=shield value=0
 {"ok":true}
 
-#804 admin ty=give id=592980632 what=shield value=8760
+#918 admin ty=give id=758276627 what=shield value=0
 {"ok":true}
 
-#805 admin ty=give id=597663228 what=shield value=8760
+#919 admin ty=give id=765415562 what=shield value=0
+{"ok":true}
+
+#920 admin ty=give id=776689627 what=shield value=0
+{"ok":true}
+
+#921 admin ty=give id=790793204 what=shield value=0
 {"ok":true}
