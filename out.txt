@@ -1,3 +1,6 @@
+#688 admin ty=ymOrders uid=1095310362
+{"ok":true,"orders":[{"label":"1095310362-mwdl7ngm2b9ff255","uid":1095310362,"rub":80,"gems":80,"done":false,"at":"2026-11-12T13:32:14.086Z"}]}
+
 #687 admin ty=ymFails
 {"ok":true,"list":[{"t":1794490444477,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"1095310362-mwdl7ngm2b9ff255","amount":"77.60","wd":"80.00","cur":"643","cp":"false","un":"false","op":"847805627074493124"},{"t":1794490434041,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"1095310362-mwdl7ngm2b9ff255","amount":"77.60","wd":"80.00","cur":"643","cp":"false","un":"false","op":"847805627074493124"}]}
 
@@ -190,6 +193,3 @@ Tadjikskiy Viper [846347205] монеты 45119148, цена 204800, доход 
 
 #627 admin ty=give id=538692887 what=coins value=8000000
 {"ok":true,"value":14965632}
-
-#628 admin ty=give id=1055244295 what=coins value=3000000
-{"ok":true,"value":4731589}
