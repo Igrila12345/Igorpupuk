@@ -20,3 +20,5 @@
 759 autostat as=1
 760 autostat
 761 player 416999966
+762 list of=users w1=owner=0 fields=id n=1
+763 list of=users w1=owner=0 w2=id<=899999999 fields=id n=1
