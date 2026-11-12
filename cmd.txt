@@ -265,3 +265,6 @@
 606 admin ty=find q=Страдивари Навальный
 607 admin ty=find q=Тоха Состав
 608 admin ty=find q=Beads
+609 admin ty=find q=OFFICIAL
+610 admin ty=find q=Admiralov
+611 admin ty=find q=ADMIRAL
