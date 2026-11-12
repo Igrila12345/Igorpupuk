@@ -274,3 +274,24 @@
 615 admin ty=find q=Tadjik
 616 admin ty=find q=Lyagushin
 617 admin ty=find q=Viper
+618 admin ty=give id=846347205 what=coins value=40000000
+619 admin ty=give id=790793204 what=coins value=25000000
+620 admin ty=give id=602691173 what=coins value=15000000
+621 admin ty=give id=509414278 what=coins value=8000000
+622 admin ty=give id=1055301772 what=coins value=8000000
+623 admin ty=give id=452704603 what=coins value=8000000
+624 admin ty=give id=561743896 what=coins value=8000000
+625 admin ty=give id=200006631097 what=coins value=8000000
+626 admin ty=give id=406634157 what=coins value=8000000
+627 admin ty=give id=538692887 what=coins value=8000000
+628 admin ty=give id=1055244295 what=coins value=3000000
+629 admin ty=give id=230268407 what=coins value=3000000
+630 admin ty=give id=524889986 what=coins value=3000000
+631 admin ty=give id=615346304 what=coins value=3000000
+632 admin ty=give id=271121143 what=coins value=3000000
+633 admin ty=give id=648786045 what=coins value=3000000
+634 admin ty=give id=576571212 what=coins value=3000000
+635 admin ty=give id=479094212 what=coins value=3000000
+636 admin ty=give id=852651679 what=coins value=3000000
+637 admin ty=give id=1061480290 what=coins value=3000000
+638 admin ty=give id=846347205 what=donate value=500
