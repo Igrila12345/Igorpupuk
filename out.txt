@@ -1,3 +1,21 @@
+#727 list
+всего: 445077
+1. [1] name=Павел Дуров bal=1684
+2. [2180119] name=Роман Бауман bal=20409926
+3. [26169737] name=Б Л О Х А bal=11455117
+4. [40432342] name=Александр Воеводин bal=334338
+5. [115374735] name=Юра Натфуллин bal=2973663
+6. [139146595] name=Виталий Аркадьевич bal=16773749
+7. [141362139] name=Я Темщик Не Предприниматель bal=214000
+8. [169122619] name=Вадим Крутиков bal=31367
+9. [175088834] name=Анатолий Александрович bal=1000
+10. [194580290] name=Михаил Колодиев bal=2054461
+11. [202147916] name=Vyacheslav Fil bal=32180
+12. [206427875] name=Максим Харзеев bal=1176392
+13. [228576387] name=Матвей Карасев bal=31000
+14. [230268407] name=Елисей Прохоров bal=4776397
+15. [231611442] name=Елена Николаевна bal=1126730
+
 #726 dump 756361600
 {"id":756361600,"name":"Иван Ханявин","photo":"https://sun9-51.vkuserphoto.ru/s/v1/ig2/BviEyG3aDIf8KZwRTwY4bBRRkdQecrCfd6QMj5zUT-qNc3LN0jYeFyfDO9969rdS0btYz_EY1URwQSHNmrEXA_uT.jpg?quality=95&crop=482,802,956,956&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=68Ehpkx1pWLHpWHo1gQS4_xQpVeXU7VrL5FS8a2EAdk&cs=200x0","bal":301660778,"price":819200,"rate":34,"owner":0,"buyPrice":409600,"lastCollect":1794462264740,"lostMs":0,"chain":1794471509484,"shield":1794440968275,"stone":0,"stoneLoss":0,"bought":{"key":498470,"n":0},"boughtTotal":365,"steals":{"day":20769,"n":0},"rubies":0,"gems":0,"superStones":10,"nst":33,"ips":["188.43.1.161","94.77.33.92"],"tasks":{"day":20769,"p":{"collect":2,"slot":21},"got":{}},"created":1794380973130,"banned":true,"earned":157260,"ring":"laurel","badge":"ruby","boost":1794438842372,"clk":{"t":0,"n":0},"earnAt":0,"income":16560,"refUsed":[561743896],"pend":0,"refLock":0,"refBy":561743896,"refPaid":1,"seen":1794493912677,"subAt":1794493790264,"db":{"day":20769,"n":2},"clan":224328649,"clanAt":1794380985138,"tg":{"clan":1},"pets":{"toad":1,"crow":1},"squad":[],"petSlots":0,"petTk":0,"petPity":0,"upSpent":0,"st":{"redeem":3,"spin":11,"slot":41,"stone":1,"buy":365,"upgrade":1,"invite":1,"collect":2},"bdgOff":false,"ck":{"h":1264,"e":6599.764,"em":8000,"xp":2173,"lv":1,"pw":2,"k":0,"t":1794429671243,"seen":1794429671243,"tb":5.985999999999988,"last":1794429671243,"cl":1541,"cd":{"d":20768,"n":1541},"cw":{"w":2967,"n":1541}},"exch":{"day":20769,"n":{}},"mg":{"c":[5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"cr":89,"lf":238.78288716000006,"n":22,"t":1794462318334,"max":5,"boost":0,"offCap":false,"ad":{"day":0,"n":0},"nc":9,"inv":{"small":0,"medium":0,"big":0},"cos":{},"st":{"merge":22,"buy":22},"tasks":{"day":20769,"p":{"login":1,"earn":4454.997287160002,"merge":22,"buy":22},"got":{}},"dayK":20769,"dayBase":0},"sub":true,"sw":{"all":309296172,"h":{"498452":21354673,"498453":286500,"498470":287654999}},"petDl":20768,"petHist":["crow","toad"],"petN":2,"up":0,"umbrella":0,"noAds":0,"info":0,"whip":0,"slaves":365}
 
@@ -204,6 +222,3 @@ OK {"amount":28531674,"base":1900715,"bonuses":[]}
 #682 list of=users w1=owner=0 fields=id n=1
 всего: 20091
 1. [2180119] id=2180119
-
-#648 admin ty=give id=846347205 what=gems value=500
-{"ok":true,"value":500}
