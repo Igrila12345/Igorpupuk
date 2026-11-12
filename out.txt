@@ -1,3 +1,71 @@
+#737 list sort=-sw.all fields=name,sw.all,st.slot n=12 w=st.slot>0
+всего: 115
+1. [547166070] name=Tumen Erdyneev sw.all=850949147 st.slot=882
+2. [357413627] name=Батырка Солниченко sw.all=205842080 st.slot=1437
+3. [321220270] name=Максим Крупский sw.all=80801102 st.slot=8444
+4. [139146595] name=Виталий Аркадьевич sw.all=53976459 st.slot=2485
+5. [576571212] name=Dobriy Pos-Baby Kovpak sw.all=46166664 st.slot=1390
+6. [614925733] name=Moon Lamperush sw.all=41669408 st.slot=133
+7. [561743896] name=Матвей Шейхов sw.all=35623744 st.slot=669
+8. [479094212] name=Роман Бусарнов sw.all=34401479 st.slot=360
+9. [618221787] name=Юрий Шейхов-Кот sw.all=20515250 st.slot=135
+10. [599874417] name=Василий Ямашкин sw.all=20166507 st.slot=405
+11. [548468068] name=Егор Стинкер-Вральман sw.all=16528600 st.slot=721
+12. [263118406] name=Степан Матвеев sw.all=11107599 st.slot=397
+
+#738 list sort=-st.slot fields=name,st.slot,sw.all n=100 w=st.slot>0
+всего: 115
+1. [321220270] name=Максим Крупский st.slot=8444 sw.all=80801102
+2. [640028712] name=Рита Калашникова st.slot=7047 sw.all=94471350
+3. [1057556925] name=Роман Библя-Райнер st.slot=5117 sw.all=94994214
+4. [844592273] name=Vova Ynin st.slot=4091 sw.all=11225023
+5. [648786045] name=Сергей Давыдов-Кэрролл st.slot=3033 sw.all=36982199
+6. [139146595] name=Виталий Аркадьевич st.slot=2485 sw.all=53976459
+7. [602691173] name=Тоха Состав st.slot=2480 sw.all=10212080
+8. [547100496] name=Даниил Яструб Кристалл st.slot=1674 sw.all=2150632
+9. [357413627] name=Батырка Солниченко st.slot=1437 sw.all=205842080
+10. [576571212] name=Dobriy Pos-Baby Kovpak st.slot=1390 sw.all=46166664
+11. [558812363] name=Really Fuzze st.slot=1217 sw.all=7938112
+12. [884218513] name=Beads Zina st.slot=1006 sw.all=151520130
+13. [547166070] name=Tumen Erdyneev st.slot=882 sw.all=850949147
+14. [877056777] name=Психиатрическая Больница st.slot=832 sw.all=13024130
+15. [1065679388] name=Vitalik Zefir-Morningstar st.slot=740 sw.all=88318404
+16. [548468068] name=Егор Стинкер-Вральман st.slot=721 sw.all=16528600
+17. [561743896] name=Матвей Шейхов st.slot=669 sw.all=35623744
+18. [426948925] name=Владислав Федоренко-Кот st.slot=574 sw.all=2066729
+19. [457091324] name=Роман Библя-Райнер st.slot=450 sw.all=8854099
+20. [579667741] name=Илья Погорелов st.slot=423 sw.all=9824620
+21. [599874417] name=Василий Ямашкин st.slot=405 sw.all=20166507
+22. [263118406] name=Степан Матвеев st.slot=397 sw.all=11107599
+23. [855553012] name=Анастасия Николаевна st.slot=386 sw.all=28692172
+24. [479094212] name=Роман Бусарнов st.slot=360 sw.all=34401479
+25. [765134057] name=Vase Ymaskin st.slot=321 sw.all=21896696
+26. [238052720] name=Вася Ленгас-Ковпак st.slot=314 sw.all=7801462
+27. [1091119131] name=Kiril Natfulin st.slot=308 sw.all=68305250
+28. [559368482] name=Дима Рудак st.slot=288 sw.all=7002300
+29. [271121143] name=Константин Сергеевич st.slot=273 sw.all=1329339
+30. [888884972] name=Misha Kovpak Kerroll-Voevodin-Krasin st.slot=240 sw.all=40421264
+31. [712233403] name=Олег Пепсикольный st.slot=218 sw.all=3126218
+32. [612169455] name=Злата Андреевна st.slot=204 sw.all=45660
+33. [524889986] name=Елисей Булавин st.slot=165 sw.all=223387
+34. [1061480290] name=Позывной Бабка Ежка st.slot=164 sw.all=1907520
+35. [824850634] name=Иван Домнин st.slot=159 sw.all=44848827
+36. [522026007] name=Руслан Платонов st.slot=154 sw.all=195504
+37. [640726239] name=Nikita Bagaev st.slot=151 sw.all=10814960
+38. [866437151] name=Расул Антуанетта st.slot=147 sw.all=5837407
+39. [618221787] name=Юрий Шейхов-Кот st.slot=135 sw.all=20515250
+40. [614925733] name=Moon Lamperush st.slot=133 sw.all=41669408
+41. [524247219] name=Паша Байрамов-Ковпак st.slot=123 sw.all=9508
+42. [534497120] name=Александр Меркурьев st.slot=121 sw.all=451219
+43. [1095310362] name=Школьник Огэшникович st.slot=98 sw.all=259589
+44. [587396441] name=Алина Страйф st.slot=96 sw.all=55991
+45. [452704603] name=Максим Максимов st.slot=93 sw.all=395182
+46. [1127577196] name=Назар Алтушин st.slot=93 sw.all=24634020
+47. [600335304] name=Алина Коровина st.slot=91 sw.all=1259550
+48. [590223593] name=Никитос Ссс st.slot=81 sw.all=3005365
+49. [1123571625] name=Дедушка Мороз st.slot=81 sw.all=2820000
+50. [601836857] name=Тёма Вяденко st.slot=78 sw.all=895750
+
 #733 dump 561743896
 {"id":561743896,"name":"Матвей Шейхов","photo":"https://sun1-25.userapi.com/s/v1/ig2/iYSNxrdwIeX-0scZOVlDrzkQXEPLGEeYKakx2WQXJoLJ2Z9aogF6tW0Xo_rIrKZ_OwnmUJjiqArqNViz-4zBoj9E.jpg?quality=95&crop=0,0,736,736&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=rSJb62CQEOrIuTReQLrT3PuEDUve2BQwkMWua9EXvBU&cs=200x0","bal":32001987,"price":13107200,"rate":50,"owner":0,"buyPrice":0,"lastCollect":1794494223682,"lostMs":0,"chain":1792871705809,"shield":1792839307056,"stone":0,"stoneLoss":0,"bought":{"key":498470,"n":0},"boughtTotal":13301,"steals":{"day":20769,"n":0},"rubies":3,"gems":100,"superStones":170,"ips":["62.89.196.67","178.157.159.231","178.157.171.193","178.157.169.157","178.157.177.171","178.157.149.78"],"tasks":{"day":20769,"p":{"collect":5,"slot":82},"got":{"collect":1}},"created":1792702289627,"banned":false,"earned":45058463,"ring":"laurel","badge":"ruby","boost":1794450218545,"clk":{"t":0,"n":0},"earnAt":1792707638099,"income":171608,"seen":1794494294182,"subAt":1794494020291,"st":{"buy":13301,"redeem":13,"collect":233,"spin":129,"steal":7,"invite":9,"upgrade":52,"stone":2,"ad":1,"slot":669},"clan":224328649,"tg":{"first":1,"clan":1,"redeem":1,"sub":1,"invite":1,"sl10":1,"sl50":1,"sl100":1,"spin10":1,"sl500":1,"bal100k":1,"upg10":1,"earn100k":1,"bal1m":1},"sub":true,"mg":{"c":[14,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"cr":43211.9360237662,"n":229,"t":1793960712291,"max":14,"lf":176023871.00292617,"nc":13,"boost":1792950172377,"offCap":false,"ad":{"day":20751,"n":1},"inv":{"small":0,"medium":0,"big":0},"cos":{"border":true},"st":{"buy":109,"merge":111,"boost":4,"open":1140},"tasks":{"day":20769,"p":{"login":1},"got":{}},"dayK":20769,"dayBase":43211.9360237662,"notif":true,"adsT":1792802170995,"msg":true},"exch":{"day":20769,"n":{"ck_boost":5,"ck_whip":5}},"ck":{"h":1390391,"e":88000,"em":88000,"xp":204628,"lv":21,"pw":20,"k":0,"t":1794473930243,"seen":1794473930243,"last":1793135416345,"cl":345561,"cd":{"d":20754,"n":2},"cw":{"w":2965,"n":345484},"tb":39,"cp":{"d":20753,"n":316376}},"umbrella":1794322592179,"noAds":0,"info":1795473338681,"whip":1794450219882,"earnDay":20749,"earnN":1,"up":0,"refRewards":9,"clanAt":1792863380524,"stoneKind":"normal","stoneBy":321220270,"stoneNew":false,"upSpent":0,"nst":431,"db":{"day":20769,"n":5},"pend":0,"boostFrom":1794432218545,"whipFrom":1794432219882,"bdgOff":false,"sw":{"all":35623744,"h":{"498322":11995755,"498347":2755750,"498393":124000,"498394":500,"498400":2257250,"498401":113750,"498402":99750,"498403":27000,"498414":198000,"498425":4224350,"498470":1686250}},"pets":{"snail":1,"rabbit":3,"mouse":1,"hamster":2,"deer":1,"raccoon":2,"badger":1},"squad":[],"petSlots":0,"petTk":1,"petPity":0,"petDl":20766,"petTkT":{"day":20769,"n":1},"petHist":["hamster","raccoon","rabbit","rabbit","badger","raccoon"],"petN":11,"refLock":0,"slaves":12656}
 
@@ -229,10 +297,4 @@ OK {"amount":28531674,"base":1900715,"bonuses":[]}
 {"ok":true,"added":1429}
 
 #671 admin ty=addBots count=1428 price=2500 rate=25
-{"ok":true,"added":1428}
-
-#672 admin ty=addBots count=1429 price=3000 rate=30
-{"ok":true,"added":1429}
-
-#673 admin ty=addBots count=1428 price=3000 rate=30
 {"ok":true,"added":1428}
