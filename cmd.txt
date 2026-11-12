@@ -100,3 +100,5 @@
 839 admin ty=give id=881694706 what=shield value=8760
 840 admin ty=give id=884218513 what=shield value=8760
 841 admin ty=give id=888884972 what=shield value=8760
+842 list of=users w1=owner=0 fields=id n=1
+843 list of=users w1=owner=0 w2=id<=899999999 fields=id n=100
