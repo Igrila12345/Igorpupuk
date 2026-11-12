@@ -1,1 +1,4 @@
 698 admin ty=ymFails
+699 auto every=60 n=700 gap=50 collect=0 as=1
+700 autostat as=1
+701 me as=1
