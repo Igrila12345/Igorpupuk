@@ -1,3 +1,20 @@
+#757 collect
+OK {"amount":6394750,"base":2240097,"bonuses":[{"n":"Кнут","p":25,"c":560024}]}
+Василий Перун [416999966] монеты 6394900, цена 13107200, доход 84/ч, рабов 18778, хозяин 139146595
+
+#758 auto off as=1
+автозакупка выключена
+
+#759 autostat as=1
+выключена
+
+#760 autostat
+каждые 60 мин, по 500, пауза 150 мс, следующая через 7 мин; сейчас ждёт; прошлая: куплено 700 на 1729000
+
+#761 player 416999966
+Василий Перун [416999966] монеты 6394900, цена 13107200, доход 84/ч, рабов 18778, хозяин 139146595
+хозяин: Виталий Аркадьевич [139146595] монеты 16773749, цена 13107200, доход 50/ч, рабов 7566
+
 #742 members 231068212
 __Snow elves___Walkers__ [231068212], доход 495930163, владелец 587396441
 1. Аделина Преображенская [1132299161] собрано 157088289, монеты 89782665, рабов 34508
@@ -443,21 +460,3 @@ Shadow Morningstar [660964860] монеты 11040600, цена 52428800, дох�
 #716 list of=users w1=owner=0 fields=id n=1
 всего: 32222
 1. [2180119] id=2180119
-
-#699 auto every=60 n=700 gap=50 collect=0 as=1
-автозакупка: каждые 60 мин, по 700, пауза 150 мс
-
-#700 autostat as=1
-каждые 60 мин, по 700, пауза 150 мс, следующая через 0 мин; сейчас ждёт; прошлая: куплено 500 на 1000000
-
-#701 me as=1
-Shadow Morningstar [660964860] монеты 11447100, цена 52428800, доход 61/ч, рабов 22772
-limitLeft: 200
-stones: 192
-gems: 950
-
-#698 admin ty=ymFails
-{"ok":true,"list":[{"t":1794492496443,"why":"заказ с такой меткой не найден","label":"","amount":"243.03","cur":"643","cp":"false","op":"test-notification"},{"t":1794492494190,"why":"заказ с такой меткой не найден","label":"","amount":"950.40","cur":"643","cp":"false","op":"test-notification"},{"t":1794492374546,"why":"подпись не совпала keys=notification_type,bill_id,amount,datetime,codepro,sender,test_notification,operation_label,sign,operation_id,currency,label sl=24 got= calc=2cdaa3/2cdaa3 ct=application/x-www-form-urlencoded raw=281","label":"","amount":"837.39","cur":"643","cp":"false","op":"test-notification"},{"t":1794492364362,"why":"подпись не совпала keys=notification_type,bill_id,amount,datetime,codepro,sender,test_notification,operation_label,sign,operation_id,currency,label sl=24 got= calc=2cdaa3/2cdaa3 ct=application/x-www-form-urlencoded raw=281","label":"","amount":"837.39","cur":"643","cp":"false","op":"test-notification"},{"t":1794492138283,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"676.75","cur":"643","cp":"false","op":"test-notification"},{"t":1794492135967,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"791.97","cur":"643","cp":"false","op":"test-notification"},{"t":1794491974424,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"772.51","cur":"643","cp":"false","op":"test-notification"},{"t":1794491964223,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"772.51","cur":"643","cp":"false","op":"test-notification"},{"t":1794491924372,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"403.13","cur":"643","cp":"false","op":"test-notification"},{"t":1794491851332,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"534497120-mwdjjrrc4e7ee1f3","amount":"97.00","wd":"100.00","cur":"643","cp":"false","un":"false","op":"847802836523742108"},{"t":1794491828032,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"864.31","cur":"643","cp":"false","op":"test-notification"},{"t":1794491535863,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"791.97","cur":"643","cp":"false","op":"test-notification"},{"t":1794491525174,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"791.97","cur":"643","cp":"false","op":"test-notification"},{"t":1794491324174,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"403.13","cur":"643","cp":"false","op":"test-notification"},{"t":1794491314110,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"403.13","cur":"643","cp":"false","op":"test-notification"},{"t":1794491227949,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"864.31","cur":"643","cp":"false","op":"test-notification"},{"t":1794491224319,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"482.72","cur":"643","cp":"false","op":"test-notification"},{"t":17944912181
-
-#697 admin ty=ymFails
-{"ok":true,"list":[{"t":1794492374546,"why":"подпись не совпала keys=notification_type,bill_id,amount,datetime,codepro,sender,test_notification,operation_label,sign,operation_id,currency,label sl=24 got= calc=2cdaa3/2cdaa3 ct=application/x-www-form-urlencoded raw=281","label":"","amount":"837.39","cur":"643","cp":"false","op":"test-notification"},{"t":1794492364362,"why":"подпись не совпала keys=notification_type,bill_id,amount,datetime,codepro,sender,test_notification,operation_label,sign,operation_id,currency,label sl=24 got= calc=2cdaa3/2cdaa3 ct=application/x-www-form-urlencoded raw=281","label":"","amount":"837.39","cur":"643","cp":"false","op":"test-notification"},{"t":1794492138283,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"676.75","cur":"643","cp":"false","op":"test-notification"},{"t":1794492135967,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"791.97","cur":"643","cp":"false","op":"test-notification"},{"t":1794491974424,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"772.51","cur":"643","cp":"false","op":"test-notification"},{"t":1794491964223,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"772.51","cur":"643","cp":"false","op":"test-notification"},{"t":1794491924372,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"403.13","cur":"643","cp":"false","op":"test-notification"},{"t":1794491851332,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"534497120-mwdjjrrc4e7ee1f3","amount":"97.00","wd":"100.00","cur":"643","cp":"false","un":"false","op":"847802836523742108"},{"t":1794491828032,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"864.31","cur":"643","cp":"false","op":"test-notification"},{"t":1794491535863,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"791.97","cur":"643","cp":"false","op":"test-notification"},{"t":1794491525174,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"791.97","cur":"643","cp":"false","op":"test-notification"},{"t":1794491324174,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"403.13","cur":"643","cp":"false","op":"test-notification"},{"t":1794491314110,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"403.13","cur":"643","cp":"false","op":"test-notification"},{"t":1794491227949,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"864.31","cur":"643","cp":"false","op":"test-notification"},{"t":1794491224319,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"482.72","cur":"643","cp":"false","op":"test-notification"},{"t":1794491218139,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"760.94","cur":"643","cp":"false","op":"test-notification"},{"t":1794491217458,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"864.31","cur":"643","cp":"false","op":"test-not
