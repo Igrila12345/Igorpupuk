@@ -1,3 +1,6 @@
+#608 admin ty=find q=Beads
+{"ok":true,"users":[{"id":884218513,"name":"Beads Zina","nc":"","bj":"","photo":"https://sun1-26.userapi.com/impg/DW4IDqvukChyc-WPXmzIot46En40R00idiUAXw/l5w5aIHioYc.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=10ad7d7953daabb7b0e707fdfb7ebefd&u=I6EtahnrCRLlyd0MhT2raQt6ydhuyxX4s72EHGuUSoM&cs=200x0","coins":18080,"price":26214400,"buyCost":26214400,"rate":55,"upgradeCost":26214400,"sellValue":3276800,"canRelease":true,"slaves":269,"income":11233,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":224328649,"name":"乂•ROLLEX•乂"},"ring":"laurel","ps":"","badge":"ruby","rank":211}]}
+
 #598 admin ty=find q=Alex Gafurov
 {"ok":true,"users":[]}
 
@@ -178,8 +181,4 @@ Shadow Morningstar [660964860] монеты 2983, цена 52428800, доход 
 
 #549 list of=users w1=owner=0 fields=id n=1
 всего: 92
-1. [2180119] id=2180119
-
-#550 list of=users w1=owner=0 w2=id<=899999999 fields=id n=1
-всего: 74
 1. [2180119] id=2180119
