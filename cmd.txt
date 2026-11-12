@@ -15,3 +15,8 @@
 754 members 236045115
 755 members 209046208
 756 members 219736402
+757 collect
+758 auto off as=1
+759 autostat as=1
+760 autostat
+761 player 416999966
