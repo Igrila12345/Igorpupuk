@@ -1,3 +1,12 @@
+#615 admin ty=find q=Tadjik
+{"ok":true,"users":[{"id":846347205,"name":"Tadjikskiy Viper","nc":"","bj":"","photo":"https://sun1-27.vkuserphoto.ru/s/v1/ig2/gFcAFdpOBAWwUrqtOWMN9ERpN9xbgCfwo5rpaISG1zYYDV0xehn3cJOmo_LIsOxDlWHt3D4XQfCdbxI4NDJIcsOG.jpg?quality=95&crop=4,41,796,796&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=U1AVw5uABRFKWgmj0DvwNldR_5fJGsyiMOarzAkAgMw&cs=200x0","coins":5119148,"price":204800,"buyCost":204800,"rate":28,"upgradeCost":204800,"sellValue":25600,"canRelease":false,"slaves":35,"income":281,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":224328649,"name":"乂•ROLLEX•乂"},"ring":"","ps":"","badge":"","rank":38}]}
+
+#616 admin ty=find q=Lyagushin
+{"ok":true,"users":[{"id":538692887,"name":"Kostya Lyagushin","nc":"","bj":"","photo":"https://sun1-89.userapi.com/s/v1/ig2/IRKgUp9vTmMYC1Wmb2RwJC7fj_PQCYPxvRKoxKqTHDx7oFtINQclaT__FjObemRIfjvlJPCSfMuX6sUi_omPKkeV.jpg?quality=95&crop=0,0,734,734&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=Y4znYfBwY3l7fpFJbla4tzrlyMU-DT3v1cwVciB_e14&cs=200x0","coins":6965632,"price":52428800,"buyCost":52428800,"rate":61,"upgradeCost":52428800,"sellValue":6553600,"canRelease":true,"slaves":5703,"income":92913,"owner":{"id":599874417,"name":"Василий Ямашкин","nc":"","bj":"","ring":"laurel","photo":"https://sun1-26.userapi.com/impg/DW4IDqvukChyc-WPXmzIot46En40R00idiUAXw/l5w5aIHioYc.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=10ad7d7953daabb7b0e707fdfb7ebefd&u=I6EtahnrCRLlyd0MhT2raQt6ydhuyxX4s72EHGuUSoM&cs=200x0"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":30}]}
+
+#617 admin ty=find q=Viper
+{"ok":true,"users":[{"id":846347205,"name":"Tadjikskiy Viper","nc":"","bj":"","photo":"https://sun1-27.vkuserphoto.ru/s/v1/ig2/gFcAFdpOBAWwUrqtOWMN9ERpN9xbgCfwo5rpaISG1zYYDV0xehn3cJOmo_LIsOxDlWHt3D4XQfCdbxI4NDJIcsOG.jpg?quality=95&crop=4,41,796,796&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=U1AVw5uABRFKWgmj0DvwNldR_5fJGsyiMOarzAkAgMw&cs=200x0","coins":5119148,"price":204800,"buyCost":204800,"rate":28,"upgradeCost":204800,"sellValue":25600,"canRelease":false,"slaves":35,"income":281,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":224328649,"name":"乂•ROLLEX•乂"},"ring":"","ps":"","badge":"","rank":38}]}
+
 #612 admin ty=find q=Караев
 {"ok":true,"users":[{"id":852651679,"name":"Александр Караев","nc":"","bj":"","photo":"https://sun1-20.vkuserphoto.ru/s/v1/ig2/begfp9VL82bT8FV5avnYzwutdZqxw1K8joGYqzugqdT5cjDCwJMrvFtDlujjXS8SfspUKUdLzuqqvmwCUIdHoZ0f.jpg?quality=95&crop=128,34,681,681&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640&ava=1&u=WYHmMMOfh3T3ELA6bYNTuxrV1Gmd1Lxqo4IvCs0zUVM&cs=200x0","coins":1069118,"price":204800,"buyCost":204800,"rate":28,"upgradeCost":204800,"sellValue":51200,"canRelease":false,"slaves":644,"income":17406,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":161256065,"name":"Elitę"},"ring":"laurel","ps":"","badge":"ruby","rank":90}]}
 
@@ -170,12 +179,3 @@ Shadow Morningstar [660964860] монеты 13430316, цена 52428800, дох�
 
 #569 auto every=60 n=500 gap=50 collect=0
 автозакупка: каждые 60 мин, по 500, пауза 150 мс
-
-#570 auto every=60 n=500 gap=50 collect=0 as=1
-автозакупка: каждые 60 мин, по 500, пауза 150 мс
-
-#571 autostat
-каждые 60 мин, по 500, пауза 150 мс, следующая через 0 мин; сейчас ждёт; прошлая: куплено 0 на 0, стоп: Недостаточно монет
-
-#572 autostat as=1
-каждые 60 мин, по 500, пауза 150 мс, следующая через 0 мин; сейчас ждёт; прошлая: куплено 0 на 0, стоп: Недостаточно монет
