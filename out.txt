@@ -1,3 +1,20 @@
+#741 clans n=200
+1. __Snow elves___Walkers__ [231068212] доход 495930163, игроков 17
+2. Elitę [161256065] доход 466920657, игроков 27
+3. MKL Imperial | 30к за вступление! [222116919] доход 251421755, игроков 19
+4. Idealist | 30к за вступление [229209629] доход 194861931, игроков 30
+5. 乂•ROLLEX•乂 [224328649] доход 138062119, игроков 31
+6. Requiem [222830640] доход 111062792, игроков 6
+7. Сказочные долбо#бы [212896729] доход 44916855, игроков 8
+8. ♛ DarkDragonS [207109241] доход 40034713, игроков 5
+9. ФССП [210909517] доход 2764243, игроков 1
+10. Deadly Impulse | Монеты за вступление [222780161] доход 2741020, игроков 3
+11. Bread and Loaf [218553708] доход 632482, игроков 4
+12. USSR | Открыт набор | Промокоды за вступление [223169098] доход 325064, игроков 3
+13. ◤Ｍfia ✠ ＲＵＳＡ◥ [236045115] доход 49213, игроков 1
+14. ☭USSR☭ [209046208] доход 1053, игроков 1
+15. 🩸BloodMoon🩸 [219736402] доход 15, игроков 1
+
 #740 dump 547166070
 {"id":547166070,"name":"Tumen Erdyneev","photo":"https://sun1-26.vkuserphoto.ru/impg/DW4IDqvukChyc-WPXmzIot46En40R00idiUAXw/l5w5aIHioYc.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=10ad7d7953daabb7b0e707fdfb7ebefd&u=I6EtahnrCRLlyd0MhT2raQt6ydhuyxX4s72EHGuUSoM&cs=200x200","bal":555634,"price":819200,"rate":34,"owner":0,"buyPrice":409600,"lastCollect":1794479921805,"lostMs":0,"chain":0,"shield":0,"stone":0,"stoneLoss":0,"bought":{"key":498469,"n":0},"boughtTotal":1532,"steals":{"day":20769,"n":0},"rubies":0,"gems":0,"superStones":30,"nst":141,"ips":["45.144.53.73","179.236.133.3","176.59.141.217","2.27.248.230","31.29.145.7","94.183.245.2"],"tasks":{"day":20769,"p":{"collect":3,"spin":3,"slot":14},"got":{}},"created":1793549483127,"banned":false,"earned":4337509,"ring":"laurel","badge":"ruby","boost":1794141872095,"clk":{"t":0,"n":0},"earnAt":1794121459808,"income":46243,"seen":1794490020314,"subAt":1794490000495,"db":{"day":20769,"n":5},"mg":{"c":[11,10,9,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"cr":3,"lf":40164.92869045735,"n":137,"t":1794433458299,"max":11,"boost":1794434658348,"offCap":false,"ad":{"day":0,"n":0},"nc":9,"inv":{"small":0,"medium":0,"big":0},"cos":{},"st":{"merge":135,"buy":137,"open":13},"tasks":{"day":20769,"p":{"login":1,"earn":4236950.4369920585,"buy":10,"merge":9,"open":5},"got":{"earn":true,"login":true,"buy3":true,"grp":true,"grp2":true,"msg":true}},"dayK":20769,"dayBase":100,"adsT":1794433395330,"msg":true,"notif":true},"exch":{"day":20769,"n":{}},"pend":0,"upSpent":0,"clan":224328649,"clanAt":1793549604252,"st":{"redeem":4,"buy":1532,"collect":52,"stone":2,"steal":4,"spin":49,"upgrade":1,"slot":882,"ad":1},"ck":{"h":1016,"e":7948.053,"em":8000,"xp":476,"lv":1,"pw":1,"k":0,"t":1794120127432,"seen":1794120127432,"tb":38,"last":1794120127432,"cl":476,"cd":{"d":20765,"n":66},"cw":{"w":2966,"n":476},"cp":{"d":20759,"n":410}},"up":0,"tg":{"first":1,"sl10":1,"sl50":1,"sl100":1,"sl500":1,"bal100k":1,"bal1m":1,"clan":1,"redeem":1,"spin10":1,"sub":1,"earn100k":1},"umbrella":1794308267784,"noAds":0,"info":0,"whip":0,"pets":{},"squad":[],"petSlots":0,"petTk":20,"petPity":0,"stoneKind":"normal","stoneBy":877056777,"stoneNew":false,"bdgOff":false,"petTkT":{"day":20768,"n":1},"sub":true,"sw":{"all":850949147,"h":{"498366":3060,"498367":144385,"498422":19760000,"498427":59969998,"498428":770711274,"498429":129668,"498466":230762}},"earnDay":20765,"earnN":1,"refLock":0,"slaves":1413}
 
@@ -303,6 +320,3 @@ OK {"amount":28531674,"base":1900715,"bonuses":[]}
 
 #668 admin ty=addBots count=1429 price=2000 rate=20
 {"ok":true,"added":1429}
-
-#669 admin ty=addBots count=1428 price=2000 rate=20
-{"ok":true,"added":1428}
