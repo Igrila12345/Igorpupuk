@@ -1,3 +1,15 @@
+#699 auto every=60 n=700 gap=50 collect=0 as=1
+автозакупка: каждые 60 мин, по 700, пауза 150 мс
+
+#700 autostat as=1
+каждые 60 мин, по 700, пауза 150 мс, следующая через 0 мин; сейчас ждёт; прошлая: куплено 500 на 1000000
+
+#701 me as=1
+Shadow Morningstar [660964860] монеты 11447100, цена 52428800, доход 61/ч, рабов 22772
+limitLeft: 200
+stones: 192
+gems: 950
+
 #698 admin ty=ymFails
 {"ok":true,"list":[{"t":1794492496443,"why":"заказ с такой меткой не найден","label":"","amount":"243.03","cur":"643","cp":"false","op":"test-notification"},{"t":1794492494190,"why":"заказ с такой меткой не найден","label":"","amount":"950.40","cur":"643","cp":"false","op":"test-notification"},{"t":1794492374546,"why":"подпись не совпала keys=notification_type,bill_id,amount,datetime,codepro,sender,test_notification,operation_label,sign,operation_id,currency,label sl=24 got= calc=2cdaa3/2cdaa3 ct=application/x-www-form-urlencoded raw=281","label":"","amount":"837.39","cur":"643","cp":"false","op":"test-notification"},{"t":1794492364362,"why":"подпись не совпала keys=notification_type,bill_id,amount,datetime,codepro,sender,test_notification,operation_label,sign,operation_id,currency,label sl=24 got= calc=2cdaa3/2cdaa3 ct=application/x-www-form-urlencoded raw=281","label":"","amount":"837.39","cur":"643","cp":"false","op":"test-notification"},{"t":1794492138283,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"676.75","cur":"643","cp":"false","op":"test-notification"},{"t":1794492135967,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"791.97","cur":"643","cp":"false","op":"test-notification"},{"t":1794491974424,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"772.51","cur":"643","cp":"false","op":"test-notification"},{"t":1794491964223,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"772.51","cur":"643","cp":"false","op":"test-notification"},{"t":1794491924372,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"403.13","cur":"643","cp":"false","op":"test-notification"},{"t":1794491851332,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"534497120-mwdjjrrc4e7ee1f3","amount":"97.00","wd":"100.00","cur":"643","cp":"false","un":"false","op":"847802836523742108"},{"t":1794491828032,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"864.31","cur":"643","cp":"false","op":"test-notification"},{"t":1794491535863,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"791.97","cur":"643","cp":"false","op":"test-notification"},{"t":1794491525174,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"791.97","cur":"643","cp":"false","op":"test-notification"},{"t":1794491324174,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"403.13","cur":"643","cp":"false","op":"test-notification"},{"t":1794491314110,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"403.13","cur":"643","cp":"false","op":"test-notification"},{"t":1794491227949,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"864.31","cur":"643","cp":"false","op":"test-notification"},{"t":1794491224319,"why":"подпись не совпала (проверьте секрет ЮMoney)","label":"","amount":"482.72","cur":"643","cp":"false","op":"test-notification"},{"t":17944912181
 
@@ -184,13 +196,4 @@ Tadjikskiy Viper [846347205] монеты 45119148, цена 204800, доход 
 Аккаунты под управлением: Аделина Преображенская [1132299161], Tadjikskiy Viper [846347205]
 
 #640 set ring=f_candy nc=x_chrome as=846347205
-Tadjikskiy Viper [846347205] монеты 45119148, цена 204800, доход 28/ч, рабов 35
-
-#641 acc add=790793204
-Аккаунты под управлением: Аделина Преображенская [1132299161], Tadjikskiy Viper [846347205], Данил Красин [790793204]
-
-#642 set nc=rainbow as=790793204
-Данил Красин [790793204] монеты 37818901, цена 26214400, доход 55/ч, рабов 10447
-
-#643 set bj=heart as=846347205
 Tadjikskiy Viper [846347205] монеты 45119148, цена 204800, доход 28/ч, рабов 35
