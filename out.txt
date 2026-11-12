@@ -1,3 +1,11 @@
+#762 list of=users w1=owner=0 fields=id n=1
+всего: 27580
+1. [2180119] id=2180119
+
+#763 list of=users w1=owner=0 w2=id<=899999999 fields=id n=1
+всего: 77
+1. [2180119] id=2180119
+
 #757 collect
 OK {"amount":6394750,"base":2240097,"bonuses":[{"n":"Кнут","p":25,"c":560024}]}
 Василий Перун [416999966] монеты 6394900, цена 13107200, доход 84/ч, рабов 18778, хозяин 139146595
@@ -453,10 +461,3 @@ Shadow Morningstar [660964860] монеты 11040600, цена 52428800, дох�
 
 #714 admin ty=addBots count=1074 price=5000 rate=50
 {"ok":true,"added":1074}
-
-#715 admin ty=addBots count=1074 price=5000 rate=50
-{"ok":true,"added":1074}
-
-#716 list of=users w1=owner=0 fields=id n=1
-всего: 32222
-1. [2180119] id=2180119
