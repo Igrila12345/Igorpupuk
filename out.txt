@@ -1,3 +1,6 @@
+#725 admin ty=find q=Ханявин
+{"ok":true,"users":[{"id":756361600,"name":"Иван Ханявин","nc":"","bj":"","photo":"https://sun9-51.vkuserphoto.ru/s/v1/ig2/BviEyG3aDIf8KZwRTwY4bBRRkdQecrCfd6QMj5zUT-qNc3LN0jYeFyfDO9969rdS0btYz_EY1URwQSHNmrEXA_uT.jpg?quality=95&crop=482,802,956,956&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=68Ehpkx1pWLHpWHo1gQS4_xQpVeXU7VrL5FS8a2EAdk&cs=200x0","coins":301660778,"price":819200,"buyCost":819200,"rate":34,"upgradeCost":819200,"sellValue":204800,"canRelease":false,"slaves":365,"income":16560,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":224328649,"name":"乂•ROLLEX•乂"},"ring":"laurel","ps":"","badge":"ruby","rank":0}]}
+
 #717 player 416999966
 Василий Перун [416999966] монеты 150, цена 13107200, доход 84/ч, рабов 18778, хозяин 139146595
 хозяин: Виталий Аркадьевич [139146595] монеты 16773749, цена 13107200, доход 50/ч, рабов 7566
@@ -204,6 +207,3 @@ OK {"amount":28531674,"base":1900715,"bonuses":[]}
 
 #649 admin ty=give id=790793204 what=gems value=300
 {"ok":true,"value":300}
-
-#650 admin ty=give id=602691173 what=gems value=200
-{"ok":true,"value":200}
