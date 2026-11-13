@@ -1,3 +1,53 @@
+#961 collect
+OK {"amount":2698561,"base":1572391,"bonuses":[{"n":"Кнут","p":25,"c":393097}]}
+Василий Перун [416999966] монеты 2700916, цена 13107200, доход 84/ч, рабов 22797, хозяин 139146595
+
+#962 admin ty=addBots count=1429 price=2000 rate=20
+{"ok":true,"added":1429}
+
+#963 admin ty=addBots count=1428 price=2000 rate=20
+{"ok":true,"added":1428}
+
+#964 admin ty=addBots count=1429 price=2500 rate=25
+{"ok":true,"added":1429}
+
+#965 admin ty=addBots count=1428 price=2500 rate=25
+{"ok":true,"added":1428}
+
+#966 admin ty=addBots count=1429 price=3000 rate=30
+{"ok":true,"added":1429}
+
+#967 admin ty=addBots count=1428 price=3000 rate=30
+{"ok":true,"added":1428}
+
+#968 admin ty=addBots count=1429 price=3500 rate=35
+{"ok":true,"added":1429}
+
+#969 admin ty=addBots count=1428 price=3500 rate=35
+{"ok":true,"added":1428}
+
+#970 admin ty=addBots count=1429 price=4000 rate=40
+{"ok":true,"added":1429}
+
+#971 admin ty=addBots count=1428 price=4000 rate=40
+{"ok":true,"added":1428}
+
+#972 admin ty=addBots count=1429 price=4500 rate=45
+{"ok":true,"added":1429}
+
+#973 admin ty=addBots count=1428 price=4500 rate=45
+{"ok":true,"added":1428}
+
+#974 admin ty=addBots count=1429 price=5000 rate=50
+{"ok":true,"added":1429}
+
+#975 admin ty=addBots count=1428 price=5000 rate=50
+{"ok":true,"added":1428}
+
+#976 list of=users w1=owner=0 fields=id n=1
+всего: 33576
+1. [2180119] id=2180119
+
 #960 collect as=1132299161
 OK {"amount":28503253,"base":28503253,"bonuses":[]}
 Аделина Преображенская [1132299161] монеты 118277851, цена 104857600, доход 70/ч, рабов 34508
@@ -130,52 +180,4 @@ Shadow Morningstar [660964860] монеты 22768112, цена 52428800, дох�
 {"ok":true}
 
 #882 admin ty=give id=509414278 what=shield value=0
-{"ok":true}
-
-#883 admin ty=give id=510062544 what=shield value=0
-{"ok":true}
-
-#884 admin ty=give id=510317709 what=shield value=0
-{"ok":true}
-
-#885 admin ty=give id=524889986 what=shield value=0
-{"ok":true}
-
-#886 admin ty=give id=534497120 what=shield value=0
-{"ok":true}
-
-#887 admin ty=give id=536275237 what=shield value=0
-{"ok":true}
-
-#888 admin ty=give id=547166070 what=shield value=0
-{"ok":true}
-
-#889 admin ty=give id=548468068 what=shield value=0
-{"ok":true}
-
-#890 admin ty=give id=555880960 what=shield value=0
-{"ok":true}
-
-#891 admin ty=give id=558812363 what=shield value=0
-{"ok":true}
-
-#892 admin ty=give id=559368482 what=shield value=0
-{"ok":true}
-
-#893 admin ty=give id=561743896 what=shield value=0
-{"ok":true}
-
-#894 admin ty=give id=569937200 what=shield value=0
-{"ok":true}
-
-#895 admin ty=give id=573233132 what=shield value=0
-{"ok":true}
-
-#896 admin ty=give id=578630836 what=shield value=0
-{"ok":true}
-
-#897 admin ty=give id=587396441 what=shield value=0
-{"ok":true}
-
-#898 admin ty=give id=590223593 what=shield value=0
 {"ok":true}
