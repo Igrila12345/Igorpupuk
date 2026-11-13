@@ -1,3 +1,6 @@
+#987 admin ty=stats
+{"ok":true,"users":465198,"bots":464899,"clans":15,"slaves":432051,"banned":3,"topMode":"balance","stoneOff":false,"lag":false,"totalCoins":1609026737,"promos":["123","12345","ABC123","RABSTVO","MKL","DARKDRAGONS","ROLLEX","1SUDNY","IDEALIST","BOMZ","PRO","TRAX","TRAXNY","SOSOBOMZ","CASINO","DEPNIVSE","SLIV","NOOBLO","SUDNY2","BOGAT","BOMZHI","ABCD","OBNOVA","INFOPLUS"],"autoBots":{"on":false,"every":60,"count":10,"tiers":1,"price":100,"rate":10,"name":"","last":1794119954995,"total":19830},"suspects":23,"online":1}
+
 #986 list sort=-bal fields=name,bal n=3
 всего: 465198
 1. [756361600] name=Иван Ханявин bal=299394445
@@ -180,7 +183,4 @@ Shadow Morningstar [660964860] монеты 22768112, цена 52428800, дох�
 {"ok":true}
 
 #878 admin ty=give id=461098227 what=shield value=0
-{"ok":true}
-
-#879 admin ty=give id=466608211 what=shield value=0
 {"ok":true}
