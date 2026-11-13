@@ -215,3 +215,6 @@
 954 auto every=60 n=700 gap=50 collect=0 as=1
 955 autostat as=1
 956 player 660964860
+957 collect
+958 autostat as=1
+959 autostat
