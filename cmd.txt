@@ -212,3 +212,6 @@
 951 admin ty=give id=881694706 what=shield value=0
 952 admin ty=give id=884218513 what=shield value=0
 953 admin ty=give id=888884972 what=shield value=0
+954 auto every=60 n=700 gap=50 collect=0 as=1
+955 autostat as=1
+956 player 660964860
