@@ -219,3 +219,19 @@
 958 autostat as=1
 959 autostat
 960 collect as=1132299161
+961 collect
+962 admin ty=addBots count=1429 price=2000 rate=20
+963 admin ty=addBots count=1428 price=2000 rate=20
+964 admin ty=addBots count=1429 price=2500 rate=25
+965 admin ty=addBots count=1428 price=2500 rate=25
+966 admin ty=addBots count=1429 price=3000 rate=30
+967 admin ty=addBots count=1428 price=3000 rate=30
+968 admin ty=addBots count=1429 price=3500 rate=35
+969 admin ty=addBots count=1428 price=3500 rate=35
+970 admin ty=addBots count=1429 price=4000 rate=40
+971 admin ty=addBots count=1428 price=4000 rate=40
+972 admin ty=addBots count=1429 price=4500 rate=45
+973 admin ty=addBots count=1428 price=4500 rate=45
+974 admin ty=addBots count=1429 price=5000 rate=50
+975 admin ty=addBots count=1428 price=5000 rate=50
+976 list of=users w1=owner=0 fields=id n=1
