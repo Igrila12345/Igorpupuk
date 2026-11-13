@@ -1,3 +1,49 @@
+#1000 admin ty=addBots count=1071 price=2000 rate=20
+{"ok":true,"added":1071}
+
+#1001 admin ty=addBots count=1071 price=2000 rate=20
+{"ok":true,"added":1071}
+
+#1002 admin ty=addBots count=1071 price=2500 rate=25
+{"ok":true,"added":1071}
+
+#1003 admin ty=addBots count=1071 price=2500 rate=25
+{"ok":true,"added":1071}
+
+#1004 admin ty=addBots count=1071 price=3000 rate=30
+{"ok":true,"added":1071}
+
+#1005 admin ty=addBots count=1071 price=3000 rate=30
+{"ok":true,"added":1071}
+
+#1006 admin ty=addBots count=1071 price=3500 rate=35
+{"ok":true,"added":1071}
+
+#1007 admin ty=addBots count=1071 price=3500 rate=35
+{"ok":true,"added":1071}
+
+#1008 admin ty=addBots count=1071 price=4000 rate=40
+{"ok":true,"added":1071}
+
+#1009 admin ty=addBots count=1071 price=4000 rate=40
+{"ok":true,"added":1071}
+
+#1010 admin ty=addBots count=1071 price=4500 rate=45
+{"ok":true,"added":1071}
+
+#1011 admin ty=addBots count=1071 price=4500 rate=45
+{"ok":true,"added":1071}
+
+#1012 admin ty=addBots count=1074 price=5000 rate=50
+{"ok":true,"added":1074}
+
+#1013 admin ty=addBots count=1074 price=5000 rate=50
+{"ok":true,"added":1074}
+
+#1014 list of=users w1=owner=0 fields=id n=1
+всего: 15088
+1. [2180119] id=2180119
+
 #998 admin ty=unban id=660964860
 {"ok":true,"lost":0,"freed":0,"left":31578}
 
@@ -140,49 +186,4 @@ Shadow Morningstar [660964860] монеты 22768112, цена 52428800, дох�
 {"ok":true}
 
 #943 admin ty=give id=846347205 what=shield value=0
-{"ok":true}
-
-#944 admin ty=give id=852651679 what=shield value=0
-{"ok":true}
-
-#945 admin ty=give id=855553012 what=shield value=0
-{"ok":true}
-
-#946 admin ty=give id=866257381 what=shield value=0
-{"ok":true}
-
-#947 admin ty=give id=866437151 what=shield value=0
-{"ok":true}
-
-#948 admin ty=give id=870580522 what=shield value=0
-{"ok":true}
-
-#949 admin ty=give id=877056777 what=shield value=0
-{"ok":true}
-
-#950 admin ty=give id=877880626 what=shield value=0
-{"ok":true}
-
-#951 admin ty=give id=881694706 what=shield value=0
-{"ok":true}
-
-#952 admin ty=give id=884218513 what=shield value=0
-{"ok":true}
-
-#953 admin ty=give id=888884972 what=shield value=0
-{"ok":true}
-
-#862 admin ty=give id=2180119 what=shield value=0
-{"ok":true}
-
-#863 admin ty=give id=26169737 what=shield value=0
-{"ok":true}
-
-#864 admin ty=give id=115374735 what=shield value=0
-{"ok":true}
-
-#865 admin ty=give id=139146595 what=shield value=0
-{"ok":true}
-
-#866 admin ty=give id=194580290 what=shield value=0
 {"ok":true}
