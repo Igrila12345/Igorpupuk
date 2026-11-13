@@ -1,1 +1,1 @@
-985 admin ty=cfgView
+986 list sort=-bal fields=name,bal n=3
