@@ -1,3 +1,9 @@
+#986 list sort=-bal fields=name,bal n=3
+всего: 465198
+1. [756361600] name=Иван Ханявин bal=299394445
+2. [1132299161] name=Аделина Преображенская bal=118277851
+3. [569937200] name=Lucifer Morningstar bal=111111111
+
 #985 admin ty=cfgView
 ОШИБКА: Нет админ-команды: cfgView. Есть: ui, suspects, banScripters, banSuspects, dismiss, dismissMany, banMany, dismissAll, badAuthList, badAuthClear, player, banWithAlts, multi, stats, resetPrices, rules, setRules, resetRules, setStones, setLag, setTop, setBalance, grant, give, addGems, addRubies, ban, promo, clansList, promoList, promoDel, clanFake, resetClans, addBots, autoBots, giveSlaves, purgeFree, ymFails, ymOrders, ymCredit, purgeRich, giveAll, restoreSlaves, takeSlaves, petGive, setSlotLuck, setWallPlus, setNoDelay, setNoLimit, resetRabbits, unban, trimBots, removeBots, find
 
@@ -177,7 +183,4 @@ Shadow Morningstar [660964860] монеты 22768112, цена 52428800, дох�
 {"ok":true}
 
 #879 admin ty=give id=466608211 what=shield value=0
-{"ok":true}
-
-#880 admin ty=give id=479094212 what=shield value=0
 {"ok":true}
