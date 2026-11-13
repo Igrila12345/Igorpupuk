@@ -7,3 +7,5 @@
 995 player 660964860
 996 admin ty=ban id=660964860 on=1
 997 player 660964860
+998 admin ty=unban id=660964860
+999 autostat as=1
