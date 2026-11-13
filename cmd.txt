@@ -1,1 +1,1 @@
-986 list sort=-bal fields=name,bal n=3
+987 admin ty=stats
