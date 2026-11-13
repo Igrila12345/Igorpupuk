@@ -1,4 +1,1 @@
-981 admin ty=ymFails
-982 me
-983 autostat
-984 autostat as=1
+985 admin ty=cfgView
