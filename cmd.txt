@@ -9,3 +9,18 @@
 997 player 660964860
 998 admin ty=unban id=660964860
 999 autostat as=1
+1000 admin ty=addBots count=1071 price=2000 rate=20
+1001 admin ty=addBots count=1071 price=2000 rate=20
+1002 admin ty=addBots count=1071 price=2500 rate=25
+1003 admin ty=addBots count=1071 price=2500 rate=25
+1004 admin ty=addBots count=1071 price=3000 rate=30
+1005 admin ty=addBots count=1071 price=3000 rate=30
+1006 admin ty=addBots count=1071 price=3500 rate=35
+1007 admin ty=addBots count=1071 price=3500 rate=35
+1008 admin ty=addBots count=1071 price=4000 rate=40
+1009 admin ty=addBots count=1071 price=4000 rate=40
+1010 admin ty=addBots count=1071 price=4500 rate=45
+1011 admin ty=addBots count=1071 price=4500 rate=45
+1012 admin ty=addBots count=1074 price=5000 rate=50
+1013 admin ty=addBots count=1074 price=5000 rate=50
+1014 list of=users w1=owner=0 fields=id n=1
