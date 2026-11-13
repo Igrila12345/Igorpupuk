@@ -1,3 +1,9 @@
+#996 admin ty=ban id=660964860 on=1
+{"ok":true}
+
+#997 player 660964860
+Shadow Morningstar [660964860] монеты 5131200, цена 52428800, доход 61/ч, рабов 31578
+
 #994 admin ty=ban id=660964860 on=1
 {"ok":false,"error":"Админа заблокировать нельзя"}
 
@@ -179,10 +185,4 @@ Shadow Morningstar [660964860] монеты 22768112, цена 52428800, дох�
 {"ok":true}
 
 #868 admin ty=give id=231611442 what=shield value=0
-{"ok":true}
-
-#869 admin ty=give id=263118406 what=shield value=0
-{"ok":true}
-
-#870 admin ty=give id=271121143 what=shield value=0
 {"ok":true}
