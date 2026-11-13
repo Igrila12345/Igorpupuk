@@ -1,3 +1,8 @@
+#989 list sort=-bal fields=name,bal n=2
+всего: 434238
+1. [756361600] name=Иван Ханявин bal=299394445
+2. [1132299161] name=Аделина Преображенская bal=118277851
+
 #988 admin ty=purgeFree keep=2000
 {"ok":true,"removed":30960,"left":2000}
 
@@ -180,7 +185,4 @@ Shadow Morningstar [660964860] монеты 22768112, цена 52428800, дох�
 {"ok":true}
 
 #876 admin ty=give id=445341403 what=shield value=0
-{"ok":true}
-
-#877 admin ty=give id=452704603 what=shield value=0
 {"ok":true}
