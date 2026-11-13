@@ -236,3 +236,6 @@
 975 admin ty=addBots count=1428 price=5000 rate=50
 976 list of=users w1=owner=0 fields=id n=1
 977 player 569937200
+978 list of=users w1=id=1132299161 fields=name,info,umbrella n=1
+979 list of=users w1=id=1132299036 fields=name,info,umbrella n=1
+980 stats
