@@ -1,1 +1,3 @@
 989 list sort=-bal fields=name,bal n=2
+990 admin ty=setPrice id=569937200 value=111111111
+991 player 569937200
