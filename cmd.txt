@@ -3,3 +3,5 @@
 991 player 569937200
 992 admin ty=setPrice id=569937200 value=111111111
 993 player 569937200
+994 admin ty=ban id=660964860 on=1
+995 player 660964860
