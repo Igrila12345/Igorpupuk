@@ -24,3 +24,6 @@
 1012 admin ty=addBots count=1074 price=5000 rate=50
 1013 admin ty=addBots count=1074 price=5000 rate=50
 1014 list of=users w1=owner=0 fields=id n=1
+1015 admin ty=unban id=660964860
+1016 autostat as=1
+1017 player 660964860
