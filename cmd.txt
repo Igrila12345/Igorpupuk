@@ -235,3 +235,4 @@
 974 admin ty=addBots count=1429 price=5000 rate=50
 975 admin ty=addBots count=1428 price=5000 rate=50
 976 list of=users w1=owner=0 fields=id n=1
+977 player 569937200
