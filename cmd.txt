@@ -9,3 +9,7 @@
 1027 list of=users w1=id=1132299161 fields=name,price,stones,income,bal n=1
 1028 clans n=7
 1029 autostat
+1030 admin ty=give id=1132299161 what=whip value=100
+1031 admin ty=give id=1132299161 what=umbrella value=30
+1032 admin ty=give id=416999966 what=whip value=100
+1033 admin ty=give id=416999966 what=umbrella value=30
