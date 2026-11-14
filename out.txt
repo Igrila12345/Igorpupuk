@@ -1,3 +1,7 @@
+#1034 collect as=1132299161
+OK {"amount":32152191,"base":14544738,"bonuses":[{"n":"Кнут","p":25,"c":3636184}]}
+Аделина Преображенская [1132299161] монеты 150576695, цена 104857600, доход 70/ч, рабов 34503
+
 #1030 admin ty=give id=1132299161 what=whip value=100
 {"ok":true}
 
@@ -191,6 +195,3 @@ OK {"amount":2698561,"base":1572391,"bonuses":[{"n":"Кнут","p":25,"c":393097
 
 #969 admin ty=addBots count=1428 price=3500 rate=35
 {"ok":true,"added":1428}
-
-#970 admin ty=addBots count=1429 price=4000 rate=40
-{"ok":true,"added":1429}
