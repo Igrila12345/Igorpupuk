@@ -1,3 +1,15 @@
+#1030 admin ty=give id=1132299161 what=whip value=100
+{"ok":true}
+
+#1031 admin ty=give id=1132299161 what=umbrella value=30
+{"ok":true}
+
+#1032 admin ty=give id=416999966 what=whip value=100
+{"ok":true}
+
+#1033 admin ty=give id=416999966 what=umbrella value=30
+{"ok":true}
+
 #1022 player 416999966
 Василий Перун [416999966] монеты 1211, цена 13107200, доход 84/ч, рабов 23481, хозяин 139146595
 хозяин: Виталий Аркадьевич [139146595] монеты 23052010, цена 13107200, доход 50/ч, рабов 7944
@@ -181,16 +193,4 @@ OK {"amount":2698561,"base":1572391,"bonuses":[{"n":"Кнут","p":25,"c":393097
 {"ok":true,"added":1428}
 
 #970 admin ty=addBots count=1429 price=4000 rate=40
-{"ok":true,"added":1429}
-
-#971 admin ty=addBots count=1428 price=4000 rate=40
-{"ok":true,"added":1428}
-
-#972 admin ty=addBots count=1429 price=4500 rate=45
-{"ok":true,"added":1429}
-
-#973 admin ty=addBots count=1428 price=4500 rate=45
-{"ok":true,"added":1428}
-
-#974 admin ty=addBots count=1429 price=5000 rate=50
 {"ok":true,"added":1429}
