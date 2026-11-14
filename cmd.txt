@@ -1,3 +1,11 @@
 1019 admin ty=find q=870580522
 1020 admin ty=find q=852651679
 1021 admin ty=find q=524889986
+1022 player 416999966
+1023 player 660964860
+1024 player 1132299161
+1025 list of=users w1=id=416999966 fields=name,price,stones,income,bal n=1
+1026 list of=users w1=id=660964860 fields=name,price,stones,income,bal n=1
+1027 list of=users w1=id=1132299161 fields=name,price,stones,income,bal n=1
+1028 clans n=7
+1029 autostat
