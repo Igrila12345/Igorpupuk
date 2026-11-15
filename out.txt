@@ -1,3 +1,6 @@
+#1877 buy id=602691173 as=1132299161
+ОШИБКА: Нельзя купить больше 700 рабов за час. Лимит сбросится в 23:05
+
 #1875 admin ty=find q=Тох
 {"ok":true,"users":[{"id":602691173,"name":"Тоха Состав","nc":"","bj":"","photo":"https://sun1-94.vkuserphoto.ru/s/v1/ig2/Gu6XkK7pBoc8__8nNsF57jQZCSiaRXq8QNA1uJKpya4hd7BVQkdKE80MgPfucZ2ZOsomvhnn9P-qxj9skLfKtpzq.jpg?quality=95&crop=0,1,1019,1019&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=-2e-Dw8drCSRAsbe6pUNEId7p4Zuju3LVDMS3PA_ioA&cs=200x200","coins":10995331,"price":52428800,"buyCost":26214400,"rate":61,"upgradeCost":52428800,"sellValue":6553600,"canRelease":true,"slaves":3086,"income":118778,"owner":{"id":877056777,"name":"Психиатрическая Больница","nc":"","bj":"","ring":"laurel","photo":"https://sun1-83.vkuserphoto.ru/s/v1/ig2/hV7p3gQRSm_74GH4fa4LqGnRa3hXeK08F1zqAhN1T5ys6ZjJ7kcBUaTHMW-ekdoPlY_mrkmSvAJKCzBsDK1Eejoo.jpg?quality=95&crop=381,0,491,491&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&u=pt7dZOhHrRGxBZTGOe5GxzDa1ExNl7921eWeZFLlfzg&cs=200x0"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":40}]}
 
@@ -214,7 +217,3 @@ OK {"paid":12800}
 #1190 buy id=900030300 as=688088684
 OK {"paid":12800}
 Антон Рубцов [688088684] монеты 22875971, цена 100, доход 11/ч, рабов 37, хозяин 321220270
-
-#1191 buy id=900030301 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 22863171, цена 100, доход 11/ч, рабов 38, хозяин 321220270
