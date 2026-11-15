@@ -1,3 +1,12 @@
+#1883 admin ty=find q=Бусарнов
+{"ok":true,"users":[{"id":479094212,"name":"Роман Бусарнов","nc":"","bj":"","photo":"https://sun9-47.vkuserphoto.ru/impg/DW4IDqvukChyc-WPXmzIot46En40R00idiUAXw/l5w5aIHioYc.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=10ad7d7953daabb7b0e707fdfb7ebefd&u=I6EtahnrCRLlyd0MhT2raQt6ydhuyxX4s72EHGuUSoM&cs=200x0","coins":79446014,"price":52428800,"buyCost":26214400,"rate":61,"upgradeCost":52428800,"sellValue":6553600,"canRelease":true,"slaves":4820,"income":129328,"owner":{"id":1091119131,"name":"Kiril Natfulin","nc":"","bj":"","ring":"laurel","photo":"https://sun9-85.vkuserphoto.ru/s/v1/ig2/hYw7vpaS9Bi81fEDp8aQK_XH3NyGa4qQIzVotTCASnTuHdfq4oY5eFpSehqyQmnpL4EopnxtE-AMbYoK6psjd-pj.jpg?quality=95&crop=628,70,1113,1113&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=WE6w3Xvg7dFPvGrdojvX6X6ikuC-yrP-dHBbjWqHOG8&cs=200x200"},"mine":false,"stone":1794802151499,"stoneKind":"super","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":18}]}
+
+#1884 admin ty=find q=Busarnov
+{"ok":true,"users":[]}
+
+#1885 admin ty=find q=Роман
+{"ok":true,"users":[{"id":2180119,"name":"Роман Бауман","nc":"","bj":"","photo":"https://sun1-26.vkuserphoto.ru/impg/DW4IDqvukChyc-WPXmzIot46En40R00idiUAXw/l5w5aIHioYc.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=10ad7d7953daabb7b0e707fdfb7ebefd&u=I6EtahnrCRLlyd0MhT2raQt6ydhuyxX4s72EHGuUSoM&cs=200x200","coins":63494249,"price":26214400,"buyCost":13107200,"rate":55,"upgradeCost":26214400,"sellValue":3276800,"canRelease":true,"slaves":3615,"income":95510,"owner":{"id":406634157,"name":"卂刀从工尺卂乚口リ 口下下工匚工卂乚","nc":"x_casino","bj":"","ring":"f_cas1","photo":"https://sun9-63.vkuserphoto.ru/s/v1/ig2/AZn5vIfXQB08p50MJ48_mtnhXwlkRICyvVOyFyUbkhUF0ic6a-H4n9Sg-Pl4eT_vxmNY_VClCsqdfEZc85H_MrAf.jpg?quality=95&crop=1,78,1919,1919&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=_pPHBKsI82e0Ii4u0hC1haMX8kCtO4nB4rDYOX5bVOo&cs=200x200"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"","ps":"","badge":"ruby","rank":34},{"id":457091324,"name":"Роман Библя-Райнер","nc":"","bj":"","photo":"https://sun1-86.vkuserphoto.ru/s/v1/ig2/WhSKPA2HAdhN0PKF6mXP0VP7w2-RLlszXNgBkTPjRe1Uto6LGBBoLpZ8NqHyLMT2cM5HJttS_Yvuls1_8ljJj-C6.jpg?quality=95&crop=1,0,1079,1079&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=8mmD_daeo-OM8uZvV0Ga_dX1g2roEdjXibXhNR3g12o&cs=200x200","coins":30000,"price":102400,"buyCost":51200,"rate":25,"upgradeCost":102400,"sellValue":25600,"canRelease":false,"slaves":0,"income":0,"owner":{"id":590223593,"name":"Никитос Ссс","nc":"","bj":"","ring":"laurel","photo":"https://sun9-84.userapi.com/s/v1/ig2/ecXdTZOEF8UCaZXx9QBnb3Ay58opmQ8jLDwoEa6Q08Q8TOAl2Lk5HQaOEAxuwkLoPexrt8ddkb33AgrvdAEaZW5e.jpg?quality=95&crop=98,125,479,479&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&u=aQghdiaL4rRr1Pw-jlSNMU9_FMyDAB4mJKp_pYAEeIw&cs=200x0"},"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":null,"ring":"laurel","ps":"","badge":"ruby","rank":182},{"id":479094212,"name":"Роман Бусарнов","nc":"","bj":"","photo":"https://sun9-47.vkuserphoto.ru/impg/DW4IDqvukChyc-WPXmzIot46En40R00idiUAXw/l5w5aIHioYc.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=10ad7d7953daabb7b0e707fdfb7ebefd&u=I6EtahnrCRLlyd0MhT2raQt6ydhuyxX4s72EHGuUSoM&cs=200x0","coins":79454254,"price":52428800,"buyCost":26214400,"rate":61,"upgradeCost":52428800,"sellValue":6553600,"canRelease":true,"slaves":4818,"income":129228,"owner":{"id":1091119131,"name":"Kiril Natfulin","nc":"","bj":"","ring":"laurel","photo":"https://sun9-85.vkuserphoto.ru/s/v1/ig2/hYw7vpaS9Bi81fEDp8aQK_XH3NyGa4qQIzVotTCASnTuHdfq4oY5eFpSehqyQmnpL4EopnxtE-AMbYoK6psjd-pj.jpg?quality=95&crop=628,70,1113,1113&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=WE6w3Xvg7dFPvGrdojvX6X6ikuC-yrP-d
+
 #1882 buy id=602691173 as=1132299161
 OK {"paid":26214400}
 Аделина Преображенская [1132299161] монеты 128892993, цена 419430400, доход 92/ч, рабов 2355
@@ -202,15 +211,3 @@ OK {"paid":12800}
 #1182 buy id=900029972 as=688088684
 OK {"paid":12800}
 Антон Рубцов [688088684] монеты 22978371, цена 100, доход 11/ч, рабов 29, хозяин 321220270
-
-#1183 buy id=900029973 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 22965571, цена 100, доход 11/ч, рабов 30, хозяин 321220270
-
-#1184 buy id=900030294 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 22952771, цена 100, доход 11/ч, рабов 31, хозяин 321220270
-
-#1185 buy id=900030295 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 22939971, цена 100, доход 11/ч, рабов 32, хозяин 321220270
