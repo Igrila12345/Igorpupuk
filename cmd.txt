@@ -876,3 +876,24 @@
 1895 me as=688088684
 1896 player 1065679388
 1897 player 416999966
+1898 admin ty=addBots count=1429 price=2000 rate=20
+1899 admin ty=addBots count=1429 price=2000 rate=20
+1900 admin ty=addBots count=1428 price=2000 rate=20
+1901 admin ty=addBots count=1429 price=2500 rate=25
+1902 admin ty=addBots count=1429 price=2500 rate=25
+1903 admin ty=addBots count=1428 price=2500 rate=25
+1904 admin ty=addBots count=1429 price=3000 rate=30
+1905 admin ty=addBots count=1429 price=3000 rate=30
+1906 admin ty=addBots count=1428 price=3000 rate=30
+1907 admin ty=addBots count=1429 price=3500 rate=35
+1908 admin ty=addBots count=1429 price=3500 rate=35
+1909 admin ty=addBots count=1428 price=3500 rate=35
+1910 admin ty=addBots count=1429 price=4000 rate=40
+1911 admin ty=addBots count=1429 price=4000 rate=40
+1912 admin ty=addBots count=1428 price=4000 rate=40
+1913 admin ty=addBots count=1429 price=4500 rate=45
+1914 admin ty=addBots count=1429 price=4500 rate=45
+1915 admin ty=addBots count=1428 price=4500 rate=45
+1916 admin ty=addBots count=1428 price=5000 rate=50
+1917 admin ty=addBots count=1428 price=5000 rate=50
+1918 admin ty=addBots count=1428 price=5000 rate=50
