@@ -838,3 +838,18 @@
 1857 buy id=421556147 as=1132299161
 1858 buy id=538692887 as=1132299161
 1859 admin ty=give id=1132299161 what=coins value=90000000
+1860 admin ty=addBots count=1429 price=2000 rate=20
+1861 admin ty=addBots count=1428 price=2000 rate=20
+1862 admin ty=addBots count=1429 price=2500 rate=25
+1863 admin ty=addBots count=1428 price=2500 rate=25
+1864 admin ty=addBots count=1429 price=3000 rate=30
+1865 admin ty=addBots count=1428 price=3000 rate=30
+1866 admin ty=addBots count=1429 price=3500 rate=35
+1867 admin ty=addBots count=1428 price=3500 rate=35
+1868 admin ty=addBots count=1429 price=4000 rate=40
+1869 admin ty=addBots count=1428 price=4000 rate=40
+1870 admin ty=addBots count=1429 price=4500 rate=45
+1871 admin ty=addBots count=1428 price=4500 rate=45
+1872 admin ty=addBots count=1429 price=5000 rate=50
+1873 admin ty=addBots count=1428 price=5000 rate=50
+1874 stats
