@@ -75,3 +75,4 @@
 1093 bulk n=568 gap=50
 1094 bulkstat
 1095 bulk n=700 gap=50 as=1
+1096 bulkstat
