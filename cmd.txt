@@ -60,3 +60,5 @@
 1078 admin ty=give id=1132299161 what=info value=30
 1079 player 416999966
 1080 admin ty=find q=Василий Перун
+1081 bulkstat
+1082 autostat
