@@ -1,3 +1,75 @@
+#1040 admin ty=addBots count=1429 price=2000 rate=20
+{"ok":true,"added":1429}
+
+#1041 admin ty=addBots count=1428 price=2000 rate=20
+{"ok":true,"added":1428}
+
+#1042 admin ty=addBots count=1429 price=2500 rate=25
+{"ok":true,"added":1429}
+
+#1043 admin ty=addBots count=1428 price=2500 rate=25
+{"ok":true,"added":1428}
+
+#1044 admin ty=addBots count=1429 price=3000 rate=30
+{"ok":true,"added":1429}
+
+#1045 admin ty=addBots count=1428 price=3000 rate=30
+{"ok":true,"added":1428}
+
+#1046 admin ty=addBots count=1429 price=3500 rate=35
+{"ok":true,"added":1429}
+
+#1047 admin ty=addBots count=1428 price=3500 rate=35
+{"ok":true,"added":1428}
+
+#1048 admin ty=addBots count=1429 price=4000 rate=40
+{"ok":true,"added":1429}
+
+#1049 admin ty=addBots count=1428 price=4000 rate=40
+{"ok":true,"added":1428}
+
+#1050 admin ty=addBots count=1429 price=4500 rate=45
+{"ok":true,"added":1429}
+
+#1051 admin ty=addBots count=1428 price=4500 rate=45
+{"ok":true,"added":1428}
+
+#1052 admin ty=addBots count=1429 price=5000 rate=50
+{"ok":true,"added":1429}
+
+#1053 admin ty=addBots count=1428 price=5000 rate=50
+{"ok":true,"added":1428}
+
+#1054 list of=users w1=owner=0 fields=id n=1
+всего: 20048
+1. [26169737] id=26169737
+
+#1055 player 416999966
+Василий Перун [416999966] монеты 301958, цена 6553600, доход 84/ч, рабов 22863, хозяин 139146595
+хозяин: Виталий Аркадьевич [139146595] монеты 18329618, цена 26214400, доход 61/ч, рабов 8247, хозяин 846347205, под камнем
+
+#1056 player 660964860
+Shadow Morningstar [660964860] монеты 954464, цена 26214400, доход 61/ч, рабов 38544
+
+#1057 player 1132299161
+Аделина Преображенская [1132299161] монеты 177909123, цена 209715200, доход 84/ч, рабов 1806, хозяин 756361600
+хозяин: Иван Ханявин [756361600] монеты 176828244, цена 6553600, доход 50/ч, рабов 423, под камнем
+
+#1058 clans n=7
+1. __Snow elves___Walkers__ [231068212] доход 727023422, игроков 21
+2. Elitę [161256065] доход 614408631, игроков 36
+3. Idealist | 30к за вступление [229209629] доход 264460419, игроков 35
+4. MKL Imperial | 30к за вступление! [222116919] доход 252911825, игроков 16
+5. 乂•ROLLEX•乂 [224328649] доход 201959665, игроков 32
+6. Requiem [222830640] доход 171609448, игроков 8
+7. Сказочные долбо#бы [212896729] доход 94543827, игроков 8
+
+#1059 autostat
+каждые 60 мин, по 500, пауза 150 мс, следующая через 59 мин; сейчас ждёт; прошлая: куплено 1 на 50, стоп: Недостаточно монет
+
+#1060 autostat as=1
+каждые 60 мин, по 700, пауза 150 мс, следующая через 35 мин; сейчас ждёт; прошлая: куплено 1 на 50, стоп: Недостаточно монет
+
 #1036 player 1132299161
 Аделина Преображенская [1132299161] монеты 177909476, цена 209715200, доход 84/ч, рабов 3839, хозяин 756361600
 хозяин: Иван Ханявин [756361600] монеты 176828244, цена 6553600, доход 50/ч, рабов 423, под камнем
@@ -128,73 +200,3 @@ Shadow Morningstar [660964860] монеты 583700, цена 52428800, дохо�
 
 #1013 admin ty=addBots count=1074 price=5000 rate=50
 {"ok":true,"added":1074}
-
-#1014 list of=users w1=owner=0 fields=id n=1
-всего: 15088
-1. [2180119] id=2180119
-
-#998 admin ty=unban id=660964860
-{"ok":true,"lost":0,"freed":0,"left":31578}
-
-#999 autostat as=1
-ОШИБКА: Аккаунт не найден
-
-#996 admin ty=ban id=660964860 on=1
-{"ok":true}
-
-#997 player 660964860
-Shadow Morningstar [660964860] монеты 5131200, цена 52428800, доход 61/ч, рабов 31578
-
-#994 admin ty=ban id=660964860 on=1
-{"ok":false,"error":"Админа заблокировать нельзя"}
-
-#995 player 660964860
-Shadow Morningstar [660964860] монеты 5131200, цена 52428800, доход 61/ч, рабов 31578
-
-#992 admin ty=setPrice id=569937200 value=111111111
-{"ok":true,"value":111111111}
-
-#993 player 569937200
-Lucifer Morningstar [569937200] монеты 111111111, цена 111111111, доход 34/ч, рабов 111
-
-#990 admin ty=setPrice id=569937200 value=111111111
-ОШИБКА: Нет админ-команды: setPrice. Есть: ui, suspects, banScripters, banSuspects, dismiss, dismissMany, banMany, dismissAll, badAuthList, badAuthClear, player, banWithAlts, multi, stats, resetPrices, rules, setRules, resetRules, setStones, setLag, setTop, setBalance, grant, give, addGems, addRubies, ban, promo, clansList, promoList, promoDel, clanFake, resetClans, addBots, autoBots, giveSlaves, purgeFree, ymFails, ymOrders, ymCredit, purgeRich, giveAll, restoreSlaves, takeSlaves, petGive, setSlotLuck, setWallPlus, setNoDelay, setNoLimit, resetRabbits, unban, trimBots, removeBots, find
-
-#991 player 569937200
-Lucifer Morningstar [569937200] монеты 111111111, цена 819200, доход 34/ч, рабов 111
-
-#989 list sort=-bal fields=name,bal n=2
-всего: 434238
-1. [756361600] name=Иван Ханявин bal=299394445
-2. [1132299161] name=Аделина Преображенская bal=118277851
-
-#988 admin ty=purgeFree keep=2000
-{"ok":true,"removed":30960,"left":2000}
-
-#987 admin ty=stats
-{"ok":true,"users":465198,"bots":464899,"clans":15,"slaves":432051,"banned":3,"topMode":"balance","stoneOff":false,"lag":false,"totalCoins":1609026737,"promos":["123","12345","ABC123","RABSTVO","MKL","DARKDRAGONS","ROLLEX","1SUDNY","IDEALIST","BOMZ","PRO","TRAX","TRAXNY","SOSOBOMZ","CASINO","DEPNIVSE","SLIV","NOOBLO","SUDNY2","BOGAT","BOMZHI","ABCD","OBNOVA","INFOPLUS"],"autoBots":{"on":false,"every":60,"count":10,"tiers":1,"price":100,"rate":10,"name":"","last":1794119954995,"total":19830},"suspects":23,"online":1}
-
-#986 list sort=-bal fields=name,bal n=3
-всего: 465198
-1. [756361600] name=Иван Ханявин bal=299394445
-2. [1132299161] name=Аделина Преображенская bal=118277851
-3. [569937200] name=Lucifer Morningstar bal=111111111
-
-#985 admin ty=cfgView
-ОШИБКА: Нет админ-команды: cfgView. Есть: ui, suspects, banScripters, banSuspects, dismiss, dismissMany, banMany, dismissAll, badAuthList, badAuthClear, player, banWithAlts, multi, stats, resetPrices, rules, setRules, resetRules, setStones, setLag, setTop, setBalance, grant, give, addGems, addRubies, ban, promo, clansList, promoList, promoDel, clanFake, resetClans, addBots, autoBots, giveSlaves, purgeFree, ymFails, ymOrders, ymCredit, purgeRich, giveAll, restoreSlaves, takeSlaves, petGive, setSlotLuck, setWallPlus, setNoDelay, setNoLimit, resetRabbits, unban, trimBots, removeBots, find
-
-#977 player 569937200
-Lucifer Morningstar [569937200] монеты 111111111, цена 819200, доход 34/ч, рабов 111
-
-#961 collect
-OK {"amount":2698561,"base":1572391,"bonuses":[{"n":"Кнут","p":25,"c":393097}]}
-Василий Перун [416999966] монеты 2700916, цена 13107200, доход 84/ч, рабов 22797, хозяин 139146595
-
-#962 admin ty=addBots count=1429 price=2000 rate=20
-{"ok":true,"added":1429}
-
-#963 admin ty=addBots count=1428 price=2000 rate=20
-{"ok":true,"added":1428}
-
-#964 admin ty=addBots count=1429 price=2500 rate=25
-{"ok":true,"added":1429}
