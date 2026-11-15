@@ -77,3 +77,9 @@
 1095 bulk n=700 gap=50 as=1
 1096 bulkstat
 1097 player 688088684
+1098 admin ty=give id=688088684 what=info value=30
+1099 admin ty=give id=688088684 what=infoplus value=30
+1100 admin ty=give id=688088684 what=whip value=200
+1101 admin ty=setBalance id=688088684 value=23300211
+1102 clans n=40
+1103 player 688088684
