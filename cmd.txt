@@ -897,3 +897,7 @@
 1916 admin ty=addBots count=1428 price=5000 rate=50
 1917 admin ty=addBots count=1428 price=5000 rate=50
 1918 admin ty=addBots count=1428 price=5000 rate=50
+1919 player 790793204
+1920 player 421556147
+1921 player 538692887
+1922 player 602691173
