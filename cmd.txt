@@ -853,3 +853,5 @@
 1872 admin ty=addBots count=1429 price=5000 rate=50
 1873 admin ty=addBots count=1428 price=5000 rate=50
 1874 stats
+1875 admin ty=find q=Тох
+1876 admin ty=find q=Антон
