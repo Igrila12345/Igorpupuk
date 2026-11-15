@@ -860,3 +860,4 @@
 1879 admin ty=find q=26169737
 1880 admin ty=suspects all=1
 1881 collect
+1882 buy id=602691173 as=1132299161
