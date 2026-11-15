@@ -1,3 +1,15 @@
+#1069 auto every=60 n=500 gap=50 collect=0 as=1132299161
+автозакупка: каждые 60 мин, по 500, пауза 150 мс
+
+#1070 autostat as=1132299161
+каждые 60 мин, по 500, пауза 150 мс, следующая через 0 мин; сейчас ждёт; прошлая: куплено 1 на 50, стоп: Недостаточно монет
+
+#1071 autostat
+каждые 60 мин, по 500, пауза 150 мс, следующая через 45 мин; сейчас ждёт; прошлая: куплено 1 на 50, стоп: Недостаточно монет
+
+#1072 autostat as=1
+каждые 60 мин, по 700, пауза 150 мс, следующая через 21 мин; сейчас ждёт; прошлая: куплено 1 на 50, стоп: Недостаточно монет
+
 #1067 admin ty=give id=1132299161 what=coins value=90000000
 {"ok":true,"value":184023043}
 
@@ -189,16 +201,4 @@ Shadow Morningstar [660964860] монеты 583700, цена 52428800, дохо�
 {"ok":true,"added":1071}
 
 #1001 admin ty=addBots count=1071 price=2000 rate=20
-{"ok":true,"added":1071}
-
-#1002 admin ty=addBots count=1071 price=2500 rate=25
-{"ok":true,"added":1071}
-
-#1003 admin ty=addBots count=1071 price=2500 rate=25
-{"ok":true,"added":1071}
-
-#1004 admin ty=addBots count=1071 price=3000 rate=30
-{"ok":true,"added":1071}
-
-#1005 admin ty=addBots count=1071 price=3000 rate=30
 {"ok":true,"added":1071}
