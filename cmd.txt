@@ -71,3 +71,5 @@
 1089 me as=1
 1090 me as=1132299161
 1091 bulkstat
+1092 admin ty=give id=416999966 what=coins value=1000000
+1093 bulk n=568 gap=50
