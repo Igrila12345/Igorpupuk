@@ -40,3 +40,9 @@
 1058 clans n=7
 1059 autostat
 1060 autostat as=1
+1061 redeem as=1132299161
+1062 admin ty=give id=416999966 what=coins value=2450000
+1063 redeem
+1064 player 1132299161
+1065 player 416999966
+1066 player 660964860
