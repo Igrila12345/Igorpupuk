@@ -92,3 +92,4 @@
 1110 buy id=790793204 as=1132299161
 1111 buy id=406634157 as=1132299161
 1112 list of=users w1=owner=406634157 fields=id,price,rate sort=price n=15
+1113 list of=users w1=owner=406634157 fields=id,price,rate sort=rate n=700
