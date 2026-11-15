@@ -48,3 +48,7 @@
 1066 player 660964860
 1067 admin ty=give id=1132299161 what=coins value=90000000
 1068 player 1132299161
+1069 auto every=60 n=500 gap=50 collect=0 as=1132299161
+1070 autostat as=1132299161
+1071 autostat
+1072 autostat as=1
