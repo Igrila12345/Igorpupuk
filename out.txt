@@ -1,3 +1,66 @@
+#1898 admin ty=addBots count=1429 price=2000 rate=20
+{"ok":true,"added":1429}
+
+#1899 admin ty=addBots count=1429 price=2000 rate=20
+{"ok":true,"added":1429}
+
+#1900 admin ty=addBots count=1428 price=2000 rate=20
+{"ok":true,"added":1428}
+
+#1901 admin ty=addBots count=1429 price=2500 rate=25
+{"ok":true,"added":1429}
+
+#1902 admin ty=addBots count=1429 price=2500 rate=25
+{"ok":true,"added":1429}
+
+#1903 admin ty=addBots count=1428 price=2500 rate=25
+{"ok":true,"added":1428}
+
+#1904 admin ty=addBots count=1429 price=3000 rate=30
+{"ok":true,"added":1429}
+
+#1905 admin ty=addBots count=1429 price=3000 rate=30
+{"ok":true,"added":1429}
+
+#1906 admin ty=addBots count=1428 price=3000 rate=30
+{"ok":true,"added":1428}
+
+#1907 admin ty=addBots count=1429 price=3500 rate=35
+{"ok":true,"added":1429}
+
+#1908 admin ty=addBots count=1429 price=3500 rate=35
+{"ok":true,"added":1429}
+
+#1909 admin ty=addBots count=1428 price=3500 rate=35
+{"ok":true,"added":1428}
+
+#1910 admin ty=addBots count=1429 price=4000 rate=40
+{"ok":true,"added":1429}
+
+#1911 admin ty=addBots count=1429 price=4000 rate=40
+{"ok":true,"added":1429}
+
+#1912 admin ty=addBots count=1428 price=4000 rate=40
+{"ok":true,"added":1428}
+
+#1913 admin ty=addBots count=1429 price=4500 rate=45
+{"ok":true,"added":1429}
+
+#1914 admin ty=addBots count=1429 price=4500 rate=45
+{"ok":true,"added":1429}
+
+#1915 admin ty=addBots count=1428 price=4500 rate=45
+{"ok":true,"added":1428}
+
+#1916 admin ty=addBots count=1428 price=5000 rate=50
+{"ok":true,"added":1428}
+
+#1917 admin ty=addBots count=1428 price=5000 rate=50
+{"ok":true,"added":1428}
+
+#1918 admin ty=addBots count=1428 price=5000 rate=50
+{"ok":true,"added":1428}
+
 #1896 player 1065679388
 Vitalik Zefir-Morningstar [1065679388] монеты 30372815, цена 209715200, доход 81/ч, рабов 49914
 
@@ -137,86 +200,3 @@ OK {"amount":10557044,"base":1314811,"bonuses":[{"n":"Кнут","p":25,"c":32870
 
 #1859 admin ty=give id=1132299161 what=coins value=90000000
 {"ok":true,"value":155784193}
-
-#1857 buy id=421556147 as=1132299161
-OK {"paid":13107200}
-Аделина Преображенская [1132299161] монеты 91998593, цена 419430400, доход 92/ч, рабов 1796
-
-#1858 buy id=538692887 as=1132299161
-OK {"paid":26214400}
-Аделина Преображенская [1132299161] монеты 65784193, цена 419430400, доход 92/ч, рабов 1797
-
-#1855 admin ty=find q=Lyagushin
-{"ok":true,"users":[{"id":421556147,"name":"Mixail Lyagushin","nc":"","bj":"","photo":"https://sun1-30.userapi.com/s/v1/ig2/mYQO0gEo78uYt_VHunkh58XGWi8cG7DAAfaynv4AdhyvX1eKngwEqG12HuxUgcL0YH62Gv3j7PK-alZCrmEsAX_n.jpg?quality=95&crop=1,61,894,894&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=3yat-JbZUvR0kQgEc755adE77-dEFPblHCUmyw-VXRI&cs=200x0","coins":9800320,"price":26214400,"buyCost":13107200,"rate":55,"upgradeCost":26214400,"sellValue":3276800,"canRelease":true,"slaves":2981,"income":67631,"owner":{"id":599874417,"name":"Василий Ямашкин","nc":"","bj":"","ring":"laurel","photo":"https://sun1-26.vkuserphoto.ru/impg/DW4IDqvukChyc-WPXmzIot46En40R00idiUAXw/l5w5aIHioYc.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=10ad7d7953daabb7b0e707fdfb7ebefd&u=I6EtahnrCRLlyd0MhT2raQt6ydhuyxX4s72EHGuUSoM&cs=200x200"},"mine":false,"stone":1794794219505,"stoneKind":"super","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":40},{"id":538692887,"name":"Kostya Lyagushin","nc":"","bj":"","photo":"https://sun1-89.userapi.com/s/v1/ig2/IRKgUp9vTmMYC1Wmb2RwJC7fj_PQCYPxvRKoxKqTHDx7oFtINQclaT__FjObemRIfjvlJPCSfMuX6sUi_omPKkeV.jpg?quality=95&crop=0,0,734,734&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=Y4znYfBwY3l7fpFJbla4tzrlyMU-DT3v1cwVciB_e14&cs=200x0","coins":14290203,"price":52428800,"buyCost":26214400,"rate":61,"upgradeCost":52428800,"sellValue":6553600,"canRelease":true,"slaves":4013,"income":86223,"owner":{"id":599874417,"name":"Василий Ямашкин","nc":"","bj":"","ring":"laurel","photo":"https://sun1-26.vkuserphoto.ru/impg/DW4IDqvukChyc-WPXmzIot46En40R00idiUAXw/l5w5aIHioYc.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=10ad7d7953daabb7b0e707fdfb7ebefd&u=I6EtahnrCRLlyd0MhT2raQt6ydhuyxX4s72EHGuUSoM&cs=200x200"},"mine":false,"stone":1794794215767,"stoneKind":"super","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":27}]}
-
-#1856 player 421556147
-Mixail Lyagushin [421556147] монеты 9800320, цена 13107200, доход 55/ч, рабов 2981, хозяин 599874417, под камнем
-хозяин: Василий Ямашкин [599874417] монеты 18917502, цена 52428800, доход 67/ч, рабов 17207
-
-#1154 buy id=900029002 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 23287411, цена 100, доход 11/ч, рабов 1, хозяин 321220270
-
-#1155 buy id=900029080 as=688088684
-OK {"paid":1840}
-Антон Рубцов [688088684] монеты 23285571, цена 100, доход 11/ч, рабов 2, хозяин 321220270
-
-#1156 buy id=900029525 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 23272771, цена 100, доход 11/ч, рабов 3, хозяин 321220270
-
-#1157 buy id=900029627 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 23259971, цена 100, доход 11/ч, рабов 4, хозяин 321220270
-
-#1158 buy id=900029629 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 23247171, цена 100, доход 11/ч, рабов 5, хозяин 321220270
-
-#1159 buy id=900029630 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 23234371, цена 100, доход 11/ч, рабов 6, хозяин 321220270
-
-#1160 buy id=900029631 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 23221571, цена 100, доход 11/ч, рабов 7, хозяин 321220270
-
-#1161 buy id=900029632 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 23208771, цена 100, доход 11/ч, рабов 8, хозяин 321220270
-
-#1162 buy id=900029634 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 23195971, цена 100, доход 11/ч, рабов 9, хозяин 321220270
-
-#1163 buy id=900029643 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 23183171, цена 100, доход 11/ч, рабов 10, хозяин 321220270
-
-#1164 buy id=900029700 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 23170371, цена 100, доход 11/ч, рабов 11, хозяин 321220270
-
-#1165 buy id=900029745 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 23157571, цена 100, доход 11/ч, рабов 12, хозяин 321220270
-
-#1166 buy id=900029799 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 23144771, цена 100, доход 11/ч, рабов 13, хозяин 321220270
-
-#1167 buy id=900029828 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 23131971, цена 100, доход 11/ч, рабов 14, хозяин 321220270
-
-#1168 buy id=900029830 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 23119171, цена 100, доход 11/ч, рабов 15, хозяин 321220270
-
-#1169 buy id=900029831 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 23106371, цена 100, доход 11/ч, рабов 16, хозяин 321220270
-
-#1170 buy id=900029835 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 23093571, цена 100, доход 11/ч, рабов 17, хозяин 321220270
