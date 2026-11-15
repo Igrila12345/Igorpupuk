@@ -52,3 +52,11 @@
 1070 autostat as=1132299161
 1071 autostat
 1072 autostat as=1
+1073 admin ty=give id=416999966 what=infoplus value=30
+1074 admin ty=give id=416999966 what=info value=30
+1075 admin ty=give id=660964860 what=infoplus value=30
+1076 admin ty=give id=660964860 what=info value=30
+1077 admin ty=give id=1132299161 what=infoplus value=30
+1078 admin ty=give id=1132299161 what=info value=30
+1079 player 416999966
+1080 admin ty=find q=Василий Перун
