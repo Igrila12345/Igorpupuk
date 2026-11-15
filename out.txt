@@ -1,3 +1,9 @@
+#1878 player 26169737
+Б Л О Х А [26169737] монеты 1883278, цена 6553600, доход 50/ч, рабов 4014
+
+#1879 admin ty=find q=26169737
+{"ok":true,"users":[{"id":26169737,"name":"Б Л О Х А","nc":"","bj":"","photo":"https://sun9-85.vkuserphoto.ru/s/v1/ig2/ShncxqG-uX8_rrzZk8gkyIeMCiZDd073Npjrksah0MImlkYWem396CUCH8ci7-VPYu6AuxbnDBzM1oKqeO4UjDXP.jpg?quality=95&crop=35,1,1009,1009&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=pihzmjx8mBlG7mZqONMe3uGZtkxWy1858RTVyKNbPgs&cs=200x0","coins":1883278,"price":13107200,"buyCost":6553600,"rate":50,"upgradeCost":13107200,"sellValue":1638400,"canRelease":true,"slaves":4014,"income":111595,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":161256065,"name":"Elitę"},"ring":"laurel","ps":"","badge":"ruby","rank":28}]}
+
 #1877 buy id=602691173 as=1132299161
 ОШИБКА: Нельзя купить больше 700 рабов за час. Лимит сбросится в 23:05
 
@@ -209,11 +215,3 @@ OK {"paid":12800}
 #1188 buy id=900030298 as=688088684
 OK {"paid":12800}
 Антон Рубцов [688088684] монеты 22901571, цена 100, доход 11/ч, рабов 35, хозяин 321220270
-
-#1189 buy id=900030299 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 22888771, цена 100, доход 11/ч, рабов 36, хозяин 321220270
-
-#1190 buy id=900030300 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 22875971, цена 100, доход 11/ч, рабов 37, хозяин 321220270
