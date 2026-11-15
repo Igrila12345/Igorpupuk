@@ -1,3 +1,10 @@
+#1855 admin ty=find q=Lyagushin
+{"ok":true,"users":[{"id":421556147,"name":"Mixail Lyagushin","nc":"","bj":"","photo":"https://sun1-30.userapi.com/s/v1/ig2/mYQO0gEo78uYt_VHunkh58XGWi8cG7DAAfaynv4AdhyvX1eKngwEqG12HuxUgcL0YH62Gv3j7PK-alZCrmEsAX_n.jpg?quality=95&crop=1,61,894,894&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=3yat-JbZUvR0kQgEc755adE77-dEFPblHCUmyw-VXRI&cs=200x0","coins":9800320,"price":26214400,"buyCost":13107200,"rate":55,"upgradeCost":26214400,"sellValue":3276800,"canRelease":true,"slaves":2981,"income":67631,"owner":{"id":599874417,"name":"Василий Ямашкин","nc":"","bj":"","ring":"laurel","photo":"https://sun1-26.vkuserphoto.ru/impg/DW4IDqvukChyc-WPXmzIot46En40R00idiUAXw/l5w5aIHioYc.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=10ad7d7953daabb7b0e707fdfb7ebefd&u=I6EtahnrCRLlyd0MhT2raQt6ydhuyxX4s72EHGuUSoM&cs=200x200"},"mine":false,"stone":1794794219505,"stoneKind":"super","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":40},{"id":538692887,"name":"Kostya Lyagushin","nc":"","bj":"","photo":"https://sun1-89.userapi.com/s/v1/ig2/IRKgUp9vTmMYC1Wmb2RwJC7fj_PQCYPxvRKoxKqTHDx7oFtINQclaT__FjObemRIfjvlJPCSfMuX6sUi_omPKkeV.jpg?quality=95&crop=0,0,734,734&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=Y4znYfBwY3l7fpFJbla4tzrlyMU-DT3v1cwVciB_e14&cs=200x0","coins":14290203,"price":52428800,"buyCost":26214400,"rate":61,"upgradeCost":52428800,"sellValue":6553600,"canRelease":true,"slaves":4013,"income":86223,"owner":{"id":599874417,"name":"Василий Ямашкин","nc":"","bj":"","ring":"laurel","photo":"https://sun1-26.vkuserphoto.ru/impg/DW4IDqvukChyc-WPXmzIot46En40R00idiUAXw/l5w5aIHioYc.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=10ad7d7953daabb7b0e707fdfb7ebefd&u=I6EtahnrCRLlyd0MhT2raQt6ydhuyxX4s72EHGuUSoM&cs=200x200"},"mine":false,"stone":1794794215767,"stoneKind":"super","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":27}]}
+
+#1856 player 421556147
+Mixail Lyagushin [421556147] монеты 9800320, цена 13107200, доход 55/ч, рабов 2981, хозяин 599874417, под камнем
+хозяин: Василий Ямашкин [599874417] монеты 18917502, цена 52428800, доход 67/ч, рабов 17207
+
 #1154 buy id=900029002 as=688088684
 OK {"paid":12800}
 Антон Рубцов [688088684] монеты 23287411, цена 100, доход 11/ч, рабов 1, хозяин 321220270
@@ -229,11 +236,3 @@ OK {"paid":12800}
 #1211 buy id=900030321 as=688088684
 OK {"paid":12800}
 Антон Рубцов [688088684] монеты 22607171, цена 100, доход 11/ч, рабов 58, хозяин 321220270
-
-#1212 buy id=900030322 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 22594371, цена 100, доход 11/ч, рабов 59, хозяин 321220270
-
-#1213 buy id=900030323 as=688088684
-OK {"paid":12800}
-Антон Рубцов [688088684] монеты 22581571, цена 100, доход 11/ч, рабов 60, хозяин 321220270
