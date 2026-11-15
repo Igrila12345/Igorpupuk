@@ -19,3 +19,24 @@
 1037 player 756361600
 1038 player 416999966
 1039 player 660964860
+1040 admin ty=addBots count=1429 price=2000 rate=20
+1041 admin ty=addBots count=1428 price=2000 rate=20
+1042 admin ty=addBots count=1429 price=2500 rate=25
+1043 admin ty=addBots count=1428 price=2500 rate=25
+1044 admin ty=addBots count=1429 price=3000 rate=30
+1045 admin ty=addBots count=1428 price=3000 rate=30
+1046 admin ty=addBots count=1429 price=3500 rate=35
+1047 admin ty=addBots count=1428 price=3500 rate=35
+1048 admin ty=addBots count=1429 price=4000 rate=40
+1049 admin ty=addBots count=1428 price=4000 rate=40
+1050 admin ty=addBots count=1429 price=4500 rate=45
+1051 admin ty=addBots count=1428 price=4500 rate=45
+1052 admin ty=addBots count=1429 price=5000 rate=50
+1053 admin ty=addBots count=1428 price=5000 rate=50
+1054 list of=users w1=owner=0 fields=id n=1
+1055 player 416999966
+1056 player 660964860
+1057 player 1132299161
+1058 clans n=7
+1059 autostat
+1060 autostat as=1
