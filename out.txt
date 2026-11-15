@@ -1,3 +1,10 @@
+#1081 bulkstat
+OK {"running":false,"done":500,"of":500,"fail":0,"spent":498400,"stop":"","sec":307}
+—
+
+#1082 autostat
+каждые 60 мин, по 500, пауза 150 мс, следующая через 40 мин; сейчас ждёт; прошлая: куплено 500 на 498400
+
 #1073 admin ty=give id=416999966 what=infoplus value=30
 {"ok":true}
 
@@ -196,9 +203,3 @@ Shadow Morningstar [660964860] монеты 1200, цена 52428800, доход 
 5. 乂•ROLLEX•乂 [224328649] доход 173707599, игроков 31
 6. Requiem [222830640] доход 144707022, игроков 6
 7. Сказочные долбо#бы [212896729] доход 73955695, игроков 8
-
-#1029 autostat
-каждые 60 мин, по 500, пауза 150 мс, следующая через 40 мин; сейчас ждёт; прошлая: куплено 1 на 100, стоп: Недостаточно монет
-
-#1019 admin ty=find q=870580522
-{"ok":true,"users":[{"id":870580522,"name":"Анастасия Красина","nc":"","bj":"","photo":"https://sun1-30.vkuserphoto.ru/s/v1/ig2/S8NnqDYu0OPBjlkY3VRZYIbJV-_zHlDRTsetIiRnGswNbvq9epgvexq-eDzT8W_Df9nBWpSeyVunwUtgn8Oi9At9.jpg?quality=95&crop=0,59,711,711&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640&ava=1&u=5M_zgOdKjXC1gLrIYK5GfvuLE3TD1JYUxmh9CTM9CDc&cs=200x0","coins":9894495,"price":409600,"buyCost":409600,"rate":31,"upgradeCost":409600,"sellValue":102400,"canRelease":false,"slaves":1632,"income":50599,"owner":null,"mine":false,"stone":0,"stoneKind":"","shield":0,"umbrella":false,"protectedBy":"","clan":{"id":231068212,"name":"__Snow elves___Walkers__"},"ring":"laurel","ps":"","badge":"ruby","rank":37}]}
