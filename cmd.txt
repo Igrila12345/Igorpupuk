@@ -861,3 +861,6 @@
 1880 admin ty=suspects all=1
 1881 collect
 1882 buy id=602691173 as=1132299161
+1883 admin ty=find q=Бусарнов
+1884 admin ty=find q=Busarnov
+1885 admin ty=find q=Роман
