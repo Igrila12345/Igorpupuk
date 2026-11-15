@@ -1,3 +1,23 @@
+#1061 redeem as=1132299161
+OK {"paid":83886080}
+Аделина Преображенская [1132299161] монеты 94023043, цена 419430400, доход 92/ч, рабов 1581
+
+#1062 admin ty=give id=416999966 what=coins value=2450000
+{"ok":true,"value":2751958}
+
+#1063 redeem
+OK {"paid":2621440}
+Василий Перун [416999966] монеты 130518, цена 13107200, доход 89/ч, рабов 22863
+
+#1064 player 1132299161
+Аделина Преображенская [1132299161] монеты 94023043, цена 419430400, доход 92/ч, рабов 1580
+
+#1065 player 416999966
+Василий Перун [416999966] монеты 130518, цена 13107200, доход 89/ч, рабов 22863
+
+#1066 player 660964860
+Shadow Morningstar [660964860] монеты 954464, цена 26214400, доход 61/ч, рабов 38544
+
 #1040 admin ty=addBots count=1429 price=2000 rate=20
 {"ok":true,"added":1429}
 
@@ -182,21 +202,3 @@ Shadow Morningstar [660964860] монеты 583700, цена 52428800, дохо�
 
 #1007 admin ty=addBots count=1071 price=3500 rate=35
 {"ok":true,"added":1071}
-
-#1008 admin ty=addBots count=1071 price=4000 rate=40
-{"ok":true,"added":1071}
-
-#1009 admin ty=addBots count=1071 price=4000 rate=40
-{"ok":true,"added":1071}
-
-#1010 admin ty=addBots count=1071 price=4500 rate=45
-{"ok":true,"added":1071}
-
-#1011 admin ty=addBots count=1071 price=4500 rate=45
-{"ok":true,"added":1071}
-
-#1012 admin ty=addBots count=1074 price=5000 rate=50
-{"ok":true,"added":1074}
-
-#1013 admin ty=addBots count=1074 price=5000 rate=50
-{"ok":true,"added":1074}
