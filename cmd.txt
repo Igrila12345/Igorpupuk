@@ -62,3 +62,8 @@
 1080 admin ty=find q=Василий Перун
 1081 bulkstat
 1082 autostat
+1083 auto every=60 n=700 gap=50 collect=0
+1084 auto every=60 n=700 gap=50 collect=0 as=1132299161
+1085 autostat
+1086 autostat as=1132299161
+1087 autostat as=1
