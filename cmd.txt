@@ -951,3 +951,4 @@
 1970 me as=1
 1971 admin ty=petGive id=660964860 pet=mammoth level=50
 1972 me as=1
+1973 bulk n=3 gap=150 as=1
