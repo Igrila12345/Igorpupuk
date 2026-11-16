@@ -1,3 +1,54 @@
+#1955 auto every=60 n=700 gap=50 collect=0 as=1
+автозакупка: каждые 60 мин, по 700, пауза 150 мс
+
+#1956 admin ty=addBots count=1429 price=4000 rate=20
+{"ok":true,"added":1429}
+
+#1957 admin ty=addBots count=1428 price=4000 rate=20
+{"ok":true,"added":1428}
+
+#1958 admin ty=addBots count=1429 price=5000 rate=25
+{"ok":true,"added":1429}
+
+#1959 admin ty=addBots count=1428 price=5000 rate=25
+{"ok":true,"added":1428}
+
+#1960 admin ty=addBots count=1429 price=6000 rate=30
+{"ok":true,"added":1429}
+
+#1961 admin ty=addBots count=1428 price=6000 rate=30
+{"ok":true,"added":1428}
+
+#1962 admin ty=addBots count=1429 price=7000 rate=35
+{"ok":true,"added":1429}
+
+#1963 admin ty=addBots count=1428 price=7000 rate=35
+{"ok":true,"added":1428}
+
+#1964 admin ty=addBots count=1429 price=8000 rate=40
+{"ok":true,"added":1429}
+
+#1965 admin ty=addBots count=1428 price=8000 rate=40
+{"ok":true,"added":1428}
+
+#1966 admin ty=addBots count=1429 price=9000 rate=45
+{"ok":true,"added":1429}
+
+#1967 admin ty=addBots count=1428 price=9000 rate=45
+{"ok":true,"added":1428}
+
+#1968 admin ty=addBots count=1429 price=10000 rate=50
+{"ok":true,"added":1429}
+
+#1969 admin ty=addBots count=1428 price=10000 rate=50
+{"ok":true,"added":1428}
+
+#1970 me as=1
+Shadow Morningstar [660964860] монеты 22330221, цена 209715200, доход 74/ч, рабов 50100
+limitLeft: 700
+stones: 245
+gems: 680
+
 #1954 collect as=1132299161
 OK {"amount":5895162,"base":32310,"bonuses":[{"n":"Кнут","p":25,"c":8077},{"n":"Инфа+","p":10,"c":3231}]}
 Аделина Преображенская [1132299161] монеты 126011164, цена 838860800, доход 92/ч, рабов 14395
@@ -150,52 +201,3 @@ Kostya Lyagushin [538692887] монеты 12863261, цена 104857600, дохо
 
 #1905 admin ty=addBots count=1429 price=3000 rate=30
 {"ok":true,"added":1429}
-
-#1906 admin ty=addBots count=1428 price=3000 rate=30
-{"ok":true,"added":1428}
-
-#1907 admin ty=addBots count=1429 price=3500 rate=35
-{"ok":true,"added":1429}
-
-#1908 admin ty=addBots count=1429 price=3500 rate=35
-{"ok":true,"added":1429}
-
-#1909 admin ty=addBots count=1428 price=3500 rate=35
-{"ok":true,"added":1428}
-
-#1910 admin ty=addBots count=1429 price=4000 rate=40
-{"ok":true,"added":1429}
-
-#1911 admin ty=addBots count=1429 price=4000 rate=40
-{"ok":true,"added":1429}
-
-#1912 admin ty=addBots count=1428 price=4000 rate=40
-{"ok":true,"added":1428}
-
-#1913 admin ty=addBots count=1429 price=4500 rate=45
-{"ok":true,"added":1429}
-
-#1914 admin ty=addBots count=1429 price=4500 rate=45
-{"ok":true,"added":1429}
-
-#1915 admin ty=addBots count=1428 price=4500 rate=45
-{"ok":true,"added":1428}
-
-#1916 admin ty=addBots count=1428 price=5000 rate=50
-{"ok":true,"added":1428}
-
-#1917 admin ty=addBots count=1428 price=5000 rate=50
-{"ok":true,"added":1428}
-
-#1918 admin ty=addBots count=1428 price=5000 rate=50
-{"ok":true,"added":1428}
-
-#1896 player 1065679388
-Vitalik Zefir-Morningstar [1065679388] монеты 30372815, цена 209715200, доход 81/ч, рабов 49914
-
-#1897 player 416999966
-Василий Перун [416999966] монеты 10557092, цена 26214400, доход 94/ч, рабов 23994, хозяин 1065679388
-хозяин: Vitalik Zefir-Morningstar [1065679388] монеты 30372815, цена 209715200, доход 81/ч, рабов 49914
-
-#1893 auto off as=688088684
-автозакупка выключена
