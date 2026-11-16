@@ -1145,3 +1145,10 @@
 2164 admin ty=give id=454703133 what=gems value=30
 2165 player 454703133
 2166 player 888884972
+2167 admin ty=addBots count=1428 price=4000 rate=20
+2168 admin ty=addBots count=1428 price=5000 rate=25
+2169 admin ty=addBots count=1428 price=6000 rate=30
+2170 admin ty=addBots count=1428 price=7000 rate=35
+2171 admin ty=addBots count=1428 price=8000 rate=40
+2172 admin ty=addBots count=1428 price=9000 rate=45
+2173 admin ty=addBots count=1432 price=10000 rate=50
