@@ -1143,3 +1143,5 @@
 2162 admin ty=give id=547100496 what=gems value=30
 2163 admin ty=give id=454703133 what=coins value=1000000
 2164 admin ty=give id=454703133 what=gems value=30
+2165 player 454703133
+2166 player 888884972
