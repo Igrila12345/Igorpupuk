@@ -907,3 +907,24 @@
 1926 release id=602691173 as=1132299161
 1927 player 479094212
 1928 release id=479094212 as=1132299161
+1929 admin ty=addBots count=1429 price=4000 rate=20
+1930 admin ty=addBots count=1429 price=4000 rate=20
+1931 admin ty=addBots count=1428 price=4000 rate=20
+1932 admin ty=addBots count=1429 price=5000 rate=25
+1933 admin ty=addBots count=1429 price=5000 rate=25
+1934 admin ty=addBots count=1428 price=5000 rate=25
+1935 admin ty=addBots count=1429 price=6000 rate=30
+1936 admin ty=addBots count=1429 price=6000 rate=30
+1937 admin ty=addBots count=1428 price=6000 rate=30
+1938 admin ty=addBots count=1429 price=7000 rate=35
+1939 admin ty=addBots count=1429 price=7000 rate=35
+1940 admin ty=addBots count=1428 price=7000 rate=35
+1941 admin ty=addBots count=1429 price=8000 rate=40
+1942 admin ty=addBots count=1429 price=8000 rate=40
+1943 admin ty=addBots count=1428 price=8000 rate=40
+1944 admin ty=addBots count=1429 price=9000 rate=45
+1945 admin ty=addBots count=1429 price=9000 rate=45
+1946 admin ty=addBots count=1428 price=9000 rate=45
+1947 admin ty=addBots count=1428 price=10000 rate=50
+1948 admin ty=addBots count=1428 price=10000 rate=50
+1949 admin ty=addBots count=1428 price=10000 rate=50
