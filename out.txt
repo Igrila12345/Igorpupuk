@@ -1,3 +1,7 @@
+#1973 bulk n=3 gap=150 as=1
+OK {"started":3,"gap":150}
+—
+
 #1971 admin ty=petGive id=660964860 pet=mammoth level=50
 {"ok":true,"text":"mammoth ★50"}
 
@@ -201,6 +205,3 @@ Kostya Lyagushin [538692887] монеты 12863261, цена 104857600, дохо
 
 #1902 admin ty=addBots count=1429 price=2500 rate=25
 {"ok":true,"added":1429}
-
-#1903 admin ty=addBots count=1428 price=2500 rate=25
-{"ok":true,"added":1428}
