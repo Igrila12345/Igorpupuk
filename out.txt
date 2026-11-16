@@ -1,3 +1,13 @@
+#1974 bulkstat
+OK {"running":false,"done":0,"of":3,"fail":0,"spent":0,"stop":"Достигнут лимит: не больше 50100 рабов","sec":85}
+—
+
+#1975 me as=1
+Shadow Morningstar [660964860] монеты 22330221, цена 209715200, доход 74/ч, рабов 50100
+limitLeft: 700
+stones: 245
+gems: 680
+
 #1973 bulk n=3 gap=150 as=1
 OK {"started":3,"gap":150}
 —
@@ -199,9 +209,3 @@ Kostya Lyagushin [538692887] монеты 12863261, цена 104857600, дохо
 
 #1900 admin ty=addBots count=1428 price=2000 rate=20
 {"ok":true,"added":1428}
-
-#1901 admin ty=addBots count=1429 price=2500 rate=25
-{"ok":true,"added":1429}
-
-#1902 admin ty=addBots count=1429 price=2500 rate=25
-{"ok":true,"added":1429}
