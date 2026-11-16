@@ -928,3 +928,7 @@
 1947 admin ty=addBots count=1428 price=10000 rate=50
 1948 admin ty=addBots count=1428 price=10000 rate=50
 1949 admin ty=addBots count=1428 price=10000 rate=50
+1950 me
+1951 me as=1
+1952 me as=1132299161
+1953 autostat
