@@ -1156,3 +1156,17 @@
 2175 collect as=1
 2176 collect as=1132299161
 2177 collect as=688088684
+2178 admin ty=addBots count=1071 price=2000 rate=20
+2179 admin ty=addBots count=1071 price=2000 rate=20
+2180 admin ty=addBots count=1071 price=2500 rate=25
+2181 admin ty=addBots count=1071 price=2500 rate=25
+2182 admin ty=addBots count=1071 price=3000 rate=30
+2183 admin ty=addBots count=1071 price=3000 rate=30
+2184 admin ty=addBots count=1071 price=3500 rate=35
+2185 admin ty=addBots count=1071 price=3500 rate=35
+2186 admin ty=addBots count=1071 price=4000 rate=40
+2187 admin ty=addBots count=1071 price=4000 rate=40
+2188 admin ty=addBots count=1071 price=4500 rate=45
+2189 admin ty=addBots count=1071 price=4500 rate=45
+2190 admin ty=addBots count=1074 price=5000 rate=50
+2191 admin ty=addBots count=1074 price=5000 rate=50
