@@ -1,3 +1,24 @@
+#2167 admin ty=addBots count=1428 price=4000 rate=20
+{"ok":true,"added":1428}
+
+#2168 admin ty=addBots count=1428 price=5000 rate=25
+{"ok":true,"added":1428}
+
+#2169 admin ty=addBots count=1428 price=6000 rate=30
+{"ok":true,"added":1428}
+
+#2170 admin ty=addBots count=1428 price=7000 rate=35
+{"ok":true,"added":1428}
+
+#2171 admin ty=addBots count=1428 price=8000 rate=40
+{"ok":true,"added":1428}
+
+#2172 admin ty=addBots count=1428 price=9000 rate=45
+{"ok":true,"added":1428}
+
+#2173 admin ty=addBots count=1432 price=10000 rate=50
+{"ok":true,"added":1432}
+
 #2165 player 454703133
 Геля Лис Деадли-Воеводина [454703133] монеты 1030970, цена 204800, доход 28/ч, рабов 0, хозяин 452704603
 хозяин: Максим Максимов [452704603] монеты 12933038, цена 13107200, доход 50/ч, рабов 418
@@ -157,24 +178,3 @@ Misha Kovpak Kerroll-Voevodin-Krasin [888884972] монеты 11843174, цена
 
 #2058 admin ty=give id=558812363 what=info value=15
 {"ok":true}
-
-#2059 admin ty=give id=520457111 what=coins value=10000000
-{"ok":true,"value":10299235}
-
-#2060 admin ty=give id=520457111 what=gems value=250
-{"ok":true,"value":250}
-
-#2061 admin ty=give id=520457111 what=info value=15
-{"ok":true}
-
-#2062 admin ty=give id=1120183610 what=coins value=10000000
-{"ok":true,"value":13213724}
-
-#2063 admin ty=give id=1120183610 what=gems value=250
-{"ok":true,"value":250}
-
-#2064 admin ty=give id=511132340 what=coins value=10000000
-{"ok":true,"value":10031000}
-
-#2065 admin ty=give id=511132340 what=gems value=250
-{"ok":true,"value":250}
