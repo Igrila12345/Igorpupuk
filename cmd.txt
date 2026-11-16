@@ -1170,3 +1170,5 @@
 2189 admin ty=addBots count=1071 price=4500 rate=45
 2190 admin ty=addBots count=1074 price=5000 rate=50
 2191 admin ty=addBots count=1074 price=5000 rate=50
+2192 auto off as=1132299161
+2193 autostat as=1132299161
