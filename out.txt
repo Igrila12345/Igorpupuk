@@ -1,3 +1,13 @@
+#1990 bulkstat
+OK {"running":true,"done":500,"of":700,"fail":0,"spent":2000000,"stop":"","sec":93}
+—
+
+#1991 me as=1
+Shadow Morningstar [660964860] монеты 20270221, цена 209715200, доход 74/ч, рабов 50604
+limitLeft: 197
+stones: 245
+gems: 6530
+
 #1988 bulkstat
 OK {"running":false,"done":700,"of":700,"fail":0,"spent":2800000,"stop":"","sec":1341}
 —
@@ -217,10 +227,4 @@ gems: 7820
 {"ok":true,"added":1429}
 
 #1946 admin ty=addBots count=1428 price=9000 rate=45
-{"ok":true,"added":1428}
-
-#1947 admin ty=addBots count=1428 price=10000 rate=50
-{"ok":true,"added":1428}
-
-#1948 admin ty=addBots count=1428 price=10000 rate=50
 {"ok":true,"added":1428}
