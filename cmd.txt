@@ -949,3 +949,5 @@
 1968 admin ty=addBots count=1429 price=10000 rate=50
 1969 admin ty=addBots count=1428 price=10000 rate=50
 1970 me as=1
+1971 admin ty=petGive id=660964860 pet=mammoth level=50
+1972 me as=1
