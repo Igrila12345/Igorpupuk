@@ -1,3 +1,45 @@
+#2178 admin ty=addBots count=1071 price=2000 rate=20
+{"ok":true,"added":1071}
+
+#2179 admin ty=addBots count=1071 price=2000 rate=20
+{"ok":true,"added":1071}
+
+#2180 admin ty=addBots count=1071 price=2500 rate=25
+{"ok":true,"added":1071}
+
+#2181 admin ty=addBots count=1071 price=2500 rate=25
+{"ok":true,"added":1071}
+
+#2182 admin ty=addBots count=1071 price=3000 rate=30
+{"ok":true,"added":1071}
+
+#2183 admin ty=addBots count=1071 price=3000 rate=30
+{"ok":true,"added":1071}
+
+#2184 admin ty=addBots count=1071 price=3500 rate=35
+{"ok":true,"added":1071}
+
+#2185 admin ty=addBots count=1071 price=3500 rate=35
+{"ok":true,"added":1071}
+
+#2186 admin ty=addBots count=1071 price=4000 rate=40
+{"ok":true,"added":1071}
+
+#2187 admin ty=addBots count=1071 price=4000 rate=40
+{"ok":true,"added":1071}
+
+#2188 admin ty=addBots count=1071 price=4500 rate=45
+{"ok":true,"added":1071}
+
+#2189 admin ty=addBots count=1071 price=4500 rate=45
+{"ok":true,"added":1071}
+
+#2190 admin ty=addBots count=1074 price=5000 rate=50
+{"ok":true,"added":1074}
+
+#2191 admin ty=addBots count=1074 price=5000 rate=50
+{"ok":true,"added":1074}
+
 #2174 collect
 OK {"amount":10624018,"base":3195089,"bonuses":[{"n":"Кнут","p":25,"c":798772},{"n":"Инфа+","p":10,"c":319508}]}
 Василий Перун [416999966] монеты 10626636, цена 52428800, доход 94/ч, рабов 28967, хозяин 1065679388
@@ -139,46 +181,4 @@ Misha Kovpak Kerroll-Voevodin-Krasin [888884972] монеты 11843174, цена
 {"ok":true,"value":16074319}
 
 #2040 admin ty=give id=618821251 what=gems value=350
-{"ok":true,"value":350}
-
-#2041 admin ty=give id=877902736 what=coins value=15000000
-{"ok":true,"value":15447643}
-
-#2042 admin ty=give id=877902736 what=gems value=350
-{"ok":true,"value":350}
-
-#2043 admin ty=give id=877902736 what=info value=30
-{"ok":true}
-
-#2044 admin ty=give id=602715105 what=coins value=15000000
-{"ok":true,"value":15564159}
-
-#2045 admin ty=give id=602715105 what=gems value=350
-{"ok":true,"value":350}
-
-#2046 admin ty=give id=40432342 what=coins value=15000000
-{"ok":true,"value":15406998}
-
-#2047 admin ty=give id=40432342 what=gems value=350
-{"ok":true,"value":350}
-
-#2048 admin ty=give id=40432342 what=info value=30
-{"ok":true}
-
-#2049 admin ty=give id=749846682 what=coins value=15000000
-{"ok":true,"value":17494431}
-
-#2050 admin ty=give id=749846682 what=gems value=350
-{"ok":true,"value":350}
-
-#2051 admin ty=give id=479094212 what=coins value=15000000
-{"ok":true,"value":102875092}
-
-#2052 admin ty=give id=479094212 what=gems value=350
-{"ok":true,"value":380}
-
-#2053 admin ty=give id=1107424416 what=coins value=15000000
-{"ok":true,"value":62907759}
-
-#2054 admin ty=give id=1107424416 what=gems value=350
 {"ok":true,"value":350}
