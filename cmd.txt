@@ -1152,3 +1152,7 @@
 2171 admin ty=addBots count=1428 price=8000 rate=40
 2172 admin ty=addBots count=1428 price=9000 rate=45
 2173 admin ty=addBots count=1432 price=10000 rate=50
+2174 collect
+2175 collect as=1
+2176 collect as=1132299161
+2177 collect as=688088684
