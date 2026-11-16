@@ -1,3 +1,9 @@
+#2192 auto off as=1132299161
+автозакупка выключена
+
+#2193 autostat as=1132299161
+выключена
+
 #2178 admin ty=addBots count=1071 price=2000 rate=20
 {"ok":true,"added":1071}
 
@@ -175,10 +181,4 @@ Misha Kovpak Kerroll-Voevodin-Krasin [888884972] монеты 11843174, цена
 {"ok":true,"value":15425802}
 
 #2038 admin ty=give id=849354968 what=gems value=350
-{"ok":true,"value":350}
-
-#2039 admin ty=give id=618821251 what=coins value=15000000
-{"ok":true,"value":16074319}
-
-#2040 admin ty=give id=618821251 what=gems value=350
 {"ok":true,"value":350}
