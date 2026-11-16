@@ -933,3 +933,19 @@
 1952 me as=1132299161
 1953 autostat
 1954 collect as=1132299161
+1955 auto every=60 n=700 gap=50 collect=0 as=1
+1956 admin ty=addBots count=1429 price=4000 rate=20
+1957 admin ty=addBots count=1428 price=4000 rate=20
+1958 admin ty=addBots count=1429 price=5000 rate=25
+1959 admin ty=addBots count=1428 price=5000 rate=25
+1960 admin ty=addBots count=1429 price=6000 rate=30
+1961 admin ty=addBots count=1428 price=6000 rate=30
+1962 admin ty=addBots count=1429 price=7000 rate=35
+1963 admin ty=addBots count=1428 price=7000 rate=35
+1964 admin ty=addBots count=1429 price=8000 rate=40
+1965 admin ty=addBots count=1428 price=8000 rate=40
+1966 admin ty=addBots count=1429 price=9000 rate=45
+1967 admin ty=addBots count=1428 price=9000 rate=45
+1968 admin ty=addBots count=1429 price=10000 rate=50
+1969 admin ty=addBots count=1428 price=10000 rate=50
+1970 me as=1
