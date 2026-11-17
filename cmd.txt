@@ -1174,3 +1174,4 @@
 2193 autostat as=1132299161
 2194 collect as=1132299161
 2195 list of=users w1=id<=899999999 fields=slaves sort=-slaves n=100
+2196 list of=users w1=id<=899999999 w2=slaves<=2000 fields=slaves sort=-slaves n=60
