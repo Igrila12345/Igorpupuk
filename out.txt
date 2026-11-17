@@ -1,3 +1,10 @@
+#2197 list of=users w1=id<=899999999 w2=slaves<=47 fields=slaves sort=-slaves n=4
+всего: 188
+1. [652442259] slaves=47
+2. [615235567] slaves=31
+3. [877902736] slaves=28
+4. [522612031] slaves=20
+
 #2196 list of=users w1=id<=899999999 w2=slaves<=2000 fields=slaves sort=-slaves n=60
 всего: 237
 1. [686585051] slaves=1840
@@ -280,6 +287,3 @@ Misha Kovpak Kerroll-Voevodin-Krasin [888884972] монеты 11843174, цена
 
 #2034 admin ty=give id=652442259 what=coins value=15000000
 {"ok":true,"value":15012953}
-
-#2035 admin ty=give id=652442259 what=gems value=350
-{"ok":true,"value":350}
