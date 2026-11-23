@@ -1,3 +1,10 @@
+#2198 me
+Василий Перун [416999966] монеты 1473, цена 52428800, доход 94/ч, рабов 32537, хозяин 1065679388
+limitLeft: 700
+stones: 10
+gems: 90
+хозяин: Vitalik Zefir-Morningstar [1065679388] монеты 211676912, цена 419430400, доход 81/ч, рабов 49154
+
 #2197 list of=users w1=id<=899999999 w2=slaves<=47 fields=slaves sort=-slaves n=4
 всего: 188
 1. [652442259] slaves=47
@@ -284,6 +291,3 @@ Misha Kovpak Kerroll-Voevodin-Krasin [888884972] монеты 11843174, цена
 
 #2033 admin ty=give id=464050595 what=info value=30
 {"ok":true}
-
-#2034 admin ty=give id=652442259 what=coins value=15000000
-{"ok":true,"value":15012953}
